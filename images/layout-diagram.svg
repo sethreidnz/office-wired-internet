@@ -1,28 +1,32 @@
-<svg width="554" height="600" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<svg width="554" height="650" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
   <!-- Background -->
-  <rect width="800" height="600" fill="#f5f5f0"/>
+  <rect width="554" height="650" fill="#f5f5f0"/>
 
   <!-- Grass (green, top right) -->
-  <rect x="215" y="1" width="329" height="224" fill="#3f7f00" stroke="#000" stroke-width="1"/>
+  <rect x="215" y="1" width="329" height="274" fill="#3f7f00" stroke="#000" stroke-width="1"/>
 
   <!-- Driveway + front of office area (grey, combined polygon) -->
-  <polygon points="9,165 109,165 109,175 215,175 215,264 109,264 109,598 9,598"
+  <polygon points="9,165 109,165 109,175 215,175 215,314 109,314 109,648 9,648"
            fill="#7f7f7f" stroke="#000" stroke-width="1"/>
 
   <!-- Horizontal footpath (grey) -->
-  <rect x="215" y="225" width="329" height="39" fill="#7f7f7f" stroke="#000" stroke-width="1"/>
+  <rect x="215" y="275" width="329" height="39" fill="#7f7f7f" stroke="#000" stroke-width="1"/>
 
   <!-- Vertical footpath (grey) -->
-  <rect x="500" y="264" width="44" height="152" fill="#7f7f7f" stroke="#000" stroke-width="1"/>
+  <rect x="500" y="314" width="44" height="152" fill="#7f7f7f" stroke="#000" stroke-width="1"/>
+
+  <!-- Office door -->
+  <rect x="109" y="165" width="25" height="10" fill="#333" stroke="#000" stroke-width="1"/>
+  <text x="121" y="173" text-anchor="middle" fill="white" font-size="7">Door</text>
 
   <!-- Dirt (brown, below office) -->
   <rect x="134" y="165" width="81" height="10" fill="#59320e" stroke="#000" stroke-width="1"/>
 
   <!-- Dirt (brown, right of house) -->
-  <rect x="474" y="264" width="26" height="152" fill="#59320e" stroke="#000" stroke-width="1"/>
+  <rect x="474" y="314" width="26" height="152" fill="#59320e" stroke="#000" stroke-width="1"/>
 
   <!-- House (yellow, rectangle) -->
-  <rect x="109" y="264" width="365" height="334" fill="#ffff00" stroke="#000" stroke-width="2"/>
+  <rect x="109" y="314" width="365" height="334" fill="#ffff00" stroke="#000" stroke-width="2"/>
 
   <!-- Garage (orange) -->
   <rect x="9" y="1" width="100" height="164" fill="#db791e" stroke="#000" stroke-width="2"/>
@@ -33,13 +37,13 @@
   <!-- Labels -->
   <text x="59" y="90" text-anchor="middle" fill="white" font-weight="bold" font-size="16">Garage</text>
   <text x="162" y="90" text-anchor="middle" fill="white" font-weight="bold" font-size="16">Office</text>
-  <text x="380" y="120" text-anchor="middle" fill="white" font-weight="bold" font-size="20">Grass</text>
-  <text x="59" y="400" text-anchor="middle" fill="white" font-weight="bold" font-size="14">Driveway</text>
-  <text x="380" y="248" text-anchor="middle" fill="white" font-weight="bold" font-size="13">Footpath</text>
-  <text x="522" y="350" text-anchor="middle" fill="white" font-weight="bold" font-size="12"
-        transform="rotate(-90,522,350)">Footpath</text>
-  <text x="292" y="440" text-anchor="middle" fill="#333" font-weight="bold" font-size="22">House</text>
+  <text x="380" y="140" text-anchor="middle" fill="white" font-weight="bold" font-size="20">Grass</text>
+  <text x="59" y="420" text-anchor="middle" fill="white" font-weight="bold" font-size="14">Driveway</text>
+  <text x="380" y="298" text-anchor="middle" fill="white" font-weight="bold" font-size="13">Footpath</text>
+  <text x="522" y="400" text-anchor="middle" fill="white" font-weight="bold" font-size="12"
+        transform="rotate(-90,522,400)">Footpath</text>
+  <text x="292" y="490" text-anchor="middle" fill="#333" font-weight="bold" font-size="22">House</text>
   <text x="174" y="173" text-anchor="middle" fill="white" font-size="8">Dirt</text>
-  <text x="487" y="345" text-anchor="middle" fill="white" font-size="10"
-        transform="rotate(-90,487,345)">Dirt</text>
+  <text x="487" y="395" text-anchor="middle" fill="white" font-size="10"
+        transform="rotate(-90,487,395)">Dirt</text>
 </svg>
