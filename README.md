@@ -70,3 +70,45 @@ Things to measure:
 
 Total Cable: (Distance 1 + 2 + 3 + 4) + 5 meters extra for slack and bends.
 Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting and fitting.
+
+## Measurements
+
+- house
+  - Path along side - 500cm
+  - Path to kitchen window - 450cm
+  - Kitchen window to fibre box - 110cm
+  - Fibre box to end of house 150cm
+  - Down from suffit = 272cm
+  - From downpipe to path = 105cm
+- Path
+  - 80cm width
+  - 10cm depth (into ground)
+- Grass
+  - Along house - 6900cm
+  - To office - 6450cm
+- Office outside
+  - From corner to heat pump pipe - 80cm
+  - Up to water pipes - 205cm
+  - Up pipe to above door space - 30cm
+  - From heat pump pipe to office wall space - 310cm
+- Inside office
+  - Distance into room in wall space - 270cm
+  - Width 365cm
+  - Depth 500cm
+  - Wall width - approx 25cm
+
+### Diagram Shape Dimensions (for to-scale bird's-eye view)
+
+| Shape | Width | Depth | Notes |
+|-------|-------|-------|-------|
+| Office | 365cm | 500cm | From inside measurements |
+| Garage | 365cm | 500cm | Assuming same as office |
+| Wall Space | 25cm | 500cm | Between garage and office |
+| Driveway | 365cm | 645cm | Assuming same width as garage |
+| Dirt (below office) | 365cm | 60cm | Estimated |
+| Footpath (horizontal) | 1835cm | 80cm | Full width of property |
+| Footpath (vertical) | 80cm | 1210cm | Path width measured |
+| Grass | 690cm | 645cm | Along house / to office |
+| House | 1080cm | 1210cm | Office+wall+grass width, sum of path measurements |
+| Soffit | 60cm | 60cm | Overhang around house (estimated) |
+| Dirt (right of house) | 60cm | 1210cm | Estimated width |
