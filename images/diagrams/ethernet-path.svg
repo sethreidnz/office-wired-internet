@@ -82,4 +82,20 @@
   <rect x="455" y="590" width="8" height="14" fill="#000" stroke="#000" stroke-width="1"/>
   <text x="440" y="600" text-anchor="end" fill="#333" font-size="9">Ethernet Port</text>
   <line x1="442" y1="597" x2="453" y2="597" stroke="#333" stroke-width="1" marker-end="url(#arrowhead)"/>
+  <!-- Ethernet cable route (red dotted line) -->
+  <path d="
+    M 116,83
+    L 109,83
+    L 109,170
+    L 215,170
+    L 460,275
+    L 460,597
+  "
+  fill="none" stroke="#e63946" stroke-width="3" stroke-dasharray="8,5"/>
+
+  <!-- Key (top right, in grass) -->
+  <rect x="420" y="15" width="110" height="30" rx="4" fill="rgba(0,0,0,0.4)" stroke="none"/>
+  <line x1="430" y1="30" x2="460" y2="30" stroke="#e63946" stroke-width="3" stroke-dasharray="8,5"/>
+  <text x="467" y="34" fill="white" font-size="10">Ethernet Cable</text>
+
 </svg>
