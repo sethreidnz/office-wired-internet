@@ -12,37 +12,61 @@
       <rect width="700" height="8" fill="#d0d0d0"/>
       <line x1="0" y1="7" x2="700" y2="7" stroke="#bbb" stroke-width="1"/>
     </pattern>
+    <marker id="arrow" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+      <polygon points="0,0 6,2 0,4" fill="#333"/>
+    </marker>
   </defs>
 
   <!-- Sky -->
-  <rect width="700" height="400" fill="#dde4ea"/>
+  <rect width="700" height="400" fill="#87CEEB"/>
 
   <!-- === CREAM WALL (garage side + above door + soffit over office) === -->
-  <rect x="0" y="50" width="700" height="290" fill="#e8e4dc" stroke="none"/>
+  <rect x="0" y="60" width="670" height="280" fill="#e8e4dc" stroke="none"/>
+
+  <!-- Sky blue right of blockwork -->
+  <rect x="670" y="60" width="30" height="280" fill="#87CEEB" stroke="none"/>
 
   <!-- Garage roller door -->
   <rect x="30" y="120" width="170" height="220" fill="url(#roller-door)" stroke="#999" stroke-width="1"/>
 
   <!-- === OFFICE (right) === -->
   <!-- Office wall (concrete block) -->
-  <rect x="290" y="80" width="380" height="260" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
+  <rect x="290" y="110" width="380" height="230" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
+
+  <!-- Cream soffit strip above blockwork -->
+  <rect x="290" y="60" width="380" height="50" fill="#e8e4dc" stroke="none"/>
 
   <!-- === ROOF === -->
   <!-- Roof (slopes up from right to garage peak, then down) -->
   <polygon points="0,70 115,50 700,70 700,80 115,60 0,80" fill="#4a3a2a"/>
 
+  <!-- Sky triangles to cover cream above roof -->
+  <polygon points="0,0 0,70 115,50" fill="#87CEEB"/>
+  <polygon points="0,0 115,50 700,70 700,0" fill="#87CEEB"/>
+
   <!-- === DOOR (centre) === -->
   <!-- Door recess/porch -->
-  <rect x="230" y="95" width="105" height="245" fill="#2a2a2a"/>
+  <rect x="230" y="110" width="105" height="230" fill="#2a2a2a"/>
 
   <!-- Door frame -->
-  <rect x="235" y="100" width="95" height="235" fill="#1a1a1a" stroke="#444" stroke-width="1"/>
+  <rect x="235" y="115" width="95" height="220" fill="#1a1a1a" stroke="#444" stroke-width="1"/>
+
+  <!-- Drain pipe (runs across top of door to end of brickwork) -->
+  <rect x="230" y="100" width="440" height="12" fill="#c0c0c0" stroke="#666" stroke-width="1.5"/>
+  <!-- Pipe brackets -->
+  <rect x="380" y="98" width="6" height="16" fill="#333"/>
+  <rect x="500" y="98" width="6" height="16" fill="#333"/>
+  <rect x="620" y="98" width="6" height="16" fill="#333"/>
+  <!-- Drain pipe label -->
+  <text x="450" y="110" text-anchor="middle" fill="#333" font-size="9">Water Drainage</text>
 
   <!-- Door handle -->
   <rect x="318" y="220" width="4" height="15" fill="#888"/>
 
   <!-- === HEAT PUMP PIPE (from top of heat pump up the wall) === -->
-  <rect x="582" y="100" width="8" height="185" fill="#e8e4dc" stroke="#ccc" stroke-width="0.5"/>
+  <rect x="582" y="140" width="8" height="145" fill="#c0c0c0" stroke="#999" stroke-width="0.5"/>
+  <!-- Box at top of pipe -->
+  <rect x="578" y="130" width="16" height="14" fill="#c0c0c0" stroke="#999" stroke-width="1"/>
 
   <!-- === HEAT PUMP === -->
   <rect x="520" y="285" width="80" height="55" fill="#e0e0e0" stroke="#aaa" stroke-width="1" rx="3"/>
