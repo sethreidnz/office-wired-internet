@@ -22,6 +22,10 @@
 
 ![Ethernet Path](images/diagrams/ethernet-path.svg)
 
+### Office Front Path
+
+![Office Front Path](images/diagrams/office-front-elevation.svg)
+
 ## To purchase
 
 - For office:
