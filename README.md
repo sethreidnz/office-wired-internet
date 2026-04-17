@@ -14,17 +14,21 @@
 
 ## Diagram
 
-### Property Layout
+### Property Layout Top View
 
-![Property Layout](images/diagrams/layout-diagram.svg)
+![Property Layout Top View](images/diagrams/property-layout-top-view.svg)
 
-### Ethernet Path
+### Ethernet Path Top View
 
-![Ethernet Path](images/diagrams/ethernet-path.svg)
+![Ethernet Path Top View](images/diagrams/ethernet-path-top-view.svg)
 
-### Office Front Path
+### Office Front Layout
 
-![Office Front Path](images/diagrams/office-front-elevation.svg)
+![Office Front Layout](images/diagrams/office-front-layout.svg)
+
+### Office Front Ethernet Path
+
+![Office Front Ethernet Path](images/diagrams/office-front-ethernet-path.svg)
 
 ## To purchase
 
