@@ -1,7 +1,5 @@
 # Ethernet in office planning
 
-The plan is that I would a cable through the roof space to the south east corner. Then through the soffit down tidy along with the down pipe. Then we need to dig toward the east and under the footpath, turn left to toward the driveway, turn right at the driveway, then left along the wall of the office. Up and over the door of the office and into the wall space between the garage and the office. Then we need to have the cable com from up where the other electrical cables come down along the wall down to the ethernet port on the wall.
-
 ## Photos
 
 ![House soffit exit point](images/photos/house-soffit-exit-point.jpg)
