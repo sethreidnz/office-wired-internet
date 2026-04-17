@@ -4,19 +4,25 @@ The plan is that I would a cable through the roof space to the south east corner
 
 ## Photos
 
-![House soffit exit point](images/house-soffit-exit-point.jpg)
+![House soffit exit point](images/photos/house-soffit-exit-point.jpg)
 
-![House downpipe bottom](images/house-downpipe-bottom.jpg)
+![House downpipe bottom](images/photos/house-downpipe-bottom.jpg)
 
-![House path 1](images/house-path-1.jpg)
+![House path 1](images/photos/house-path-1.jpg)
 
-![House path 2](images/house-path-2.jpg)
+![House path 2](images/photos/house-path-2.jpg)
 
-![Office front](images/office-front.jpg)
+![Office front](images/photos/office-front.jpg)
 
 ## Diagram
 
-![Property layout and cable route](images/layout-diagram.svg)
+### Property Layout
+
+![Property Layout](images/diagrams/layout-diagram.svg)
+
+### Ethernet Path
+
+![Ethernet Path](images/diagrams/ethernet-path.svg)
 
 ## To purchase
 
