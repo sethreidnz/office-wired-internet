@@ -25,14 +25,24 @@
 
 - House inside (bare cable): ~65cm up through wall into ceiling + ~560cm across roof space (to soffit hole)
 - House downpipe (conduit): 272cm down alongside downpipe
-- House ground to path (conduit, buried): ~105cm
-- Under path (conduit): ~80cm
-- Alongside driveway edge (conduit, buried): ~615cm
-- Alongside horizontal path edge (conduit, buried): ~590cm
+- House ground to path (conduit, buried 30cm deep): ~105cm
+- Under path (conduit, buried below path base): ~80cm
+- **Pull box 1** at driveway edge start (weatherproof junction box)
+- Alongside driveway edge (conduit, buried 30cm deep): ~615cm
+- **Pull box 2** at corner where driveway meets horizontal path
+- Alongside horizontal path edge (conduit, buried 30cm deep): ~590cm
 - Office front (conduit, P-clipped to pipes): 605cm (81+201+154+22+147)
 - Office wall space (bare cable): 270cm down inside wall
 - Office inside (bare cable in trunking): 163cm ceiling to pattress box
 - **Total: ~3,325cm (~33m) + slack**
+
+**Pull segment plan (max 3-4 bends per segment):**
+
+- **Segment 1:** House inside → down downpipe → ground → pull box 1
+- **Segment 2:** Pull box 1 → along driveway edge → pull box 2
+- **Segment 3:** Pull box 2 → along path edge → up office front → into wall space → office inside
+
+Use cable-pulling lubricant at each segment. Use sweep bends instead of standard 90° bends wherever space allows.
 
 ### House Inside Layout
 
