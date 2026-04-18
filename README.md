@@ -86,11 +86,22 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
 - Grass
   - Along house - 690cm
   - To office - 645cm
-- Office outside
-  - From corner to heat pump pipe - 80cm
+- Office outside-
+  - From corner to heat pump pipe left side  - 80cm
   - Up to water pipes - 205cm
   - Up pipe to above door space - 30cm
   - From heat pump pipe to office wall space - 310cm
+  - Overhang to right of office door space - 15cm
+  - Height of above office door 255cm
+  - Hight of office at corner 245c
+  - Outside office width (corner to wall space) — 382
+  - Outside garage width (wall space to other corner) — if different from office 265
+  - Total height from ground to the top of the cream soffit/fascia strip (at the office corner)
+  - Height from ground to the bottom of the water drainage pipe - 2m
+  - Width of the wall space from the outside - 21cm
+  - Width of total door space - 105cm
+  - Distance from edge of office door space and office corner 265cm
+  - Heat pump width 78cm
 - Inside office
   - Distance into room in wall space - 270cm
   - Width 365cm
@@ -101,14 +112,33 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
 
 | Shape | Width | Depth | Notes |
 |-------|-------|-------|-------|
-| Office | 365cm | 500cm | From inside measurements |
-| Garage | 365cm | 500cm | Assuming same as office |
-| Wall Space | 25cm | 500cm | Between garage and office |
-| Driveway | 365cm | 645cm | Gap from office to horizontal path |
-| Dirt (below office) | 365cm | 60cm | Estimated |
+| Office | 382cm | 500cm | Outside measurement |
+| Garage | 265cm | 500cm | Outside measurement |
+| Wall Space | 21cm | 500cm | Between garage and office |
+| Driveway | 265cm | 645cm | Same width as garage |
+| Dirt (below office) | 382cm | 60cm | Estimated |
 | Horizontal Path | 690cm | 80cm | Same width as grass |
 | Vertical Path | 80cm | 1935cm | 645cm above + 80cm horiz path + 1210cm house side |
 | Grass | 690cm | 1145cm | 645cm gap + 500cm office depth, extends alongside office |
-| House | 1080cm | 1210cm | Width: office+wall+grass. Depth: path(500)+window(450)+fibrebox(110)+end(150) |
+| House | 1093cm | 1210cm | Width: office(382)+wall(21)+grass(690). Depth: path(500)+window(450)+fibrebox(110)+end(150) |
 | Soffit | 60cm | 60cm | Overhang around house (estimated) |
 | Dirt (right of house) | 60cm | 1210cm | Estimated width |
+
+### Front Elevation Shape Dimensions (for to-scale office front view)
+
+Working right to left from office corner. Diagram ends at garage door left edge.
+
+| Shape | X from right | Width | Height | Notes |
+|-------|-------------|-------|--------|-------|
+| Office blockwork | 0 | 265cm | 245cm | Corner to door space edge |
+| Heat pump | 1cm | 78cm | 55cm | On ground against wall |
+| HP Pipe | 80cm | 8cm | 205cm | From ground up to water pipe |
+| HP Pipe box | 78cm | 16cm | 14cm | Junction at top of pipe |
+| Water drainage pipe | 80cm | 302cm | 12cm | HP pipe across to wall space (at 200cm height) |
+| Downpipe (vertical) | 252cm | 10cm | 30cm | From water pipe up into roof |
+| Door space | 265cm | 105cm | 255cm | Full door opening |
+| Overhang hatch | 265cm | 105cm | 55cm | Above door, under roof |
+| Wall space | 382cm | 21cm | 245cm | Between office and garage |
+| Garage wall | 403cm | 265cm | 245cm | Only showing to door edge |
+| Cream soffit | 0 | full | ~50cm | Strip above blockwork |
+| Roof/fascia | 0 | full | ~15cm | Slopes up to garage peak |
