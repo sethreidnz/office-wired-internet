@@ -23,12 +23,16 @@
 
 **Cable route segments:**
 
-- Down wall space: 270cm
-- Along office front: 393cm
-- Down alongside driveway edge: 615cm
-- Along horizontal path edge: 590cm
-- Down house wall (path to ethernet port): 1125cm
-- **Total: ≈2,993cm + slack**
+- House inside (bare cable): ~65cm up through wall into ceiling + ~560cm across roof space (to soffit hole)
+- House downpipe (conduit): 272cm down alongside downpipe
+- House ground to path (conduit, buried): ~105cm
+- Under path (conduit): ~80cm
+- Alongside driveway edge (conduit, buried): ~615cm
+- Alongside horizontal path edge (conduit, buried): ~590cm
+- Office front (conduit, P-clipped to pipes): 605cm (81+201+154+22+147)
+- Office wall space (bare cable): 270cm down inside wall
+- Office inside (bare cable in trunking): 163cm ceiling to pattress box
+- **Total: ~3,325cm (~33m) + slack**
 
 ### House Inside Layout
 
@@ -151,36 +155,57 @@
 
 ### House Inside
 
-- 1x Double-Gang Horizontal Wall Plate (Faceplate)
-- 1x Mounting C-Clip/Bracket: For mounting faceplate on plasterboard wall
-- 2x Toolless Cat6 Jacks: One for active line, one spare
-- 2x Cat6 Patch Leads (1m): One for Fibre-to-Deco, one for Deco-to-Wall
+| Item | Qty | Store | Price | Link |
+|------|-----|-------|-------|------|
+| Double-Gang Vertical Wall Plate (Keystone) | 1 | Jaycar | ~$8 | [Wallplates section](https://www.jaycar.co.nz/cables-connectors/wallplates-and-keystone/c/1E) |
+| Mounting C-Clip/Bracket (plasterboard) | 1 | Bunnings | ~$3.32 | [Deta Plaster Clip](https://www.bunnings.co.nz/deta-plaster-clip-mounting-bracket-single-pack_p0310775) |
+| Toolless Cat6 Keystone Jacks | 2 | Jaycar | ~$8 ea | [YN8029](https://www.jaycar.co.nz/rj45-socket-cat6-keystone-jack/p/YN8029) |
+| Cat6 Patch Leads 1m | 2 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Outside Run
 
-- 50m Cat6 Outdoor-Rated Ethernet Cable: Route is ~30m, extra for slack, mistakes, and service loops
-- 8x 20mm Rigid Electrical Conduit (3m lengths): ~24m total for wall drops and buried ground run
-- 8x 20mm Conduit Couplers/Joiners: To connect straight lengths
-- 6x 20mm 90-degree Conduit Bends: House base, driveway corner, path corner, office base, HP-to-water pipe, wall space entry
-- 2x 20mm Conduit Sweep Bends: For gentle direction changes
-- 25x 20mm Conduit Saddles: To fix conduit to walls (~30cm spacing on wall sections)
-- 1x Conduit Glue (PVC Cement): To make joints waterproof
-- 1x Silicone Sealant: To seal holes in soffit and office wall
+| Item | Qty | Store | Price | Link |
+|------|-----|-------|-------|------|
+| Cat6 Outdoor-Rated Cable 50m | 1 | PB Tech | ~$143 | [OPL-UFTP6-50](https://www.pbtech.co.nz/product/CABOPL1012/Cat6-Ethernet-Cable---50m-UFTP---Outdoor---Shielde) |
+| 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
+| 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
+| 20mm 90-degree Conduit Bends | 15 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
+| 20mm Conduit Sweep Bends | 2 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
+| 20mm Stainless Steel P-Clips | 10 | TBC | ~$2 ea | Not found at Mitre 10/Bunnings — try in-store or [RS Online](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/) |
+| Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
+| Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
+| 20mm Conduit Bushes/Grommets | 10 | TBC | ~$1 ea | Not found online — ask in-store at Mitre 10 or try [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
 
 ### Office Inside
 
-- 1x Double-Gang Horizontal Surface Mount Box (Pattress Box)
-- 1x Double-Gang Horizontal Wall Plate Cover
-- 2x Toolless Cat6 Jacks: One active, one spare
-- 2m Mini Trunking (Self-adhesive): For the 163cm ceiling-to-box cable drop
-- 1x 5-Port Gigabit Switch
-- 3x Cat6 Patch Leads: One for Wall-to-Switch, two for laptop docks
+| Item | Qty | Store | Price | Link |
+|------|-----|-------|-------|------|
+| Double Keystone Surface Box (horizontal) | 1 | Jaycar | ~$5 | [YN8024](https://www.jaycar.co.nz/double-keystone-surface-box/p/YN8024) |
+| Toolless Cat6 Keystone Jacks | 2 | Jaycar | ~$8 ea | [YN8029](https://www.jaycar.co.nz/rj45-socket-cat6-keystone-jack/p/YN8029) |
+| Mini Trunking 25x16mm (3m, cut to 2m) | 1 | Mitre 10 | ~$8 | [Marley Mini Trunking](https://www.mitre10.co.nz/shop/marley-mini-trunking-3m-25x16mm-white/p/103197) |
+| 5-Port Gigabit Switch | 1 | Jaycar | ~$48 | [YN8395](https://www.jaycar.co.nz) (search YN8395) |
+| Cat6 Patch Leads 1m | 3 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Tools
 
-- Spade Bit or Hole Saw (20mm or 25mm): For drilling through soffit and walls
-- Fish Tape: For feeding cable through the wall space in the garage
-- Hacksaw or Conduit Cutter: For cutting conduit to length
+| Item | Qty | Store | Price | Link |
+|------|-----|-------|-------|------|
+| Drywall/Jab Saw | 1 | Bunnings | ~$6 | [Craftright 150mm](https://www.bunnings.co.nz/craftright-jab-saw-150mm_p5710163) |
+| 25mm Spade Bit | 1 | Mitre 10 | ~$5.45 | [Spade Bits section](https://www.mitre10.co.nz/shop/tools-equipment/power-tool-accessories/drilling/drilling/flat-spade-bits/c/RC27910) |
+| Fish Tape 15m | 1 | Jaycar | ~$36 | [TH2350](https://www.jaycar.co.nz) (search TH2350) |
+| Hacksaw | 1 | Mitre 10 | ~$15 | Search in-store |
+| Cable Clips 6-8mm (pack) | 1 | Mitre 10 | ~$5 | [HPM Cable Clips](https://www.mitre10.co.nz/shop/hpm-cable-clips/p/388902) |
+| Duct Tape | 1 | Mitre 10 | ~$8 | Available in-store |
+| Safety Glasses | 1 | Mitre 10 | ~$5 | Available in-store |
+| Wall Filler (Polyfilla) | 1 | Mitre 10 | ~$8 | Available in-store |
+| Wire Coat Hanger | 1 | Home | Free | Check your wardrobe |
+
+### Items to find in-store (no online link found)
+
+- **20mm Stainless Steel P-Clips** — try Mitre 10 or Bunnings in-store, or [RS Online NZ](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/)
+- **20mm Conduit Bushes/Grommets** — ask at Mitre 10 electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
+
+### Estimated Total: ~$550-600
 
 ## Raw Measurements Reference
 
@@ -230,6 +255,7 @@
   - Fibre box height — 13cm
   - Ceiling to top of fibre box — 180cm
   - Fibre box to wall entry point — 10cm
+  - Heat pump: 70cm from left edge of fibre box, 78cm wide, 30cm tall, 20cm from ceiling
 
 ---
 
