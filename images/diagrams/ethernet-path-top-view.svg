@@ -101,8 +101,8 @@
 
   <!-- Measurement: Along office bottom (380cm) -->
   <line x1="114" y1="185" x2="114" y2="189" stroke="#000" stroke-width="1"/>
-  <line x1="114" y1="187" x2="228" y2="187" stroke="#000" stroke-width="1"/>
-  <line x1="228" y1="185" x2="228" y2="189" stroke="#000" stroke-width="1"/>
+  <line x1="114" y1="187" x2="225" y2="187" stroke="#000" stroke-width="1"/>
+  <line x1="225" y1="185" x2="225" y2="189" stroke="#000" stroke-width="1"/>
   <text x="171" y="184" text-anchor="middle" fill="#000" font-size="6">380cm</text>
 
   <!-- Measurement: Diagonal (≈849cm) - offset up-right from red line -->
@@ -117,10 +117,10 @@
         transform="rotate(48,324,227)">≈849cm</text>
 
   <!-- Measurement: Down house wall (1100cm) -->
-  <line x1="390" y1="344" x2="394" y2="344" stroke="#000" stroke-width="1"/>
-  <line x1="392" y1="344" x2="392" y2="675" stroke="#000" stroke-width="1"/>
+  <line x1="390" y1="348" x2="394" y2="348" stroke="#000" stroke-width="1"/>
+  <line x1="392" y1="348" x2="392" y2="675" stroke="#000" stroke-width="1"/>
   <line x1="390" y1="675" x2="394" y2="675" stroke="#000" stroke-width="1"/>
-  <text x="386" y="515" text-anchor="end" fill="#000" font-size="6" transform="rotate(-90,386,515)">1100cm</text>
+  <text x="386" y="520" text-anchor="end" fill="#000" font-size="6" transform="rotate(-90,386,520)">1100cm</text>
 
   <!-- Legend (in grass, below label) -->
   <rect x="310" y="45" width="110" height="25" rx="4" fill="rgba(0,0,0,0.4)" stroke="none"/>
