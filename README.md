@@ -30,6 +30,14 @@
 
 ![Office Front Ethernet Path](images/diagrams/office-front-ethernet-path.svg)
 
+### House Downpipe Profile
+
+![House Downpipe Profile](images/diagrams/house-downpipe-profile.svg)
+
+### House Downpipe Ethernet Path
+
+![House Downpipe Ethernet Path](images/diagrams/house-downpipe-ethernet-path.svg)
+
 ## To purchase
 
 - For office:
@@ -74,12 +82,15 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
 ## Measurements
 
 - house
-  - Path along side (up to horizontal path) - 500cm
+  - Path along side - 5m
   - Path to kitchen window - 450cm
-  - Kitchen window to fibre box - 110cm
-  - Fibre box to end of house 150cm
+  - Kitchen window to Browne box - 110cm
   - Down from suffit = 272cm
   - From downpipe to path = 105cm
+  - Downpipe to corner of house - 16cm
+  - Downpipe width 8cm
+  - Soffit 40cm
+  - Dirt bed 80cm depth
 - Path
   - 80cm width
   - 10cm depth (into ground)
@@ -121,8 +132,8 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
 | Vertical Path | 80cm | 1935cm | 645cm above + 80cm horiz path + 1210cm house side |
 | Grass | 690cm | 1145cm | 645cm gap + 500cm office depth, extends alongside office |
 | House | 1093cm | 1210cm | Width: office(382)+wall(21)+grass(690). Depth: path(500)+window(450)+fibrebox(110)+end(150) |
-| Soffit | 60cm | 60cm | Overhang around house (estimated) |
-| Dirt (right of house) | 60cm | 1210cm | Estimated width |
+| Soffit | 40cm | 40cm | Overhang around house |
+| Dirt (around house) | 40cm | 1210cm | Dirt bed around house, outside soffit |
 
 ### Front Elevation Shape Dimensions (for to-scale office front view)
 
@@ -142,3 +153,17 @@ Working right to left from office corner. Diagram ends at garage door left edge.
 | Garage wall | 403cm | 265cm | 245cm | Only showing to door edge |
 | Cream soffit | 0 | full | ~50cm | Strip above blockwork |
 | Roof/fascia | 0 | full | ~15cm | Slopes up to garage peak |
+
+### House Downpipe Profile Dimensions (for to-scale wall front view)
+
+Front elevation looking at the house wall where the downpipe is. Right side is the corner of the house.
+
+| Shape | X from corner (right) | Width | Height | Notes |
+|-------|----------------------|-------|--------|-------|
+| Wall (blockwork) | 0 | ~100cm shown | 272cm | House wall face section |
+| Fascia/roof edge | 0 | full width | 12cm | Eaves edge above wall |
+| Downpipe | 16cm | 8cm | ~268cm | From soffit down to shoe fitting |
+| Pipe shoe fitting | ~20cm | 14cm | 8cm | Elbow/bend at pipe base |
+| Pipe brackets | on pipe | 12cm | 2.5cm | Clips holding pipe to wall, ~70cm apart |
+| Ground/dirt | 0 | full width | visible | Ground level at wall base |
+| Corner edge | 0 | — | 272cm | Bold line marking house corner |

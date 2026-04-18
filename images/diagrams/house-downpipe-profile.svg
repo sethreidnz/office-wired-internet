@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" viewBox="0 -35 140 353" width="250">
+  <defs>
+    <pattern id="blockwork" width="30" height="15" patternUnits="userSpaceOnUse">
+      <rect width="30" height="15" fill="#a0a0a0"/>
+      <line x1="0" y1="0" x2="30" y2="0" stroke="#888" stroke-width="0.5"/>
+      <line x1="15" y1="0" x2="15" y2="7.5" stroke="#888" stroke-width="0.5"/>
+      <line x1="0" y1="7.5" x2="30" y2="7.5" stroke="#888" stroke-width="0.5"/>
+      <line x1="0" y1="7.5" x2="0" y2="15" stroke="#888" stroke-width="0.5"/>
+      <line x1="30" y1="7.5" x2="30" y2="15" stroke="#888" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Sky background -->
+  <rect x="0" y="-35" width="140" height="353" fill="#87CEEB"/>
+
+  <!-- Roof (grey triangle, slopes up from corner toward ridge off-screen left) -->
+  <polygon points="105,8 0,-30 0,8" fill="#888"/>
+
+  <!-- Fascia/gutter (brown strip at eaves) -->
+  <rect x="0" y="8" width="105" height="12" fill="#4a3a2a"/>
+
+  <!-- Wall face (blockwork) -->
+  <rect x="0" y="20" width="105" height="272" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
+
+  <!-- Corner edge (bold line at right edge of wall) -->
+  <line x1="105" y1="8" x2="105" y2="292" stroke="#333" stroke-width="2.5"/>
+
+  <!-- White space below wall for measurements -->
+  <rect x="0" y="292" width="140" height="26" fill="white"/>
+
+  <!-- Downpipe: 16cm from corner, 8cm wide -->
+  <!-- Right edge at x=105-16=89, left edge at x=89-8=81 -->
+  <rect x="81" y="20" width="8" height="272" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
+
+  <!-- Pipe brackets (clips) -->
+  <rect x="79" y="55" width="12" height="2.5" fill="#444" rx="0.5"/>
+  <rect x="79" y="125" width="12" height="2.5" fill="#444" rx="0.5"/>
+  <rect x="79" y="195" width="12" height="2.5" fill="#444" rx="0.5"/>
+  <rect x="79" y="265" width="12" height="2.5" fill="#444" rx="0.5"/>
+
+  <!-- Labels -->
+  <text x="85" y="160" text-anchor="middle" fill="#666" font-size="5" transform="rotate(-90,85,160)">Downpipe</text>
+
+  <!-- Dimension: 272cm wall height (right side) -->
+  <line x1="115" y1="20" x2="125" y2="20" stroke="#333" stroke-width="0.8"/>
+  <line x1="115" y1="292" x2="125" y2="292" stroke="#333" stroke-width="0.8"/>
+  <line x1="120" y1="20" x2="120" y2="292" stroke="#333" stroke-width="0.8"/>
+  <text x="132" y="160" text-anchor="middle" fill="#333" font-size="6" transform="rotate(90,132,160)">272cm</text>
+
+  <!-- Dimension: 16cm from corner to downpipe right edge -->
+  <line x1="89" y1="294" x2="89" y2="300" stroke="#333" stroke-width="0.6"/>
+  <line x1="105" y1="294" x2="105" y2="300" stroke="#333" stroke-width="0.6"/>
+  <line x1="89" y1="297" x2="105" y2="297" stroke="#333" stroke-width="0.6"/>
+  <text x="97" y="305" text-anchor="middle" fill="#333" font-size="4">16cm</text>
+
+  <!-- Dimension: 8cm downpipe width -->
+  <line x1="81" y1="306" x2="81" y2="312" stroke="#333" stroke-width="0.6"/>
+  <line x1="89" y1="306" x2="89" y2="312" stroke="#333" stroke-width="0.6"/>
+  <line x1="81" y1="309" x2="89" y2="309" stroke="#333" stroke-width="0.6"/>
+  <text x="85" y="317" text-anchor="middle" fill="#333" font-size="4">8cm</text>
+</svg>

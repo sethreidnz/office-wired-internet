@@ -48,19 +48,22 @@
   <!-- Vertical Path: x=1358, w=80, h=2435 -->
   <rect x="1358" y="0" width="80" height="2435" fill="#7f7f7f" stroke="#000" stroke-width="2"/>
 
-  <!-- House soffit (hatched, outer): x=286, y=1225, w=1072, h=1210 -->
-  <rect x="286" y="1225" width="1072" height="1210" fill="url(#soffit-hatch)" stroke="#000" stroke-width="4"/>
+  <!-- Dirt bed around house (40cm outside soffit) -->
+  <rect x="286" y="1225" width="1072" height="1210" fill="#59320e" stroke="#000" stroke-width="4"/>
 
-  <!-- House walls (solid yellow, inner): inset 60cm -->
-  <rect x="346" y="1285" width="952" height="1090" fill="#ffff00" stroke="#000" stroke-width="2"/>
+  <!-- House soffit (hatched, 40cm overhang): inset 40cm from dirt -->
+  <rect x="326" y="1265" width="992" height="1130" fill="url(#soffit-hatch)" stroke="#000" stroke-width="3"/>
+
+  <!-- House walls (solid yellow, inner): inset 40cm from soffit -->
+  <rect x="366" y="1305" width="912" height="1050" fill="#ffff00" stroke="#000" stroke-width="2"/>
 
   <!-- House heat pump (under soffit, top-right corner, dashed) -->
-  <rect x="1238" y="1240" width="60" height="30" fill="white" stroke="#000" stroke-width="2" stroke-dasharray="10,5"/>
+  <rect x="1218" y="1250" width="60" height="30" fill="white" stroke="#000" stroke-width="2" stroke-dasharray="10,5"/>
 
   <!-- Fibre box (right wall, 1/5 up from bottom) -->
-  <rect x="1288" y="2190" width="20" height="40" fill="#000" stroke="#000" stroke-width="2"/>
+  <rect x="1268" y="2190" width="20" height="40" fill="#000" stroke="#000" stroke-width="2"/>
   <text x="1450" y="2215" text-anchor="start" fill="#333" font-size="30">Fibre Box</text>
-  <line x1="1440" y1="2210" x2="1312" y2="2210" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="1440" y1="2210" x2="1292" y2="2210" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
 
   <!-- Labels -->
   <text x="132" y="260" text-anchor="middle" fill="white" font-weight="bold" font-size="40">Garage</text>
@@ -74,7 +77,7 @@
         transform="rotate(-90,1398,1300)">Vertical Path</text>
   <text x="820" y="1870" text-anchor="middle" fill="#333" font-weight="bold" font-size="60">House</text>
   <text x="470" y="536" text-anchor="middle" fill="white" font-size="18">Dirt</text>
-  <text x="400" y="1250" fill="#666" font-size="25">Soffit</text>
+  <text x="400" y="1290" fill="#666" font-size="25">Soffit</text>
   <text x="316" y="536" text-anchor="middle" fill="white" font-size="16">Door</text>
 
   <!-- Heat pump label (driveway, pointing up at office one) -->
