@@ -147,33 +147,40 @@
 
 ![Office inside ethernet location](images/photos/office-inside-ethernet-location.jpg)
 
-## To purchase
+## To Purchase
 
-- For office:
-  - 1x Single-Gang Surface Mount Box (Pattress Box): Make sure the depth matches your wall plate covers.
-  - 1x Wall Plate Cover: To screw onto the box.
-  - 2x Toolless Cat6 Jack: (If you’re sticking to the "one cable" plan, you only need one here, but having a spare is fine).
-  - 3–4m Mini Trunking: (Self-adhesive).
-  - 1x 5-Port Gigabit Switch: The "brain" of the office desk.
-  - 3x Cat6 Patch Leads: One for Wall-to-Switch, two for your laptop docks.
-  - Fish Tape - For feeding the cable in the wall in the garage
-- For inside
-  - 1x Double RJ45 Wall Plate (Faceplate).
-  - 1x Mounting "C-Clip" or Bracket: Since you are putting a plate on a plasterboard wall, you need the little metal bracket that sits behind the wall for the plate to screw into.
-  - 2x Toolless Cat6 Jacks: (One for your active line, one to fill the second hole as a spare).
-  - 2x Cat6 Patch Leads (1m): One for Fibre-to-Deco, one for Deco-to-Wall.
-- For outside (the run)
-  - Cat6 Outdoor-Rated Ethernet Cable: (Measure your TBCs and add 5 meters for "oops" room).
-  - 20mm Electrical Conduit: (Rigid grey pipe for the wall drop and underground).
-  - 20mm Conduit Saddles: (To fix the pipe to the brick/wood).
-  - 20mm Conduit Fittings: Sweep Bends
-  - 90-degree Bends/Elbows: To go from vertical wall to horizontal ground.
-  - Conduit Glue (PVC Cement): To make the joints waterproof.
-  - Silicone Sealant: To seal the holes in the soffit and the office wall.
-  - 1x 20mm Conduit Junction Box (Surface Mount)
-  - Or 1x 20mm Female Adaptor
-- Tools:
-  - "Spade Bit" or "Hole Saw" (usually 20mm or 25mm)
+### House Inside
+
+- 1x Double-Gang Horizontal Wall Plate (Faceplate)
+- 1x Mounting C-Clip/Bracket: For mounting faceplate on plasterboard wall
+- 2x Toolless Cat6 Jacks: One for active line, one spare
+- 2x Cat6 Patch Leads (1m): One for Fibre-to-Deco, one for Deco-to-Wall
+
+### Outside Run
+
+- 50m Cat6 Outdoor-Rated Ethernet Cable: Route is ~30m, extra for slack, mistakes, and service loops
+- 8x 20mm Rigid Electrical Conduit (3m lengths): ~24m total for wall drops and buried ground run
+- 8x 20mm Conduit Couplers/Joiners: To connect straight lengths
+- 6x 20mm 90-degree Conduit Bends: House base, driveway corner, path corner, office base, HP-to-water pipe, wall space entry
+- 2x 20mm Conduit Sweep Bends: For gentle direction changes
+- 25x 20mm Conduit Saddles: To fix conduit to walls (~30cm spacing on wall sections)
+- 1x Conduit Glue (PVC Cement): To make joints waterproof
+- 1x Silicone Sealant: To seal holes in soffit and office wall
+
+### Office Inside
+
+- 1x Double-Gang Horizontal Surface Mount Box (Pattress Box)
+- 1x Double-Gang Horizontal Wall Plate Cover
+- 2x Toolless Cat6 Jacks: One active, one spare
+- 2m Mini Trunking (Self-adhesive): For the 163cm ceiling-to-box cable drop
+- 1x 5-Port Gigabit Switch
+- 3x Cat6 Patch Leads: One for Wall-to-Switch, two for laptop docks
+
+### Tools
+
+- Spade Bit or Hole Saw (20mm or 25mm): For drilling through soffit and walls
+- Fish Tape: For feeding cable through the wall space in the garage
+- Hacksaw or Conduit Cutter: For cutting conduit to length
 
 ## Raw Measurements Reference
 
