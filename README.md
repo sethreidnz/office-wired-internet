@@ -120,7 +120,7 @@
 
 ![Office pipeline side profile](images/photos/office-pipeline-side-profile.jpg)
 
-![Office water pipe connection to roofspace](images/photos/office-water-pipe-conenction-to-roofspace.jpg)
+![Office water pipe connection to roofspace](images/photos/office-water-pipe-connection-to-roofspace.jpg)
 
 ![Wallspace above office door](images/photos/wallspace-above-office-door.jpg)
 
@@ -192,7 +192,7 @@
 |------|-----|-------|-------|------|
 | Drywall/Jab Saw | 1 | Bunnings | ~$6 | [Craftright 150mm](https://www.bunnings.co.nz/craftright-jab-saw-150mm_p5710163) |
 | 25mm Spade Bit | 1 | Mitre 10 | ~$5.45 | [Spade Bits section](https://www.mitre10.co.nz/shop/tools-equipment/power-tool-accessories/drilling/drilling/flat-spade-bits/c/RC27910) |
-| Fish Tape 15m | 1 | Jaycar | ~$36 | [TH2350](https://www.jaycar.co.nz) (search TH2350) |
+| Fish Tape 30m | 1 | Jaycar | ~$50 | [TH2355](https://www.jaycar.co.nz) (search TH2355) |
 | Hacksaw | 1 | Mitre 10 | ~$15 | Search in-store |
 | Cable Clips 6-8mm (pack) | 1 | Mitre 10 | ~$5 | [HPM Cable Clips](https://www.mitre10.co.nz/shop/hpm-cable-clips/p/388902) |
 | Duct Tape | 1 | Mitre 10 | ~$8 | Available in-store |
