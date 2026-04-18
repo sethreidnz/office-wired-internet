@@ -74,7 +74,7 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
 ## Measurements
 
 - house
-  - Path along side - 500cm
+  - Path along side (up to horizontal path) - 500cm
   - Path to kitchen window - 450cm
   - Kitchen window to fibre box - 110cm
   - Fibre box to end of house 150cm
@@ -84,8 +84,8 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
   - 80cm width
   - 10cm depth (into ground)
 - Grass
-  - Along house - 6900cm
-  - To office - 6450cm
+  - Along house - 690cm
+  - To office - 645cm
 - Office outside
   - From corner to heat pump pipe - 80cm
   - Up to water pipes - 205cm
@@ -104,11 +104,11 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
 | Office | 365cm | 500cm | From inside measurements |
 | Garage | 365cm | 500cm | Assuming same as office |
 | Wall Space | 25cm | 500cm | Between garage and office |
-| Driveway | 365cm | 645cm | Assuming same width as garage |
+| Driveway | 365cm | 645cm | Gap from office to horizontal path |
 | Dirt (below office) | 365cm | 60cm | Estimated |
-| Footpath (horizontal) | 1835cm | 80cm | Full width of property |
-| Footpath (vertical) | 80cm | 1210cm | Path width measured |
-| Grass | 690cm | 645cm | Along house / to office |
-| House | 1080cm | 1210cm | Office+wall+grass width, sum of path measurements |
+| Horizontal Path | 690cm | 80cm | Same width as grass |
+| Vertical Path | 80cm | 1935cm | 645cm above + 80cm horiz path + 1210cm house side |
+| Grass | 690cm | 1145cm | 645cm gap + 500cm office depth, extends alongside office |
+| House | 1080cm | 1210cm | Width: office+wall+grass. Depth: path(500)+window(450)+fibrebox(110)+end(150) |
 | Soffit | 60cm | 60cm | Overhang around house (estimated) |
 | Dirt (right of house) | 60cm | 1210cm | Estimated width |
