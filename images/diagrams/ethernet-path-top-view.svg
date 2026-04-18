@@ -1,129 +1,125 @@
-<svg width="560" height="740" viewBox="0 0 550 731" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" viewBox="0 0 1700 2435" width="500">
   <defs>
-    <pattern id="soffit-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <rect width="8" height="8" fill="#ffff00"/>
-      <line x1="0" y1="0" x2="0" y2="8" stroke="#cccc00" stroke-width="2"/>
+    <pattern id="soffit-hatch" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="40" height="40" fill="#ffff00"/>
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#cccc00" stroke-width="8"/>
     </pattern>
     <marker id="arrowhead" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
       <polygon points="0,0 6,2 0,4" fill="#333"/>
     </marker>
-    <marker id="arrowhead-left" markerWidth="6" markerHeight="4" refX="0" refY="2" orient="auto">
-      <polygon points="6,0 0,2 6,4" fill="#333"/>
-    </marker>
   </defs>
 
   <!-- White background for label area -->
-  <rect x="441" y="0" width="109" height="731" fill="white"/>
+  <rect x="1525" y="0" width="175" height="2435" fill="white"/>
 
-  <!-- Garage: x=0, y=0, w=110, h=150 -->
-  <rect x="0" y="0" width="110" height="150" fill="#db791e" stroke="#000" stroke-width="2"/>
+  <!-- Garage: 365x500 -->
+  <rect x="0" y="0" width="365" height="500" fill="#db791e" stroke="#000" stroke-width="4"/>
 
-  <!-- Wall Space: x=110, y=0, w=8, h=150 -->
-  <rect x="110" y="0" width="8" height="150" fill="#8B6914" stroke="#000" stroke-width="1"/>
+  <!-- Wall Space: 25x500 -->
+  <rect x="365" y="0" width="25" height="500" fill="#8B6914" stroke="#000" stroke-width="2"/>
 
-  <!-- Office: x=118, y=0, w=110, h=150 -->
-  <rect x="118" y="0" width="110" height="150" fill="#2a6dbf" stroke="#000" stroke-width="2"/>
+  <!-- Office: 365x500 -->
+  <rect x="390" y="0" width="365" height="500" fill="#2a6dbf" stroke="#000" stroke-width="4"/>
 
-  <!-- Office door: bottom of office, left side -->
-  <rect x="118" y="150" width="20" height="5" fill="#333" stroke="#000" stroke-width="1"/>
+  <!-- Office door -->
+  <rect x="390" y="500" width="60" height="60" fill="#333" stroke="#000" stroke-width="2"/>
 
-  <!-- Dirt (below office): x=138, y=150, w=90, h=18 -->
-  <rect x="138" y="150" width="90" height="18" fill="#59320e" stroke="#000" stroke-width="1"/>
+  <!-- Dirt below office -->
+  <rect x="450" y="500" width="305" height="60" fill="#59320e" stroke="#000" stroke-width="2"/>
 
-  <!-- Driveway (grey, L-shape with area in front of office) -->
-  <polygon points="0,150 118,150 118,168 228,168 228,368 118,368 118,368 0,368 0,150"
-           fill="#7f7f7f" stroke="#000" stroke-width="1"/>
-  <!-- Driveway continues down -->
-  <rect x="0" y="368" width="118" height="144" fill="#7f7f7f" stroke="#000" stroke-width="1"/>
+  <!-- Heat pump -->
+  <rect x="625" y="515" width="60" height="30" fill="white" stroke="#000" stroke-width="2"/>
 
-  <!-- Grass: x=228, y=0, w=207, h=344 -->
-  <rect x="228" y="0" width="207" height="344" fill="#3f7f00" stroke="#000" stroke-width="1"/>
+  <!-- Driveway (L-shape) -->
+  <polygon points="0,500 390,500 390,560 755,560 755,1145 390,1145 0,1145"
+           fill="#7f7f7f" stroke="#000" stroke-width="2"/>
+  <rect x="0" y="1145" width="390" height="80" fill="#7f7f7f" stroke="#000" stroke-width="2"/>
 
-  <!-- Horizontal Path: x=228, y=344, w=207, h=24 -->
-  <rect x="228" y="344" width="207" height="24" fill="#7f7f7f" stroke="#000" stroke-width="1"/>
+  <!-- Grass: 690x1145 -->
+  <rect x="755" y="0" width="690" height="1145" fill="#3f7f00" stroke="#000" stroke-width="2"/>
 
-  <!-- Vertical Path: x=417, y=0, w=24, h=731 -->
-  <rect x="417" y="0" width="24" height="731" fill="#7f7f7f" stroke="#000" stroke-width="1"/>
+  <!-- Horizontal Path: 690x80 -->
+  <rect x="755" y="1145" width="690" height="80" fill="#7f7f7f" stroke="#000" stroke-width="2"/>
 
-  <!-- House soffit (hatched, outer): x=118, y=368, w=299, h=363 -->
-  <rect x="118" y="368" width="299" height="363" fill="url(#soffit-hatch)" stroke="#000" stroke-width="2"/>
+  <!-- Vertical Path: 80x2435 -->
+  <rect x="1445" y="0" width="80" height="2435" fill="#7f7f7f" stroke="#000" stroke-width="2"/>
 
-  <!-- House walls (solid yellow, inner): x=136, y=386, w=263, h=327 -->
-  <rect x="136" y="386" width="263" height="327" fill="#ffff00" stroke="#000" stroke-width="1"/>
+  <!-- House soffit (hatched, outer): 1055x1210 -->
+  <rect x="390" y="1225" width="1055" height="1210" fill="url(#soffit-hatch)" stroke="#000" stroke-width="4"/>
 
-  <!-- Fibre box (right wall, 1/5 up from bottom) -->
-  <rect x="395" y="655" width="6" height="10" fill="#000" stroke="#000" stroke-width="1"/>
-  <!-- Fibre box label (outside, right of path) -->
-  <text x="455" y="663" text-anchor="start" fill="#333" font-size="8">Fibre Box</text>
-  <line x1="453" y1="660" x2="403" y2="660" stroke="#333" stroke-width="1" marker-end="url(#arrowhead)"/>
+  <!-- House walls (solid yellow, inner) -->
+  <rect x="450" y="1285" width="935" height="1090" fill="#ffff00" stroke="#000" stroke-width="2"/>
 
-  <!-- Labels -->
-  <text x="55" y="80" text-anchor="middle" fill="white" font-weight="bold" font-size="12">Garage</text>
-  <text x="114" y="80" text-anchor="middle" fill="white" font-weight="bold" font-size="5"
-        transform="rotate(-90,114,80)">Wall Space</text>
-  <text x="173" y="50" text-anchor="middle" fill="white" font-weight="bold" font-size="12">Office</text>
-  <text x="331" y="30" text-anchor="middle" fill="white" font-weight="bold" font-size="16">Grass</text>
-  <text x="55" y="350" text-anchor="middle" fill="white" font-weight="bold" font-size="11">Driveway</text>
-  <text x="331" y="360" text-anchor="middle" fill="white" font-weight="bold" font-size="9">Horizontal Path</text>
-  <text x="429" y="400" text-anchor="middle" fill="white" font-weight="bold" font-size="8"
-        transform="rotate(-90,429,400)">Vertical Path</text>
-  <text x="267" y="560" text-anchor="middle" fill="#333" font-weight="bold" font-size="18">House</text>
-  <text x="170" y="162" text-anchor="middle" fill="white" font-size="6">Dirt</text>
-  <text x="155" y="380" fill="#666" font-size="7">Soffit</text>
-  <text x="131" y="156" text-anchor="middle" fill="white" font-size="5">Door</text>
+  <!-- House heat pump (under soffit, top-right corner) -->
+  <rect x="1325" y="1240" width="60" height="30" fill="white" stroke="#000" stroke-width="2" stroke-dasharray="10,5"/>
+
+  <!-- Fibre box -->
+  <rect x="1375" y="2190" width="20" height="40" fill="#000" stroke="#000" stroke-width="2"/>
+  <text x="1540" y="2215" text-anchor="start" fill="#333" font-size="30">Fibre Box</text>
+  <line x1="1530" y1="2210" x2="1400" y2="2210" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
 
   <!-- Office ethernet port (on wall space wall) -->
-  <rect x="115" y="70" width="6" height="10" fill="#000" stroke="#000" stroke-width="1"/>
-  <text x="135" y="78" text-anchor="start" fill="white" font-size="7">Ethernet Port</text>
+  <rect x="385" y="220" width="20" height="40" fill="#000" stroke="#000" stroke-width="2"/>
+  <text x="430" y="245" text-anchor="start" fill="white" font-size="24">Ethernet Port</text>
 
   <!-- House ethernet port (below fibre box) -->
-  <rect x="395" y="670" width="6" height="10" fill="#000" stroke="#000" stroke-width="1"/>
-  <!-- Ethernet port label (outside, right of path) -->
-  <text x="455" y="678" text-anchor="start" fill="#333" font-size="8">Ethernet Port</text>
-  <line x1="453" y1="675" x2="403" y2="675" stroke="#333" stroke-width="1" marker-end="url(#arrowhead)"/>
+  <rect x="1375" y="2250" width="20" height="40" fill="#000" stroke="#000" stroke-width="2"/>
+  <text x="1540" y="2275" text-anchor="start" fill="#333" font-size="30">Ethernet Port</text>
+  <line x1="1530" y1="2270" x2="1400" y2="2270" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+  <!-- Labels -->
+  <text x="182" y="260" text-anchor="middle" fill="white" font-weight="bold" font-size="45">Garage</text>
+  <text x="377" y="260" text-anchor="middle" fill="white" font-weight="bold" font-size="18"
+        transform="rotate(-90,377,260)">Wall Space</text>
+  <text x="572" y="160" text-anchor="middle" fill="white" font-weight="bold" font-size="45">Office</text>
+  <text x="1100" y="100" text-anchor="middle" fill="white" font-weight="bold" font-size="55">Grass</text>
+  <text x="195" y="900" text-anchor="middle" fill="white" font-weight="bold" font-size="40">Driveway</text>
+  <text x="1100" y="1195" text-anchor="middle" fill="white" font-weight="bold" font-size="35">Horizontal Path</text>
+  <text x="1485" y="1300" text-anchor="middle" fill="white" font-weight="bold" font-size="30"
+        transform="rotate(-90,1485,1300)">Vertical Path</text>
+  <text x="900" y="1870" text-anchor="middle" fill="#333" font-weight="bold" font-size="60">House</text>
+  <text x="570" y="516" text-anchor="middle" fill="white" font-size="18">Dirt</text>
+  <text x="500" y="1250" fill="#666" font-size="25">Soffit</text>
+  <text x="420" y="516" text-anchor="middle" fill="white" font-size="16">Door</text>
 
   <!-- Ethernet cable route (red dotted line) -->
   <path d="
-    M 118,75
-    L 114,75
-    L 114,155
-    L 228,155
-    L 399,344
-    L 399,675
+    M 390,240
+    L 377,240
+    L 377,510
+    L 755,510
+    L 1385,1225
+    L 1385,2270
   "
-  fill="none" stroke="#e63946" stroke-width="3" stroke-dasharray="8,5"/>
+  fill="none" stroke="#e63946" stroke-width="10" stroke-dasharray="25,15"/>
 
   <!-- Measurement: Down wall space (270cm) -->
-  <line x1="96" y1="75" x2="100" y2="75" stroke="#000" stroke-width="1"/>
-  <line x1="98" y1="75" x2="98" y2="165" stroke="#000" stroke-width="1"/>
-  <line x1="96" y1="165" x2="100" y2="165" stroke="#000" stroke-width="1"/>
-  <text x="92" y="123" text-anchor="end" fill="#000" font-size="6" transform="rotate(-90,92,123)">270cm</text>
+  <line x1="320" y1="240" x2="340" y2="240" stroke="#000" stroke-width="3"/>
+  <line x1="330" y1="240" x2="330" y2="520" stroke="#000" stroke-width="3"/>
+  <line x1="320" y1="520" x2="340" y2="520" stroke="#000" stroke-width="3"/>
+  <text x="315" y="390" text-anchor="end" fill="#000" font-size="22" transform="rotate(-90,315,390)">270cm</text>
 
   <!-- Measurement: Along office bottom (380cm) -->
-  <line x1="114" y1="185" x2="114" y2="189" stroke="#000" stroke-width="1"/>
-  <line x1="114" y1="187" x2="225" y2="187" stroke="#000" stroke-width="1"/>
-  <line x1="225" y1="185" x2="225" y2="189" stroke="#000" stroke-width="1"/>
-  <text x="171" y="184" text-anchor="middle" fill="#000" font-size="6">380cm</text>
+  <line x1="377" y1="555" x2="377" y2="575" stroke="#000" stroke-width="3"/>
+  <line x1="377" y1="565" x2="750" y2="565" stroke="#000" stroke-width="3"/>
+  <line x1="750" y1="555" x2="750" y2="575" stroke="#000" stroke-width="3"/>
+  <text x="563" y="555" text-anchor="middle" fill="#000" font-size="22">380cm</text>
 
-  <!-- Measurement: Diagonal (≈849cm) - offset up-right from red line -->
-  <!-- Start tick (perpendicular to 48° diagonal) -->
-  <line x1="241" y1="136" x2="235" y2="142" stroke="#000" stroke-width="1"/>
-  <!-- Measurement line parallel to cable -->
-  <line x1="238" y1="139" x2="409" y2="328" stroke="#000" stroke-width="1"/>
-  <!-- End tick -->
-  <line x1="412" y1="325" x2="406" y2="331" stroke="#000" stroke-width="1"/>
-  <!-- Label rotated to match line angle -->
-  <text x="324" y="227" text-anchor="middle" fill="#000" font-size="6" font-weight="bold"
-        transform="rotate(48,324,227)">≈849cm</text>
+  <!-- Measurement: Diagonal (≈849cm) -->
+  <line x1="780" y1="480" x2="772" y2="490" stroke="#000" stroke-width="3"/>
+  <line x1="776" y1="485" x2="1410" y2="1195" stroke="#000" stroke-width="3"/>
+  <line x1="1414" y1="1190" x2="1406" y2="1200" stroke="#000" stroke-width="3"/>
+  <text x="1095" y="825" text-anchor="middle" fill="#000" font-size="22" font-weight="bold"
+        transform="rotate(48,1095,825)">≈849cm</text>
 
   <!-- Measurement: Down house wall (1100cm) -->
-  <line x1="390" y1="348" x2="394" y2="348" stroke="#000" stroke-width="1"/>
-  <line x1="392" y1="348" x2="392" y2="675" stroke="#000" stroke-width="1"/>
-  <line x1="390" y1="675" x2="394" y2="675" stroke="#000" stroke-width="1"/>
-  <text x="386" y="520" text-anchor="end" fill="#000" font-size="6" transform="rotate(-90,386,520)">1100cm</text>
+  <line x1="1350" y1="1235" x2="1370" y2="1235" stroke="#000" stroke-width="3"/>
+  <line x1="1360" y1="1235" x2="1360" y2="2270" stroke="#000" stroke-width="3"/>
+  <line x1="1350" y1="2270" x2="1370" y2="2270" stroke="#000" stroke-width="3"/>
+  <text x="1345" y="1770" text-anchor="end" fill="#000" font-size="22" transform="rotate(-90,1345,1770)">1100cm</text>
 
-  <!-- Legend (in grass, below label) -->
-  <rect x="310" y="45" width="110" height="25" rx="4" fill="rgba(0,0,0,0.4)" stroke="none"/>
-  <line x1="318" y1="58" x2="348" y2="58" stroke="#e63946" stroke-width="3" stroke-dasharray="8,5"/>
-  <text x="355" y="62" fill="white" font-size="9">Ethernet Cable</text>
+  <!-- Legend -->
+  <rect x="1050" y="150" width="350" height="80" rx="10" fill="rgba(0,0,0,0.4)" stroke="none"/>
+  <line x1="1075" y1="190" x2="1150" y2="190" stroke="#e63946" stroke-width="10" stroke-dasharray="25,15"/>
+  <text x="1170" y="200" fill="white" font-size="30">Ethernet Cable</text>
 </svg>
