@@ -1,0 +1,27 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_2" height="600" width="7" y="-2" x="0" fill="#0c0c0c"/>
+  <line id="svg_3" y2="428" x2="391" y1="427" x1="13" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_4" y="413" x="168" stroke="#000" fill="#000000">255cm</text>
+  <rect id="svg_6" height="18" width="47" y="418" x="390" stroke-width="0" stroke="#000" fill="#000000"/>
+  <rect id="svg_7" height="21" width="42" y="418" x="520" stroke-width="0" stroke="#000" fill="#000000"/>
+  <rect stroke="#000" id="svg_8" height="40" width="22" y="105" x="625" stroke-width="0" fill="#000000"/>
+  <line id="svg_9" y2="405" x2="515" y1="404" x1="390" stroke="#000" fill="none"/>
+  <rect id="svg_10" height="5" width="85" y="425" x="436" stroke-width="0" stroke="#000" fill="#e5e5e5"/>
+  <rect id="svg_11" height="7" width="83" y="423" x="561" stroke-width="0" stroke="#000" fill="#e5e5e5"/>
+  <rect id="svg_12" height="278" width="9" y="144" x="631" stroke-width="0" stroke="#000" fill="#e5e5e5"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_13" y="390" x="434" stroke-width="0" stroke="#000" fill="#000000">67cm</text>
+  <line id="svg_14" y2="382" x2="631" y1="381" x1="518" stroke="#000" fill="none"/>
+  <line id="svg_15" y2="374" x2="460" y1="373" x1="460" stroke="#000" fill="none"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_16" y="371" x="544" stroke-width="0" stroke="#000" fill="#000000">70cm</text>
+  <line id="svg_19" y2="414" x2="380" y1="21" x1="377" stroke="#000" fill="none"/>
+  <line id="svg_20" y2="215" x2="498" y1="214" x1="499" stroke="#000" fill="none"/>
+  <text style="cursor: move;" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_21" y="191" x="389" stroke-width="0" fill="#000000">67cm</text>
+  <line id="svg_22" y2="97" x2="634" y1="3" x1="632" stroke="#000" fill="none"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_23" y="60" x="641" stroke-width="0" stroke="#000" fill="#000000">25cm</text>
+  <line id="svg_24" y2="447" x2="439" y1="447" x1="391" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_25" y="473" x="388" stroke-width="0" stroke="#000" fill="#000000">12cm</text>
+ </g>
+
+</svg>

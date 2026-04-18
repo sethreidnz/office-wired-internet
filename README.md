@@ -76,6 +76,31 @@
 
 ![Wallspace above office door](images/photos/wallspace-above-office-door.jpg)
 
+### Office Inside Layout
+
+![Office Inside Layout](images/diagrams/office-inside-layout.svg)
+
+**Key dimensions (wall space wall profile, door on left):**
+
+- Wall shown: ~460cm wide, 215cm floor to ceiling
+- Door to plug 1: 255cm
+- Plug 1 to plug 2: 67cm
+- Plug 2 to corner (going right): 70cm
+- Vertical trunking up: 67cm
+- Ceiling to power back box: 25cm
+- All boxes: 12cm wide
+- New ethernet box: 10cm left of plug 1
+
+### Office Inside Ethernet Path
+
+![Office Inside Ethernet Path](images/diagrams/office-inside-ethernet-path.svg)
+
+**Conduit route:**
+
+- Cable comes through ceiling from wall space, drops 163cm straight down to new ethernet pattress box (10cm left of plug 1)
+
+#### Photos — Office Inside
+
 ![Office inside ethernet location](images/photos/office-inside-ethernet-location.jpg)
 
 ### House Downpipe Profile
@@ -103,6 +128,25 @@
 ![House downpipe bottom](images/photos/house-downpipe-bottom.jpg)
 
 ![House downpipe profile](images/photos/house-downpipe-profile.jpg)
+
+### House Inside Layout
+
+*Diagram to be created*
+
+**Key dimensions (fibre box wall profile):**
+
+- Wall width shown: 202cm (bottom-right corner of house to fibre box)
+- Floor to ceiling height: 245cm
+- Fibre box: 17cm wide × 13cm high, 180cm from ceiling to top
+- Cable wall entry point: aligned with fibre box, 10cm away
+
+### House Inside Ethernet Path
+
+*Diagram to be created*
+
+#### Photos — House Inside
+
+![House inside fibrebox location](images/photos/house-inside-fibrebox-location.jpg)
 
 ## To purchase
 
@@ -183,6 +227,16 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
   - Width — 365cm
   - Depth — 500cm
   - Wall thickness — ~25cm
+  - Floor to ceiling — 215cm
+  - Ceiling to top of power box — 25cm
+  - Ceiling to top of ethernet port box — 163cm
+- House (inside)
+  - Floor to ceiling — 245cm
+  - Corner to fibre box — 202cm
+  - Fibre box width — 17cm
+  - Fibre box height — 13cm
+  - Ceiling to top of fibre box — 180cm
+  - Fibre box to wall entry point — 10cm
 
 ---
 
