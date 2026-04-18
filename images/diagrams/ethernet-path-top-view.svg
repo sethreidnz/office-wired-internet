@@ -88,13 +88,14 @@
   <text x="400" y="1290" fill="#666" font-size="25">Soffit</text>
   <text x="316" y="536" text-anchor="middle" fill="white" font-size="16">Door</text>
 
-  <!-- Ethernet cable route (red dotted line) -->
+  <!-- Ethernet cable route (red dotted line) - follows path/driveway -->
   <path d="
     M 286,240
     L 275,240
     L 275,510
-    L 668,510
-    L 1278,1145
+    L 688,510
+    L 688,1125
+    L 1278,1125
     L 1278,2270
   "
   fill="none" stroke="#e63946" stroke-width="10" stroke-dasharray="25,15"/>
@@ -111,12 +112,17 @@
   <line x1="668" y1="555" x2="668" y2="575" stroke="#000" stroke-width="3"/>
   <text x="471" y="555" text-anchor="middle" fill="#000" font-size="22">393cm</text>
 
-  <!-- Measurement: Diagonal (≈860cm) -->
-  <line x1="693" y1="480" x2="685" y2="490" stroke="#000" stroke-width="3"/>
-  <line x1="689" y1="485" x2="1303" y2="1115" stroke="#000" stroke-width="3"/>
-  <line x1="1307" y1="1110" x2="1299" y2="1120" stroke="#000" stroke-width="3"/>
-  <text x="1000" y="785" text-anchor="middle" fill="#000" font-size="22" font-weight="bold"
-        transform="rotate(46,1000,785)">≈881cm</text>
+  <!-- Measurement: Down alongside driveway (615cm) -->
+  <line x1="700" y1="510" x2="720" y2="510" stroke="#000" stroke-width="3"/>
+  <line x1="710" y1="510" x2="710" y2="1125" stroke="#000" stroke-width="3"/>
+  <line x1="700" y1="1125" x2="720" y2="1125" stroke="#000" stroke-width="3"/>
+  <text x="730" y="820" text-anchor="start" fill="#000" font-size="22" transform="rotate(90,730,820)">615cm</text>
+
+  <!-- Measurement: Along horizontal path (590cm) -->
+  <line x1="688" y1="1080" x2="688" y2="1100" stroke="#000" stroke-width="3"/>
+  <line x1="688" y1="1090" x2="1278" y2="1090" stroke="#000" stroke-width="3"/>
+  <line x1="1278" y1="1080" x2="1278" y2="1100" stroke="#000" stroke-width="3"/>
+  <text x="983" y="1080" text-anchor="middle" fill="#000" font-size="22">590cm</text>
 
   <!-- Measurement: Down to house ethernet port (1125cm) -->
   <line x1="1245" y1="1145" x2="1265" y2="1145" stroke="#000" stroke-width="3"/>

@@ -25,9 +25,10 @@
 
 - Down wall space: 270cm
 - Along office front: 393cm
-- Diagonal across grass: ≈881cm
+- Down alongside driveway edge: 615cm
+- Along horizontal path edge: 590cm
 - Down house wall (path to ethernet port): 1125cm
-- **Total: ≈2,669cm + slack**
+- **Total: ≈2,993cm + slack**
 
 #### Photos — Path
 
@@ -131,7 +132,7 @@
 
 ### House Inside Layout
 
-*Diagram to be created*
+![House Inside Layout](images/diagrams/house-inside-layout.svg)
 
 **Key dimensions (fibre box wall profile):**
 
@@ -142,7 +143,11 @@
 
 ### House Inside Ethernet Path
 
-*Diagram to be created*
+![House Inside Ethernet Path](images/diagrams/house-inside-ethernet-path.svg)
+
+**Conduit route:**
+
+- Cable comes through ceiling from soffit/wall space, drops down to new ethernet port 10cm to the right of the fibre box
 
 #### Photos — House Inside
 
@@ -175,19 +180,6 @@
   - Or 1x 20mm Female Adaptor
 - Tools:
   - "Spade Bit" or "Hole Saw" (usually 20mm or 25mm)
-
-Things to measure:
-
-1. The total distance from the modem and the path that we are going to take to get the right cat6 size (add 2 meters for the service loop)
-2. The distance from the soffit down to the ground of the house
-3. The distance from that ground by the house in total that will go all the way through to the office (for the Electrical Conduit)
-4. The distance from the ground to the place I'm going to go in in the office
-5. The "Through the Wall" Thickness
-6. The Soffit Depth
-7. The "Obstacle Check" on the Path
-
-Total Cable: (Distance 1 + 2 + 3 + 4) + 5 meters extra for slack and bends.
-Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting and fitting.
 
 ## Raw Measurements Reference
 
