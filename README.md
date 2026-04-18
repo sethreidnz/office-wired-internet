@@ -169,18 +169,21 @@ Use cable-pulling lubricant at each segment. Use sweep bends instead of standard
 |------|-----|-------|-------|------|
 | Double-Gang Vertical Wall Plate (Keystone) | 1 | Jaycar | ~$8 | [Wallplates section](https://www.jaycar.co.nz/cables-connectors/wallplates-and-keystone/c/1E) |
 | Mounting C-Clip/Bracket (plasterboard) | 1 | Bunnings | ~$3.32 | [Deta Plaster Clip](https://www.bunnings.co.nz/deta-plaster-clip-mounting-bracket-single-pack_p0310775) |
-| Toolless Cat6 Keystone Jacks | 2 | Jaycar | ~$8 ea | [YN8029](https://www.jaycar.co.nz/rj45-socket-cat6-keystone-jack/p/YN8029) |
+| Cat6A Shielded Keystone Jacks | 2 | PB Tech | ~$10 ea | [FP-C6AUGS-06](https://www.pbtech.co.nz/product/SCBDNX1013/Dynamix-FP-C6AUGS-06-Cat6A-Shielded-Keystone-Sliml) |
 | Cat6 Patch Leads 1m | 2 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
+
+> **Grounding note:** The outdoor cable is U/FTP (foil-shielded). Use shielded keystone jacks at the house end and bond the wall plate to the building's electrical earth via a short earth wire to the nearest earth point. The office end can use unshielded jacks — ground at one end only to avoid ground loops.
 
 ### Outside Run
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
 | Cat6 Outdoor-Rated Cable 50m | 1 | PB Tech | ~$143 | [OPL-UFTP6-50](https://www.pbtech.co.nz/product/CABOPL1012/Cat6-Ethernet-Cable---50m-UFTP---Outdoor---Shielde) |
+| Weatherproof Pull Boxes (junction box with lid) | 2 | Mitre 10 | ~$10 ea | Search in-store — IP55+ rated, 20mm knockouts |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
-| 20mm 90-degree Conduit Bends | 15 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
-| 20mm Conduit Sweep Bends | 2 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
+| 20mm 90-degree Conduit Bends | 8 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
+| 20mm Conduit Sweep Bends | 8 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
 | 20mm Stainless Steel P-Clips | 10 | TBC | ~$2 ea | Not found at Mitre 10/Bunnings — try in-store or [RS Online](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/) |
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
@@ -209,11 +212,13 @@ Use cable-pulling lubricant at each segment. Use sweep bends instead of standard
 | Safety Glasses | 1 | Mitre 10 | ~$5 | Available in-store |
 | Wall Filler (Polyfilla) | 1 | Mitre 10 | ~$8 | Available in-store |
 | Wire Coat Hanger | 1 | Home | Free | Check your wardrobe |
+| Cable-Pulling Lubricant | 1 | Mitre 10 | ~$15 | Search in-store — water-based cable lube |
 
 ### Items to find in-store (no online link found)
 
 - **20mm Stainless Steel P-Clips** — try Mitre 10 or Bunnings in-store, or [RS Online NZ](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/)
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
+- **Weatherproof Pull Boxes** — IP55+ rated with 20mm knockouts, check Mitre 10 electrical section
 
 ### Estimated Total: ~$550-600
 
