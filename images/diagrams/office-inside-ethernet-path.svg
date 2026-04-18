@@ -3,6 +3,9 @@
     <marker id="arrowhead" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
       <polygon points="0,0 6,2 0,4" fill="#333"/>
     </marker>
+    <marker id="arrow-red" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+      <polygon points="0,0 6,2 0,4" fill="red"/>
+    </marker>
   </defs>
 
   <!-- Wall background (plasterboard) -->
@@ -44,6 +47,13 @@
 
   <!-- Ethernet cable from ceiling down to box [E] (red dotted) -->
   <line x1="239" y1="0" x2="239" y2="161" stroke="red" stroke-width="2" stroke-dasharray="6,3"/>
+
+  <!-- Ethernet cable along ceiling toward door (red dotted) -->
+  <line x1="239" y1="3" x2="10" y2="3" stroke="red" stroke-width="2" stroke-dasharray="6,3"/>
+
+  <!-- "Into wall space" label with arrow -->
+  <text x="200" y="25" fill="red" font-size="5" font-weight="bold">Into wall space</text>
+  <line x1="215" y1="21" x2="237" y2="5" stroke="red" stroke-width="0.8" marker-end="url(#arrow-red)"/>
 
   <!-- Labels -->
   <text x="416" y="20" text-anchor="middle" fill="#666" font-size="4">Power Back</text>

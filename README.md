@@ -30,11 +30,54 @@
 - Down house wall (path to ethernet port): 1125cm
 - **Total: ≈2,993cm + slack**
 
-#### Photos — Path
+### House Inside Layout
 
-![House path 1](images/photos/house-path-1.jpg)
+![House Inside Layout](images/diagrams/house-inside-layout.svg)
 
-![House path 2](images/photos/house-path-2.jpg)
+**Key dimensions (fibre box wall profile):**
+
+- Wall width shown: 202cm (bottom-right corner of house to fibre box)
+- Floor to ceiling height: 245cm
+- Fibre box: 17cm wide × 13cm high, 180cm from ceiling to top
+- Cable wall entry point: aligned with fibre box, 10cm away
+
+### House Inside Ethernet Path
+
+![House Inside Ethernet Path](images/diagrams/house-inside-ethernet-path.svg)
+
+**Conduit route:**
+
+- Cable comes through ceiling from soffit/wall space, drops down to new ethernet port 10cm to the right of the fibre box
+
+#### Photos — House Inside
+
+![House inside fibrebox location](images/photos/house-inside-fibrebox-location.jpg)
+
+### House Downpipe Profile
+
+![House Downpipe Profile](images/diagrams/house-downpipe-profile.svg)
+
+**Key dimensions:**
+
+- Wall height (ground to soffit): 272cm
+- Downpipe to corner of house: 16cm
+- Downpipe width: 8cm
+
+### House Downpipe Ethernet Path
+
+![House Downpipe Ethernet Path](images/diagrams/house-downpipe-ethernet-path.svg)
+
+**Conduit route:**
+
+- Comes out of soffit, runs down the right side of the downpipe (in the 16cm gap), then along the wall at ground level
+
+#### Photos — House Downpipe
+
+![House soffit exit point](images/photos/house-soffit-exit-point.jpg)
+
+![House downpipe bottom](images/photos/house-downpipe-bottom.jpg)
+
+![House downpipe profile](images/photos/house-downpipe-profile.jpg)
 
 ### Office Front Layout
 
@@ -103,55 +146,6 @@
 #### Photos — Office Inside
 
 ![Office inside ethernet location](images/photos/office-inside-ethernet-location.jpg)
-
-### House Downpipe Profile
-
-![House Downpipe Profile](images/diagrams/house-downpipe-profile.svg)
-
-**Key dimensions:**
-
-- Wall height (ground to soffit): 272cm
-- Downpipe to corner of house: 16cm
-- Downpipe width: 8cm
-
-### House Downpipe Ethernet Path
-
-![House Downpipe Ethernet Path](images/diagrams/house-downpipe-ethernet-path.svg)
-
-**Conduit route:**
-
-- Comes out of soffit, runs down the right side of the downpipe (in the 16cm gap), then along the wall at ground level
-
-#### Photos — House Downpipe
-
-![House soffit exit point](images/photos/house-soffit-exit-point.jpg)
-
-![House downpipe bottom](images/photos/house-downpipe-bottom.jpg)
-
-![House downpipe profile](images/photos/house-downpipe-profile.jpg)
-
-### House Inside Layout
-
-![House Inside Layout](images/diagrams/house-inside-layout.svg)
-
-**Key dimensions (fibre box wall profile):**
-
-- Wall width shown: 202cm (bottom-right corner of house to fibre box)
-- Floor to ceiling height: 245cm
-- Fibre box: 17cm wide × 13cm high, 180cm from ceiling to top
-- Cable wall entry point: aligned with fibre box, 10cm away
-
-### House Inside Ethernet Path
-
-![House Inside Ethernet Path](images/diagrams/house-inside-ethernet-path.svg)
-
-**Conduit route:**
-
-- Cable comes through ceiling from soffit/wall space, drops down to new ethernet port 10cm to the right of the fibre box
-
-#### Photos — House Inside
-
-![House inside fibrebox location](images/photos/house-inside-fibrebox-location.jpg)
 
 ## To purchase
 
