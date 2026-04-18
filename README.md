@@ -1,42 +1,108 @@
 # Ethernet in office planning
 
-## Photos
-
-![House soffit exit point](images/photos/house-soffit-exit-point.jpg)
-
-![House downpipe bottom](images/photos/house-downpipe-bottom.jpg)
-
-![House path 1](images/photos/house-path-1.jpg)
-
-![House path 2](images/photos/house-path-2.jpg)
-
-![Office front](images/photos/office-front.jpg)
-
-## Diagram
+## Diagrams
 
 ### Property Layout Top View
 
 ![Property Layout Top View](images/diagrams/property-layout-top-view.svg)
 
+**Key dimensions (all to-scale, 1px = 1cm):**
+
+- Office: 382cm × 500cm (outside)
+- Garage: 265cm × 500cm (outside)
+- Wall space: 21cm × 500cm
+- Grass: 690cm × 1145cm
+- House: 1093cm × 1210cm
+- Paths: 80cm wide
+- Soffit overhang: 40cm
+- Dirt bed: 40cm (around house, outside soffit)
+
 ### Ethernet Path Top View
 
 ![Ethernet Path Top View](images/diagrams/ethernet-path-top-view.svg)
+
+**Cable route segments:**
+
+- Down wall space: 270cm
+- Along office front: 393cm
+- Diagonal across grass: ≈881cm
+- Down house wall (path to ethernet port): 1125cm
+- **Total: ≈2,669cm + slack**
+
+#### Photos — Path
+
+![House path 1](images/photos/house-path-1.jpg)
+
+![House path 2](images/photos/house-path-2.jpg)
 
 ### Office Front Layout
 
 ![Office Front Layout](images/diagrams/office-front-layout.svg)
 
+**Key dimensions (working right to left from office corner):**
+
+- Office blockwork: 265cm wide, 245cm high at corner
+- Door space: 105cm wide, 255cm high
+- Wall space: 21cm wide
+- Garage: 265cm wide
+- Water drainage pipe: at 200cm height
+- HP pipe: 73cm from right corner
+- Heat pump: 63cm from right corner, 78cm wide
+
 ### Office Front Ethernet Path
 
 ![Office Front Ethernet Path](images/diagrams/office-front-ethernet-path.svg)
+
+**Conduit route segments (right to left):**
+
+- Ground to HP pipe: 81cm
+- Up alongside HP pipe: 201cm
+- Along water pipe: 154cm
+- Up downpipe: 22cm
+- Across to wall space: 147cm
+- **Total front run: 605cm**
+
+#### Photos — Office Front
+
+![Office front](images/photos/office-front.jpg)
+
+![Office heatpump behind](images/photos/office-heatpump-behind.jpg)
+
+![Office heatpump pipe front detail](images/photos/office-heatpump-pipe-front-detail.jpg)
+
+![Office pipeline side profile](images/photos/office-pipeline-side-profile.jpg)
+
+![Office water pipe connection to roofspace](images/photos/office-water-pipe-conenction-to-roofspace.jpg)
+
+![Wallspace above office door](images/photos/wallspace-above-office-door.jpg)
+
+![Office inside ethernet location](images/photos/office-inside-ethernet-location.jpg)
 
 ### House Downpipe Profile
 
 ![House Downpipe Profile](images/diagrams/house-downpipe-profile.svg)
 
+**Key dimensions:**
+
+- Wall height (ground to soffit): 272cm
+- Downpipe to corner of house: 16cm
+- Downpipe width: 8cm
+
 ### House Downpipe Ethernet Path
 
 ![House Downpipe Ethernet Path](images/diagrams/house-downpipe-ethernet-path.svg)
+
+**Conduit route:**
+
+- Comes out of soffit, runs down the right side of the downpipe (in the 16cm gap), then along the wall at ground level
+
+#### Photos — House Downpipe
+
+![House soffit exit point](images/photos/house-soffit-exit-point.jpg)
+
+![House downpipe bottom](images/photos/house-downpipe-bottom.jpg)
+
+![House downpipe profile](images/photos/house-downpipe-profile.jpg)
 
 ## To purchase
 
@@ -79,47 +145,52 @@ Things to measure:
 Total Cable: (Distance 1 + 2 + 3 + 4) + 5 meters extra for slack and bends.
 Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting and fitting.
 
-## Measurements
+## Raw Measurements Reference
 
-- house
-  - Path along side - 5m
-  - Path to kitchen window - 450cm
-  - Kitchen window to Browne box - 110cm
-  - Down from suffit = 272cm
-  - From downpipe to path = 105cm
-  - Downpipe to corner of house - 16cm
-  - Downpipe width 8cm
-  - Soffit 40cm
-  - Dirt bed 80cm depth
+- House
+  - Path along side — 500cm
+  - Path to kitchen window — 450cm
+  - Kitchen window to Browne box — 110cm
+  - Ground to soffit — 272cm
+  - From downpipe to path — 105cm
+  - Downpipe to corner — 16cm
+  - Downpipe width — 8cm
+  - Soffit overhang — 40cm
+  - Dirt bed depth — 80cm
 - Path
-  - 80cm width
-  - 10cm depth (into ground)
+  - Width — 80cm
+  - Depth (into ground) — 10cm
 - Grass
-  - Along house - 690cm
-  - To office - 645cm
-- Office outside-
-  - From corner to heat pump pipe left side  - 80cm
-  - Up to water pipes - 205cm
-  - Up pipe to above door space - 30cm
-  - From heat pump pipe to office wall space - 310cm
-  - Overhang to right of office door space - 15cm
-  - Height of above office door 255cm
-  - Hight of office at corner 245c
-  - Outside office width (corner to wall space) — 382
-  - Outside garage width (wall space to other corner) — if different from office 265
-  - Total height from ground to the top of the cream soffit/fascia strip (at the office corner)
-  - Height from ground to the bottom of the water drainage pipe - 2m
-  - Width of the wall space from the outside - 21cm
-  - Width of total door space - 105cm
-  - Distance from edge of office door space and office corner 265cm
-  - Heat pump width 78cm
-- Inside office
-  - Distance into room in wall space - 270cm
-  - Width 365cm
-  - Depth 500cm
-  - Wall width - approx 25cm
+  - Along house — 690cm
+  - To office — 645cm
+- Office (outside)
+  - Width (corner to wall space) — 382cm
+  - Garage width (wall space to corner) — 265cm
+  - Wall space width — 21cm
+  - Height at corner — 245cm
+  - Height above door — 255cm
+  - Door space width — 105cm
+  - Blockwork (corner to door space) — 265cm
+  - Water drainage pipe height — 200cm
+  - HP pipe from corner — 73cm
+  - Heat pump from corner — 63cm
+  - Heat pump width — 78cm
+  - Overhang past door space — 15cm
+  - Up to water pipes — 205cm
+  - Up pipe to above door — 30cm
+- Office (inside)
+  - Wall space depth into room — 270cm
+  - Width — 365cm
+  - Depth — 500cm
+  - Wall thickness — ~25cm
 
-### Diagram Shape Dimensions (for to-scale bird's-eye view)
+---
+
+## Diagram Technical Reference
+
+These shape dimension tables are used for maintaining the to-scale SVG diagrams (1px = 1cm).
+
+### Bird's-Eye View Shapes
 
 | Shape | Width | Depth | Notes |
 |-------|-------|-------|-------|
@@ -135,7 +206,7 @@ Total Conduit: (Distance 2 + 3 + 4) + 10% extra for the bits wasted when cutting
 | Soffit | 40cm | 40cm | Overhang around house |
 | Dirt (around house) | 40cm | 1210cm | Dirt bed around house, outside soffit |
 
-### Front Elevation Shape Dimensions (for to-scale office front view)
+### Office Front Elevation Shapes
 
 Working right to left from office corner. Diagram ends at garage door left edge.
 
@@ -154,7 +225,7 @@ Working right to left from office corner. Diagram ends at garage door left edge.
 | Cream soffit | 0 | full | ~50cm | Strip above blockwork |
 | Roof/fascia | 0 | full | ~15cm | Slopes up to garage peak |
 
-### House Downpipe Profile Dimensions (for to-scale wall front view)
+### House Downpipe Profile Shapes
 
 Front elevation looking at the house wall where the downpipe is. Right side is the corner of the house.
 
