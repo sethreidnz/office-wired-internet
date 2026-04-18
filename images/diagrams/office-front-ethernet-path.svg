@@ -12,6 +12,10 @@
       <rect width="700" height="8" fill="#d0d0d0"/>
       <line x1="0" y1="7" x2="700" y2="7" stroke="#bbb" stroke-width="1"/>
     </pattern>
+    <pattern id="overhang-hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="10" height="10" fill="none"/>
+      <line x1="0" y1="0" x2="0" y2="10" stroke="rgba(0,0,0,0.15)" stroke-width="2"/>
+    </pattern>
     <marker id="arrow" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
       <polygon points="0,0 6,2 0,4" fill="#333"/>
     </marker>
@@ -56,6 +60,8 @@
 
   <!-- Drain pipe (runs across top of door to end of brickwork) -->
   <rect x="230" y="100" width="440" height="12" fill="#c0c0c0" stroke="#666" stroke-width="1.5"/>
+  <!-- Downpipe going up from drain pipe on right side of door to roof -->
+  <rect x="340" y="68" width="10" height="32" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
   <!-- Pipe brackets -->
   <rect x="380" y="98" width="6" height="16" fill="#333"/>
   <rect x="500" y="98" width="6" height="16" fill="#333"/>
@@ -87,24 +93,30 @@
   <!-- Ethernet conduit path (red dotted line) -->
   <path d="
     M 670,340
-    L 594,340
-    L 594,106
-    L 230,106
+    L 576,340
+    L 576,106
+    L 345,106
+    L 345,84
+    L 215,84
   "
   fill="none" stroke="#e63946" stroke-width="3" stroke-dasharray="8,5"/>
 
-  <!-- "Into garage wall space" label -->
-  <text x="130" y="103" fill="#e63946" font-size="9">Into garage</text>
-  <text x="130" y="113" fill="#e63946" font-size="9">wall space</text>
-  <line x1="195" y1="106" x2="226" y2="106" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
+  <!-- "Into wall space" label (in sky, pointing down) -->
+  <text x="300" y="50" text-anchor="middle" fill="#e63946" font-size="8">Into wall space</text>
+  <line x1="335" y1="55" x2="335" y2="80" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
 
   <!-- "Behind heatpump" label -->
   <text x="640" y="310" fill="#e63946" font-size="9">Behind</text>
   <text x="640" y="320" fill="#e63946" font-size="9">Heat Pump</text>
-  <line x1="630" y1="315" x2="598" y2="315" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
+  <line x1="630" y1="315" x2="580" y2="315" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
 
   <!-- Legend (top right in sky) -->
-  <rect x="540" y="15" width="140" height="25" rx="4" fill="rgba(0,0,0,0.4)" stroke="none"/>
+  <rect x="540" y="15" width="140" height="42" rx="4" fill="rgba(0,0,0,0.4)" stroke="none"/>
   <line x1="550" y1="28" x2="580" y2="28" stroke="#e63946" stroke-width="3" stroke-dasharray="8,5"/>
   <text x="587" y="32" fill="white" font-size="9">Ethernet Conduit</text>
+  <rect x="550" y="39" width="30" height="10" fill="url(#overhang-hatch)" stroke="white" stroke-width="0.5"/>
+  <text x="587" y="48" fill="white" font-size="9">Roof overhang</text>
+  <!-- Overhang hatch overlay (above door area only) -->
+  <rect x="230" y="60" width="105" height="40" fill="url(#overhang-hatch)"/>
+
 </svg>
