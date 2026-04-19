@@ -341,11 +341,11 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 **Steps:**
 
-1. **Mark the wall plate position.** Hold the wall plate against the wall 10cm to the right of the fibre box. Use a spirit level to make sure it's straight. Draw around it with a pencil.
+1. **Check the wall cavity from the roof space.** Get up into the roof space and find the wall above the fibre box. Look down into the wall cavity with a torch. Make sure there's a clear path — no noggings (horizontal timbers), pipes, or wires blocking the route from the ceiling down to where you want the wall plate. If something's in the way, you may need to shift the wall plate position.
 
-2. **Cut the hole.** Poke the jab saw through the plasterboard at one corner of your pencil outline. Cut along the outline. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the wall plate clips over the edges.
+2. **Mark the wall plate position.** Back downstairs, hold the wall plate against the wall 10cm to the right of the fibre box. Use a spirit level to make sure it's straight. Draw around it with a pencil.
 
-3. **Check behind the wall.** Before drilling, stick your hand or a torch through the hole and look up. Make sure there's nothing in the way (pipes, wires, noggings). You need a clear path straight up to the ceiling.
+3. **Cut the hole.** Poke the jab saw through the plasterboard at one corner of your pencil outline. Cut along the outline. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the wall plate clips over the edges.
 
 4. **Drill up into the ceiling.** Using the 25mm spade bit, drill a hole upwards through the top plate (the timber at the top of the wall frame where it meets the ceiling). This is the hole the cable will come down through from the roof space. Drill from inside the wall cavity, angling the drill upwards. You'll feel it punch through into the roof space above.
 
