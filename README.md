@@ -178,7 +178,8 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
 | Singlemode Fibre Cable 50m (LC-LC, pre-terminated) | 1 | PB Tech | ~$62 | [FSM-LCLC-50](https://www.pbtech.co.nz/product/CABDNX7655/Dynamix-FSM-LCLC-50-OS2-LC-to-LC-Fibre-Lead---50m) |
-| Weatherproof Pull Box (junction box with lid) | 1 | Mitre 10 | ~$10 | Search in-store — IP55+ rated, 20mm knockouts |
+| Weatherproof Pull Box (Deta 108×108×76mm Adaptable Box) | 1 | Bunnings | ~$17.70 | [Deta Adaptable Box](https://www.bunnings.co.nz/deta-108-x-108-x-76mm-adaptable-box-108-x-108-x-76mm_p4330859) |
+| 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Bunnings | ~$0.48 ea | [Deta 20mm Adaptor](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-adaptor-with-lock-ring-single-pack_p0963443) |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
 | 20mm 90-degree Conduit Bends | 1 | Mitre 10 | ~$3.36 | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
@@ -218,7 +219,6 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 - **20mm Stainless Steel P-Clips** — try Mitre 10 or Bunnings in-store, or [RS Online NZ](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/)
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
-- **Weatherproof Pull Box** — IP55+ rated with 20mm knockouts, check Mitre 10 electrical section
 - **Cable Pulling Sock/Grip** — mesh grip that slides over fibre cable, distributes pulling force evenly
 - **Split Loom Tubing** — 12-16mm diameter, protects fibre in roof space from being stepped on or rodents
 
