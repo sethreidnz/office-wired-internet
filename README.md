@@ -357,6 +357,26 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 ### Phase 2: House Roof Space
 
+**What you're doing:** Running bare cable ~560cm across the roof space from the top plate hole (Phase 1) to a new hole through the soffit, where it will exit to the outside. You'll also drill the soffit hole in this phase.
+
+**Tools needed:** Drill, 25mm spade bit, cable clips (6-8mm), torch, tape measure, safety glasses
+
+**Parts needed:** Cable clips
+
+**Steps:**
+
+1. **Measure the soffit exit point from outside.** From the extractor fan outlet, measure along the soffit to where you want the cable to exit (next to the downpipe). Write down this distance.
+
+2. **Find the same spot from inside the roof space.** Get up into the roof space and find the extractor fan outlet from the inside. Measure the same distance you noted in step 1 — this is where you'll drill the soffit hole.
+
+3. **Check it's clear and drill the soffit hole.** Make sure there's no joist or rafter in the way. Drill down through the soffit board with the 25mm spade bit. Wear safety glasses — debris falls towards you.
+
+4. **Confirm from outside.** Go outside and check the hole has come through in the right spot next to the downpipe. If it's off, no stress — soffit holes are hidden under the overhang.
+
+5. **Plan the cable route.** In the roof space, work out the path from the top plate hole (Phase 1) to the new soffit hole. Try to follow along joists/rafters where possible so you can clip the cable neatly.
+
+6. **Don't run the cable yet.** You'll pull the cable through during Phase 11. For now you just need both holes drilled and the route planned. Optionally clip a pull string along the route so you can find it easily later.
+
 ### Phase 3: House Soffit & Downpipe
 
 ### Phase 4: House Ground to Path
