@@ -130,8 +130,17 @@
   <line x1="1245" y1="2270" x2="1265" y2="2270" stroke="#000" stroke-width="3"/>
   <text x="1240" y="1720" text-anchor="end" fill="#000" font-size="22" transform="rotate(-90,1240,1720)">1125cm</text>
 
+  <!-- Pull box at driveway/path corner -->
+  <rect x="668" y="1105" width="40" height="40" fill="#e63946" stroke="#000" stroke-width="3" rx="4"/>
+  <text x="688" y="1130" text-anchor="middle" fill="white" font-size="14" font-weight="bold">PB</text>
+  <text x="620" y="1090" text-anchor="end" fill="#e63946" font-size="22">Pull Box</text>
+  <line x1="625" y1="1093" x2="665" y2="1115" stroke="#e63946" stroke-width="2" marker-end="url(#arrowhead)"/>
+
   <!-- Legend -->
-  <rect x="960" y="150" width="350" height="80" rx="10" fill="rgba(0,0,0,0.4)" stroke="none"/>
+  <rect x="960" y="150" width="350" height="120" rx="10" fill="rgba(0,0,0,0.4)" stroke="none"/>
   <line x1="985" y1="190" x2="1060" y2="190" stroke="#e63946" stroke-width="10" stroke-dasharray="25,15"/>
   <text x="1080" y="200" fill="white" font-size="30">Ethernet Cable</text>
+  <rect x="985" y="220" width="30" height="30" fill="#e63946" stroke="white" stroke-width="2" rx="4"/>
+  <text x="1005" y="242" text-anchor="middle" fill="white" font-size="12" font-weight="bold">PB</text>
+  <text x="1080" y="243" fill="white" font-size="30">Pull Box</text>
 </svg>
