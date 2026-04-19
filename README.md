@@ -181,8 +181,8 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Weatherproof Pull Box (junction box with lid) | 1 | Mitre 10 | ~$10 | Search in-store — IP55+ rated, 20mm knockouts |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
-| 20mm 90-degree Conduit Bends | 3 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
-| 20mm Conduit Sweep Bends | 6 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
+| 20mm 90-degree Conduit Bends | 1 | Mitre 10 | ~$3.36 | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
+| 20mm Conduit Sweep Bends | 4 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
 | 20mm Stainless Steel P-Clips | 10 | TBC | ~$2 ea | Not found at Mitre 10/Bunnings — try in-store or [RS Online](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/) |
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
@@ -205,21 +205,24 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Drywall/Jab Saw | 1 | Bunnings | ~$6 | [Craftright 150mm](https://www.bunnings.co.nz/craftright-jab-saw-150mm_p5710163) |
 | 25mm Spade Bit | 1 | Mitre 10 | ~$5.45 | [Spade Bits section](https://www.mitre10.co.nz/shop/tools-equipment/power-tool-accessories/drilling/drilling/flat-spade-bits/c/RC27910) |
 | Fish Tape 30m | 1 | Jaycar | ~$50 | [TH2355](https://www.jaycar.co.nz) (search TH2355) |
+| Nylon Pull String 30m+ | 1 | Mitre 10 | ~$8 | Search in-store — smooth nylon rope/string |
+| Cable Pulling Sock/Grip | 1 | TBC | ~$10 | Search in-store or online — mesh grip for cable pulling |
+| Split Loom Tubing 10m (12-16mm) | 1 | Mitre 10 | ~$10 | Search in-store — to protect fibre in roof space |
 | Hacksaw | 1 | Mitre 10 | ~$15 | Search in-store |
 | Cable Clips 6-8mm (pack) | 1 | Mitre 10 | ~$5 | [HPM Cable Clips](https://www.mitre10.co.nz/shop/hpm-cable-clips/p/388902) |
 | Duct Tape | 1 | Mitre 10 | ~$8 | Available in-store |
 | Safety Glasses | 1 | Mitre 10 | ~$5 | Available in-store |
 | Wall Filler (Polyfilla) | 1 | Mitre 10 | ~$8 | Available in-store |
-| Wire Coat Hanger | 1 | Home | Free | Check your wardrobe |
-| Cable-Pulling Lubricant | 1 | Mitre 10 | ~$15 | Search in-store — water-based cable lube |
 
 ### Items to find in-store (no online link found)
 
 - **20mm Stainless Steel P-Clips** — try Mitre 10 or Bunnings in-store, or [RS Online NZ](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/)
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
 - **Weatherproof Pull Box** — IP55+ rated with 20mm knockouts, check Mitre 10 electrical section
+- **Cable Pulling Sock/Grip** — mesh grip that slides over fibre cable, distributes pulling force evenly
+- **Split Loom Tubing** — 12-16mm diameter, protects fibre in roof space from being stepped on or rodents
 
-### Estimated Total: ~$450-500
+### Estimated Total: ~$700 (~$565 materials + ~$130 tools)
 
 ## Raw Measurements Reference
 
