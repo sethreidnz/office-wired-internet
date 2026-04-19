@@ -1,4 +1,4 @@
-# Ethernet in office planning
+# Fibre to office planning
 
 ## Diagrams
 
@@ -23,7 +23,7 @@
 
 **Cable route segments:**
 
-- House inside (bare cable): ~65cm up through wall into ceiling + ~560cm across roof space (to soffit hole)
+- House inside (bare fibre): ~65cm up through wall into ceiling + ~560cm across roof space (to soffit hole)
 - House downpipe (conduit): 272cm down alongside downpipe
 - House ground to path (conduit, buried 30cm deep): ~105cm
 - Under path (conduit, buried below path base): ~80cm
@@ -31,8 +31,8 @@
 - **Pull box** at corner where driveway meets horizontal path (weatherproof junction box, buried)
 - Alongside horizontal path edge (conduit, buried 30cm deep): ~590cm
 - Office front (conduit, P-clipped to wall/pipes): 377cm (200+155+22)
-- Office wall space (bare cable): 270cm down inside wall
-- Office inside (bare cable in trunking): 163cm ceiling to pattress box
+- Office wall space (bare fibre): 270cm down inside wall
+- Office inside (bare fibre in trunking): 163cm ceiling to surface box
 - **Total: ~3,097cm (~31m) + slack**
 
 **Bends in the run (5 total):**
@@ -56,13 +56,13 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 - Fibre box: 17cm wide × 13cm high, 180cm from ceiling to top
 - Cable wall entry point: aligned with fibre box, 10cm away
 
-### House Inside Ethernet Path
+### House Inside Fibre Path
 
 ![House Inside Ethernet Path](images/diagrams/house-inside-ethernet-path.svg)
 
-**Conduit route:**
+**Route:**
 
-- Cable comes through ceiling from soffit/wall space, drops down to new ethernet port 10cm to the right of the fibre box
+- Fibre comes through ceiling from soffit/wall space, drops down through brush plate 10cm to the right of the fibre box, plugs into media converter
 
 #### Photos — House Inside
 
@@ -147,15 +147,15 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 - Vertical trunking up: 67cm
 - Ceiling to power back box: 25cm
 - All boxes: 12cm wide
-- New ethernet box: 10cm left of plug 1
+- New fibre outlet: 10cm left of plug 1
 
-### Office Inside Ethernet Path
+### Office Inside Fibre Path
 
 ![Office Inside Ethernet Path](images/diagrams/office-inside-ethernet-path.svg)
 
-**Conduit route:**
+**Route:**
 
-- Cable comes through ceiling from wall space, drops 163cm straight down to new ethernet pattress box (10cm left of plug 1)
+- Fibre comes through ceiling from wall space, drops 163cm straight down through brush plate (10cm left of plug 1), plugs into media converter/switch below
 
 #### Photos — Office Inside
 
@@ -167,18 +167,17 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Double-Gang Vertical Wall Plate (Keystone) | 1 | Jaycar | ~$8 | [Wallplates section](https://www.jaycar.co.nz/cables-connectors/wallplates-and-keystone/c/1E) |
+| Brush Plate Wall Cover | 1 | Mitre 10 | ~$8 | Search in-store — single gang brush plate |
 | Mounting C-Clip/Bracket (plasterboard) | 1 | Bunnings | ~$3.32 | [Deta Plaster Clip](https://www.bunnings.co.nz/deta-plaster-clip-mounting-bracket-single-pack_p0310775) |
-| Cat6A Shielded Keystone Jacks | 2 | PB Tech | ~$10 ea | [FP-C6AUGS-06](https://www.pbtech.co.nz/product/SCBDNX1013/Dynamix-FP-C6AUGS-06-Cat6A-Shielded-Keystone-Sliml) |
-| Cat6 Patch Leads 1m | 2 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
-
-> **Grounding note:** The outdoor cable is U/FTP (foil-shielded). Use shielded keystone jacks at the house end — the jack's metal body automatically contacts the cable's foil shield when terminated. Bond the metal wall plate to the building's electrical earth by running a short earth wire (green/yellow) from the wall plate screw to the nearest earth point (e.g. earth pin on the adjacent power socket). Ground at the house end only — leave the office end unshielded to avoid ground loops. If it's working at gigabit speed with no dropouts, the grounding is correct.
+| TP-Link MC220L Media Converter | 1 | PB Tech | ~$33 | [MC220L](https://www.pbtech.co.nz/product/NETTPL0220/TP-Link-MC220L-Gigabit-Media-Converter---Fiber-SFP) |
+| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | Search PB Tech for TL-SM311LS |
+| Cat6 Patch Lead 1m | 1 | Jaycar | ~$5 | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Outside Run
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Cat6 Outdoor-Rated Cable 50m | 1 | PB Tech | ~$143 | [OPL-UFTP6-50](https://www.pbtech.co.nz/product/CABOPL1012/Cat6-Ethernet-Cable---50m-UFTP---Outdoor---Shielde) |
+| Singlemode Fibre Cable 50m (LC-LC, pre-terminated) | 1 | PB Tech | ~$62 | [FSM-LCLC-50](https://www.pbtech.co.nz/product/CABDNX7655/Dynamix-FSM-LCLC-50-OS2-LC-to-LC-Fibre-Lead---50m) |
 | Weatherproof Pull Box (junction box with lid) | 1 | Mitre 10 | ~$10 | Search in-store — IP55+ rated, 20mm knockouts |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
@@ -193,10 +192,10 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Double Keystone Surface Box (horizontal) | 1 | Jaycar | ~$5 | [YN8024](https://www.jaycar.co.nz/double-keystone-surface-box/p/YN8024) |
-| Toolless Cat6 Keystone Jacks | 2 | Jaycar | ~$8 ea | [YN8029](https://www.jaycar.co.nz/rj45-socket-cat6-keystone-jack/p/YN8029) |
+| Brush Plate Surface Box | 1 | Mitre 10 | ~$8 | Search in-store — single gang brush plate + surface box |
 | Mini Trunking 25x16mm (3m, cut to 2m) | 1 | Mitre 10 | ~$8 | [Marley Mini Trunking](https://www.mitre10.co.nz/shop/marley-mini-trunking-3m-25x16mm-white/p/103197) |
-| 5-Port Gigabit Switch | 1 | Jaycar | ~$48 | [YN8395](https://www.jaycar.co.nz) (search YN8395) |
+| MikroTik CSS106-5G-1S Switch (5× Ethernet + 1× SFP) | 1 | PB Tech | ~$107 | [CSS106-5G-1S](https://www.pbtech.co.nz/category/networking/switches/brand-mikrotik) |
+| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | Search PB Tech for TL-SM311LS |
 | Cat6 Patch Leads 1m | 3 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Tools
@@ -220,7 +219,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
 - **Weatherproof Pull Box** — IP55+ rated with 20mm knockouts, check Mitre 10 electrical section
 
-### Estimated Total: ~$550-600
+### Estimated Total: ~$450-500
 
 ## Raw Measurements Reference
 
@@ -333,31 +332,29 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 ### Phase 1: House Inside
 
-**What you're doing:** Cutting a hole in the wall next to the fibre box, mounting a wall plate, and drilling up into the ceiling so cable can get from the roof space down to the new ethernet port.
+**What you're doing:** Cutting a hole in the wall next to the fibre box, mounting a brush plate, and drilling up into the ceiling so the fibre cable can get from the roof space down to the media converter.
 
-**Tools needed:** Jab saw, 25mm spade bit, drill, pencil, spirit level, wire coat hanger
+**Tools needed:** Jab saw, 25mm spade bit, drill, pencil, spirit level
 
-**Parts needed:** Double-gang vertical wall plate, mounting C-clip/bracket, 2× shielded keystone jacks
+**Parts needed:** Brush plate, mounting C-clip/bracket
 
 **Steps:**
 
-1. **Mark the wall plate position.** Hold the wall plate against the wall 10cm to the right of the fibre box, at the same height. Use a spirit level to make sure it's straight. Draw around it with a pencil.
+1. **Mark the brush plate position.** Hold the brush plate against the wall 10cm to the right of the fibre box, at the same height. Use a spirit level to make sure it's straight. Draw around it with a pencil.
 
 2. **Drill a pilot hole to check the cavity.** Drill a small hole (5-6mm) through the plasterboard at the centre of your pencil outline. Poke your phone torch in and look up inside the wall cavity. You're checking for noggings (horizontal timbers) or pipes blocking the path upwards. If it's blocked, fill the hole with Polyfilla and try a different position. If it's clear all the way up — carry on.
 
-3. **Cut the wall plate hole.** Using the jab saw, cut along your pencil outline around the pilot hole. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the wall plate clips over the edges.
+3. **Cut the hole.** Using the jab saw, cut along your pencil outline around the pilot hole. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the brush plate clips over the edges.
 
-4. **Go up to the roof space and drill through the top plate.** Measure 212cm from the house corner along the wall to find the right position (202cm to fibre box + 10cm to ethernet port). Using the 25mm spade bit, drill down through the top plate (the horizontal timber capping the wall). You'll feel it punch through into the wall cavity below. This is the hole the cable will come down through.
+4. **Go up to the roof space and drill through the top plate.** Measure 212cm from the house corner along the wall to find the right position (202cm to fibre box + 10cm to fibre outlet). Using the 25mm spade bit, drill down through the top plate (the horizontal timber capping the wall). You'll feel it punch through into the wall cavity below. This is the hole the fibre will come down through.
 
-5. **Confirm the path.** Push the fish tape down through the hole. Your partner reaches into the wall plate cutout downstairs and grabs the fish tape when it appears. If they've got it, the path is confirmed. Pull the fish tape back out.
+5. **Confirm the path.** Push the fish tape down through the hole. Your partner reaches into the cutout downstairs and grabs the fish tape when it appears. If they've got it, the path is confirmed. Pull the fish tape back out.
 
-6. **Mount the bracket.** Push the C-clip/mounting bracket into the wall plate hole from the front. The clips spring out behind the plasterboard and grip it. Tighten the screws until it's firm but not crushing the plasterboard.
-
-7. **Leave the wall plate off for now.** Don't attach the wall plate or keystone jacks yet — you'll do that after pulling the cable through in Phase 12. For now you just need the hole and bracket ready.
+6. **Mount the bracket and brush plate.** Push the C-clip/mounting bracket into the hole from the front. The clips spring out behind the plasterboard and grip it. Tighten the screws until it's firm. Screw the brush plate onto the bracket — the fibre cable will pass through the brushes later.
 
 ### Phase 2: House Roof Space
 
-**What you're doing:** Running bare cable ~560cm across the roof space from the top plate hole (Phase 1) to a new hole through the soffit, where it will exit to the outside. You'll also drill the soffit hole in this phase.
+**What you're doing:** Planning the route for the fibre cable ~560cm across the roof space from the top plate hole (Phase 1) to a new hole through the soffit, where it will exit to the outside. You'll also drill the soffit hole in this phase.
 
 **Tools needed:** Drill, 25mm spade bit, cable clips (6-8mm), torch, tape measure, safety glasses
 
@@ -393,6 +390,6 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 ### Phase 10: Office Wall Space & Inside
 
-### Phase 10: Cable Pull
+### Phase 11: Fibre Pull
 
-### Phase 11: Terminate & Test
+### Phase 12: Connect & Test
