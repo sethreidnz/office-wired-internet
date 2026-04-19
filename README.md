@@ -326,3 +326,29 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 | Pipe brackets | on pipe | 12cm | 2.5cm | Clips holding pipe to wall, ~70cm apart |
 | Ground/dirt | 0 | full width | visible | Ground level at wall base |
 | Corner edge | 0 | — | 272cm | Bold line marking house corner |
+
+---
+
+## Step-by-Step Installation
+
+### Phase 1: House Inside
+
+### Phase 2: House Soffit & Downpipe
+
+### Phase 3: House Ground to Path
+
+### Phase 4: Under Path
+
+### Phase 5: Along Horizontal Path to Pull Box
+
+### Phase 6: Pull Box to Driveway Edge
+
+### Phase 7: Driveway Edge to Office Wall
+
+### Phase 8: Up Office Wall & Into Overhang
+
+### Phase 9: Office Wall Space & Inside
+
+### Phase 10: Cable Pull
+
+### Phase 11: Terminate & Test
