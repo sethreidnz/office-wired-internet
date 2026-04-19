@@ -77,11 +77,10 @@
   <!-- Labels removed for clarity, see layout diagram -->
 
   <!-- Ethernet conduit path (red dotted line) -->
-  <!-- From right ground, up left of HP pipe, across water pipe, up downpipe, into wall -->
+  <!-- From right corner ground, straight up to water pipe, along pipe, up downpipe, into wall space -->
   <path d="
     M 668,285
-    L 587,285
-    L 587,84
+    L 668,84
     L 433,84
     L 433,62
     L 286,62
@@ -97,10 +96,10 @@
   <text x="418" y="22" text-anchor="middle" fill="#e63946" font-size="6">Into wall space</text>
   <line x1="418" y1="24" x2="418" y2="58" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
 
-  <!-- "Behind heatpump" label -->
-  <text x="640" y="225" fill="#e63946" font-size="6">Behind</text>
-  <text x="640" y="232" fill="#e63946" font-size="6">Heat Pump</text>
-  <line x1="635" y1="228" x2="591" y2="228" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
+  <!-- "Up office corner" label -->
+  <text x="640" y="180" fill="#e63946" font-size="6">Up office</text>
+  <text x="640" y="187" fill="#e63946" font-size="6">corner</text>
+  <line x1="635" y1="183" x2="672" y2="183" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
 
   <!-- Legend -->
   <rect x="520" y="5" width="150" height="30" rx="3" fill="rgba(0,0,0,0.4)" stroke="none"/>
@@ -112,33 +111,21 @@
   <!-- White strip at bottom for measurement -->
   <rect x="0" y="285" width="688" height="25" fill="white"/>
 
-  <!-- 1) Bottom right horizontal (81cm) - below in white strip -->
-  <line x1="587" y1="290" x2="587" y2="294" stroke="#000" stroke-width="1"/>
-  <line x1="587" y1="292" x2="668" y2="292" stroke="#000" stroke-width="1"/>
-  <line x1="668" y1="290" x2="668" y2="294" stroke="#000" stroke-width="1"/>
-  <text x="627" y="302" text-anchor="middle" fill="#000" font-size="5">81cm</text>
+  <!-- 1) Up office corner (200cm) - right of line -->
+  <line x1="675" y1="84" x2="679" y2="84" stroke="#000" stroke-width="1"/>
+  <line x1="677" y1="84" x2="677" y2="285" stroke="#000" stroke-width="1"/>
+  <line x1="675" y1="285" x2="679" y2="285" stroke="#000" stroke-width="1"/>
+  <text x="683" y="185" text-anchor="start" fill="#000" font-size="5" transform="rotate(-90,683,185)">200cm</text>
 
-  <!-- 2) Up HP pipe (201cm) - left of line -->
-  <line x1="578" y1="84" x2="582" y2="84" stroke="#000" stroke-width="1"/>
-  <line x1="580" y1="84" x2="580" y2="285" stroke="#000" stroke-width="1"/>
-  <line x1="578" y1="285" x2="582" y2="285" stroke="#000" stroke-width="1"/>
-  <text x="575" y="185" text-anchor="end" fill="#000" font-size="5" transform="rotate(-90,575,185)">201cm</text>
-
-  <!-- 3) Horizontal along water pipe (154cm) - below inline -->
+  <!-- 2) Horizontal along water pipe (155cm) - below inline -->
   <line x1="433" y1="92" x2="433" y2="96" stroke="#000" stroke-width="1"/>
-  <line x1="433" y1="94" x2="587" y2="94" stroke="#000" stroke-width="1"/>
-  <line x1="587" y1="92" x2="587" y2="96" stroke="#000" stroke-width="1"/>
-  <text x="510" y="101" text-anchor="middle" fill="#000" font-size="5">154cm</text>
+  <line x1="433" y1="94" x2="668" y2="94" stroke="#000" stroke-width="1"/>
+  <line x1="668" y1="92" x2="668" y2="96" stroke="#000" stroke-width="1"/>
+  <text x="550" y="101" text-anchor="middle" fill="#000" font-size="5">155cm</text>
 
-  <!-- 4) Up downpipe (22cm) - right of line -->
+  <!-- 3) Up downpipe (22cm) - right of line -->
   <line x1="440" y1="62" x2="444" y2="62" stroke="#000" stroke-width="1"/>
   <line x1="442" y1="62" x2="442" y2="84" stroke="#000" stroke-width="1"/>
   <line x1="440" y1="84" x2="444" y2="84" stroke="#000" stroke-width="1"/>
   <text x="450" y="76" text-anchor="start" fill="#000" font-size="5">22cm</text>
-
-  <!-- 5) Last horizontal (147cm) - above line -->
-  <line x1="286" y1="56" x2="286" y2="60" stroke="#000" stroke-width="1"/>
-  <line x1="286" y1="58" x2="433" y2="58" stroke="#000" stroke-width="1"/>
-  <line x1="433" y1="56" x2="433" y2="60" stroke="#000" stroke-width="1"/>
-  <text x="359" y="55" text-anchor="middle" fill="#000" font-size="5">147cm</text>
 </svg>

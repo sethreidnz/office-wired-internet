@@ -27,22 +27,25 @@
 - House downpipe (conduit): 272cm down alongside downpipe
 - House ground to path (conduit, buried 30cm deep): ~105cm
 - Under path (conduit, buried below path base): ~80cm
-- **Pull box 1** at driveway edge start (weatherproof junction box)
 - Alongside driveway edge (conduit, buried 30cm deep): ~615cm
-- **Pull box 2** at corner where driveway meets horizontal path
+- **Pull box** at corner where driveway meets horizontal path (weatherproof junction box, buried)
 - Alongside horizontal path edge (conduit, buried 30cm deep): ~590cm
-- Office front (conduit, P-clipped to pipes): 605cm (81+201+154+22+147)
+- Office front (conduit, P-clipped to wall/pipes): 377cm (200+155+22)
 - Office wall space (bare cable): 270cm down inside wall
 - Office inside (bare cable in trunking): 163cm ceiling to pattress box
-- **Total: ~3,325cm (~33m) + slack**
+- **Total: ~3,097cm (~31m) + slack**
 
-**Pull segment plan (max 3-4 bends per segment):**
+**Bends in the run (7 total):**
 
-- **Segment 1:** House inside → down downpipe → ground → pull box 1
-- **Segment 2:** Pull box 1 → along driveway edge → pull box 2
-- **Segment 3:** Pull box 2 → along path edge → up office front → into wall space → office inside
+1. Downpipe base → along ground (sweep bend)
+2. Under path → turn onto horizontal path (sweep bend)
+3. Horizontal path → turn onto driveway edge (sweep bend)
+4. Driveway edge → up office corner (sweep bend)
+5. Top of office corner → along water pipe (90° bend)
+6. Water pipe → up downpipe into overhang (90° bend)
+7. Into wall space (90° bend)
 
-Use cable-pulling lubricant at each segment. Use sweep bends instead of standard 90° bends wherever space allows.
+**Pull box** splits the run at bend 3, keeping each segment under the 4-bend maximum. Use cable-pulling lubricant and sweep bends wherever space allows.
 
 ### House Inside Layout
 
@@ -113,12 +116,11 @@ Use cable-pulling lubricant at each segment. Use sweep bends instead of standard
 
 **Conduit route segments (right to left):**
 
-- Ground to HP pipe: 81cm
-- Up alongside HP pipe: 201cm
-- Along water pipe: 154cm
-- Up downpipe: 22cm
-- Across to wall space: 147cm
-- **Total front run: 605cm**
+- Up office corner to water pipe: 200cm
+- Along water pipe: 155cm
+- Up downpipe into overhang: 22cm
+- Into wall space
+- **Total front run: 377cm**
 
 #### Photos — Office Front
 
@@ -172,18 +174,18 @@ Use cable-pulling lubricant at each segment. Use sweep bends instead of standard
 | Cat6A Shielded Keystone Jacks | 2 | PB Tech | ~$10 ea | [FP-C6AUGS-06](https://www.pbtech.co.nz/product/SCBDNX1013/Dynamix-FP-C6AUGS-06-Cat6A-Shielded-Keystone-Sliml) |
 | Cat6 Patch Leads 1m | 2 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
-> **Grounding note:** The outdoor cable is U/FTP (foil-shielded). Use shielded keystone jacks at the house end and bond the wall plate to the building's electrical earth via a short earth wire to the nearest earth point. The office end can use unshielded jacks — ground at one end only to avoid ground loops.
+> **Grounding note:** The outdoor cable is U/FTP (foil-shielded). Use shielded keystone jacks at the house end — the jack's metal body automatically contacts the cable's foil shield when terminated. Bond the metal wall plate to the building's electrical earth by running a short earth wire (green/yellow) from the wall plate screw to the nearest earth point (e.g. earth pin on the adjacent power socket). Ground at the house end only — leave the office end unshielded to avoid ground loops. If it's working at gigabit speed with no dropouts, the grounding is correct.
 
 ### Outside Run
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
 | Cat6 Outdoor-Rated Cable 50m | 1 | PB Tech | ~$143 | [OPL-UFTP6-50](https://www.pbtech.co.nz/product/CABOPL1012/Cat6-Ethernet-Cable---50m-UFTP---Outdoor---Shielde) |
-| Weatherproof Pull Boxes (junction box with lid) | 2 | Mitre 10 | ~$10 ea | Search in-store — IP55+ rated, 20mm knockouts |
+| Weatherproof Pull Box (junction box with lid) | 1 | Mitre 10 | ~$10 | Search in-store — IP55+ rated, 20mm knockouts |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
-| 20mm 90-degree Conduit Bends | 8 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
-| 20mm Conduit Sweep Bends | 8 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
+| 20mm 90-degree Conduit Bends | 5 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
+| 20mm Conduit Sweep Bends | 5 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
 | 20mm Stainless Steel P-Clips | 10 | TBC | ~$2 ea | Not found at Mitre 10/Bunnings — try in-store or [RS Online](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/) |
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
@@ -218,7 +220,7 @@ Use cable-pulling lubricant at each segment. Use sweep bends instead of standard
 
 - **20mm Stainless Steel P-Clips** — try Mitre 10 or Bunnings in-store, or [RS Online NZ](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/)
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
-- **Weatherproof Pull Boxes** — IP55+ rated with 20mm knockouts, check Mitre 10 electrical section
+- **Weatherproof Pull Box** — IP55+ rated with 20mm knockouts, check Mitre 10 electrical section
 
 ### Estimated Total: ~$550-600
 
