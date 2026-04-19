@@ -170,7 +170,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Brush Plate Wall Cover | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
 | Mounting C-Clip/Bracket (plasterboard) | 1 | Bunnings | ~$3.32 | [Deta Plaster Clip](https://www.bunnings.co.nz/deta-plaster-clip-mounting-bracket-single-pack_p0310775) |
 | TP-Link MC220L Media Converter | 1 | PB Tech | ~$33 | [MC220L](https://www.pbtech.co.nz/product/NETTPL0220/TP-Link-MC220L-Gigabit-Media-Converter---Fiber-SFP) |
-| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
+| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$38 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
 | Cat6 Patch Lead 1m | 1 | Jaycar | ~$5 | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Outside Run
@@ -196,7 +196,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Brush Plate Surface Box | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
 | Mini Trunking 25x16mm (3m, cut to 2m) | 1 | Mitre 10 | ~$8 | [Marley Mini Trunking](https://www.mitre10.co.nz/shop/marley-mini-trunking-3m-25x16mm-white/p/103197) |
 | MikroTik CSS106-5G-1S Switch (5× Ethernet + 1× SFP) | 1 | PB Tech | ~$107 | [RB260GS/CSS106](https://www.pbtech.co.nz/product/NETMKT1001/MikroTik-RB260GS-5-Port-Gigabit-Managed-Switch-wit) |
-| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
+| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$38 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
 | Cat6 Patch Leads 1m | 3 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Tools
@@ -220,7 +220,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 or Bunnings electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
 - **Nylon Pull String** — smooth nylon rope/string 30m+, check Bunnings rope section
 
-### Estimated Total: ~$700 (~$565 materials + ~$130 tools)
+### Estimated Total: ~$720 (~$570 materials + ~$150 tools)
 
 ## Raw Measurements Reference
 
