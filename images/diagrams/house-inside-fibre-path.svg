@@ -57,12 +57,12 @@
   <line x1="25" y1="3" x2="25" y2="179" stroke="#333" stroke-width="0.6"/>
   <text x="20" y="93" text-anchor="end" fill="#333" font-size="4" transform="rotate(-90,20,93)">180cm</text>
 
-  <!-- Ethernet port (10cm to the right of fibre box) -->
+  <!-- Fibre outlet (10cm to the right of fibre box) -->
   <rect x="27" y="180" width="12" height="12" fill="#4a90d9" stroke="#2a6dbf" stroke-width="1.5" rx="1"/>
   <text x="33" y="188" text-anchor="middle" fill="white" font-size="3.5" font-weight="bold">E</text>
-  <text x="33" y="200" text-anchor="middle" fill="#2a6dbf" font-size="4" font-weight="bold">Ethernet</text>
+  <text x="33" y="200" text-anchor="middle" fill="#2a6dbf" font-size="4" font-weight="bold">Fibre</text>
 
-  <!-- Ethernet cable from port up to ceiling (red dotted) -->
+  <!-- Fibre cable from outlet up to ceiling (red dotted) -->
   <line x1="33" y1="180" x2="33" y2="0" stroke="red" stroke-width="2" stroke-dasharray="6,3"/>
 
   <!-- "Inside wall up to roof" label with arrow -->
@@ -76,5 +76,5 @@
   <!-- Legend -->
   <rect x="60" y="3" width="85" height="14" rx="2" fill="rgba(0,0,0,0.4)"/>
   <line x1="65" y1="10" x2="80" y2="10" stroke="red" stroke-width="2" stroke-dasharray="4,2"/>
-  <text x="84" y="13" fill="white" font-size="4">Ethernet cable</text>
+  <text x="84" y="13" fill="white" font-size="4">Fibre cable</text>
 </svg>

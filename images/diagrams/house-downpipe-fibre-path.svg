@@ -58,7 +58,7 @@
   <!-- Legend -->
   <rect x="2" y="296" width="55" height="14" rx="2" fill="rgba(255,255,255,0.95)" stroke="#ccc" stroke-width="0.5"/>
   <line x1="6" y1="303" x2="20" y2="303" stroke="red" stroke-width="2.5" stroke-dasharray="4,2"/>
-  <text x="23" y="306" fill="#333" font-size="4.5">Ethernet conduit</text>
+  <text x="23" y="306" fill="#333" font-size="4.5">Fibre conduit</text>
 
   <!-- Dimension: 272cm wall height (right side) -->
   <line x1="115" y1="20" x2="125" y2="20" stroke="#333" stroke-width="0.8"/>

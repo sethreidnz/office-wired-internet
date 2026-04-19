@@ -76,7 +76,7 @@
 
   <!-- Labels removed for clarity, see layout diagram -->
 
-  <!-- Ethernet conduit path (red dotted line) -->
+  <!-- Fibre conduit path (red dotted line) -->
   <!-- From right corner ground, straight up to water pipe, along pipe, up downpipe, into wall space -->
   <path d="
     M 668,285
@@ -104,7 +104,7 @@
   <!-- Legend -->
   <rect x="520" y="5" width="150" height="30" rx="3" fill="rgba(0,0,0,0.4)" stroke="none"/>
   <line x1="528" y1="14" x2="548" y2="14" stroke="#e63946" stroke-width="2" stroke-dasharray="6,4"/>
-  <text x="555" y="17" fill="white" font-size="6">Ethernet Conduit</text>
+  <text x="555" y="17" fill="white" font-size="6">Fibre Conduit</text>
   <rect x="528" y="22" width="20" height="8" fill="url(#overhang-hatch)" stroke="white" stroke-width="0.5"/>
   <text x="555" y="29" fill="white" font-size="6">Roof overhang</text>
 

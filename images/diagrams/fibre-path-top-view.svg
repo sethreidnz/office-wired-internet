@@ -64,13 +64,13 @@
   <text x="1450" y="2195" text-anchor="start" fill="#333" font-size="30">Fibre Box</text>
   <line x1="1440" y1="2210" x2="1292" y2="2210" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
 
-  <!-- Office ethernet port (on wall space wall) -->
+  <!-- Office fibre outlet (on wall space wall) -->
   <rect x="281" y="220" width="20" height="40" fill="#000" stroke="#000" stroke-width="2"/>
-  <text x="320" y="245" text-anchor="start" fill="white" font-size="24">Ethernet Port</text>
+  <text x="320" y="245" text-anchor="start" fill="white" font-size="24">Fibre Outlet</text>
 
-  <!-- House ethernet port (below fibre box) -->
+  <!-- House fibre outlet (below fibre box) -->
   <rect x="1268" y="2250" width="20" height="40" fill="#000" stroke="#000" stroke-width="2"/>
-  <text x="1450" y="2275" text-anchor="start" fill="#333" font-size="30">Ethernet Port</text>
+  <text x="1450" y="2275" text-anchor="start" fill="#333" font-size="30">Fibre Outlet</text>
   <line x1="1440" y1="2270" x2="1292" y2="2270" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
 
   <!-- Labels -->
@@ -88,7 +88,7 @@
   <text x="400" y="1290" fill="#666" font-size="25">Soffit</text>
   <text x="316" y="536" text-anchor="middle" fill="white" font-size="16">Door</text>
 
-  <!-- Ethernet cable route (red dotted line) - follows path/driveway -->
+  <!-- Fibre cable route (red dotted line) - follows path/driveway -->
   <path d="
     M 286,240
     L 275,240
@@ -152,7 +152,7 @@
   <line x1="1278" y1="1080" x2="1278" y2="1100" stroke="#000" stroke-width="3"/>
   <text x="983" y="1080" text-anchor="middle" fill="#000" font-size="22">590cm</text>
 
-  <!-- Measurement: Down to house ethernet port (1125cm) -->
+  <!-- Measurement: Down to house fibre outlet (1125cm) -->
   <line x1="1245" y1="1145" x2="1265" y2="1145" stroke="#000" stroke-width="3"/>
   <line x1="1255" y1="1145" x2="1255" y2="2270" stroke="#000" stroke-width="3"/>
   <line x1="1245" y1="2270" x2="1265" y2="2270" stroke="#000" stroke-width="3"/>
@@ -167,7 +167,7 @@
   <!-- Legend -->
   <rect x="960" y="150" width="350" height="170" rx="10" fill="rgba(0,0,0,0.4)" stroke="none"/>
   <line x1="985" y1="190" x2="1060" y2="190" stroke="#e63946" stroke-width="10" stroke-dasharray="25,15"/>
-  <text x="1080" y="200" fill="white" font-size="30">Ethernet Cable</text>
+  <text x="1080" y="200" fill="white" font-size="30">Fibre Cable</text>
   <rect x="985" y="220" width="30" height="30" fill="#e63946" stroke="white" stroke-width="2" rx="4"/>
   <text x="1005" y="242" text-anchor="middle" fill="white" font-size="12" font-weight="bold">PB</text>
   <text x="1080" y="243" fill="white" font-size="30">Pull Box</text>

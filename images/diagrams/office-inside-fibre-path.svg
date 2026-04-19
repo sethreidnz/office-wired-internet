@@ -41,14 +41,14 @@
   <!-- Plug 1 -->
   <rect x="255" y="161" width="12" height="12" fill="#ddd" stroke="#666" stroke-width="1" rx="1"/>
 
-  <!-- New ethernet box [E] (10cm left of plug 1) -->
+  <!-- New fibre outlet [F] (10cm left of plug 1) -->
   <rect x="233" y="161" width="12" height="12" fill="#4a90d9" stroke="#2a6dbf" stroke-width="1.5" rx="1"/>
   <text x="239" y="169" text-anchor="middle" fill="white" font-size="4" font-weight="bold">E</text>
 
-  <!-- Ethernet cable from ceiling down to box [E] (red dotted) -->
+  <!-- Fibre cable from ceiling down to outlet [F] (red dotted) -->
   <line x1="239" y1="0" x2="239" y2="161" stroke="red" stroke-width="2" stroke-dasharray="6,3"/>
 
-  <!-- Ethernet cable along ceiling toward door (red dotted) -->
+  <!-- Fibre cable along ceiling toward door (red dotted) -->
   <line x1="239" y1="3" x2="10" y2="3" stroke="red" stroke-width="2" stroke-dasharray="6,3"/>
 
   <!-- "Into wall space" label with arrow -->
@@ -57,7 +57,7 @@
 
   <!-- Labels -->
   <text x="416" y="20" text-anchor="middle" fill="#666" font-size="4">Power Back</text>
-  <text x="239" y="179" text-anchor="middle" fill="#2a6dbf" font-size="4" font-weight="bold">Ethernet</text>
+  <text x="239" y="179" text-anchor="middle" fill="#2a6dbf" font-size="4" font-weight="bold">Fibre</text>
   <text x="261" y="179" text-anchor="middle" fill="#666" font-size="4">Plug 1</text>
   <text x="340" y="179" text-anchor="middle" fill="#666" font-size="4">Plug 2</text>
 
@@ -94,7 +94,7 @@
   <!-- Legend -->
   <rect x="50" y="3" width="85" height="22" rx="2" fill="rgba(0,0,0,0.4)"/>
   <line x1="55" y1="10" x2="70" y2="10" stroke="red" stroke-width="2" stroke-dasharray="4,2"/>
-  <text x="74" y="13" fill="white" font-size="4">Ethernet cable</text>
+  <text x="74" y="13" fill="white" font-size="4">Fibre cable</text>
   <rect x="55" y="16" width="8" height="5" fill="#ddd" stroke="#666" stroke-width="0.5"/>
   <text x="74" y="21" fill="white" font-size="4">Existing boxes</text>
 </svg>

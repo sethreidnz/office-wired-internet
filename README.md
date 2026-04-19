@@ -17,9 +17,9 @@
 - Soffit overhang: 40cm
 - Dirt bed: 40cm (around house, outside soffit)
 
-### Ethernet Path Top View
+### Fibre Path Top View
 
-![Ethernet Path Top View](images/diagrams/ethernet-path-top-view.svg)
+![Fibre Path Top View](images/diagrams/fibre-path-top-view.svg)
 
 **Cable route segments:**
 
@@ -58,7 +58,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 ### House Inside Fibre Path
 
-![House Inside Ethernet Path](images/diagrams/house-inside-ethernet-path.svg)
+![House Inside Fibre Path](images/diagrams/house-inside-fibre-path.svg)
 
 **Route:**
 
@@ -78,9 +78,9 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 - Downpipe to corner of house: 16cm
 - Downpipe width: 8cm
 
-### House Downpipe Ethernet Path
+### House Downpipe Fibre Path
 
-![House Downpipe Ethernet Path](images/diagrams/house-downpipe-ethernet-path.svg)
+![House Downpipe Fibre Path](images/diagrams/house-downpipe-fibre-path.svg)
 
 **Conduit route:**
 
@@ -108,9 +108,9 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 - HP pipe: 73cm from right corner
 - Heat pump: 63cm from right corner, 78cm wide
 
-### Office Front Ethernet Path
+### Office Front Fibre Path
 
-![Office Front Ethernet Path](images/diagrams/office-front-ethernet-path.svg)
+![Office Front Fibre Path](images/diagrams/office-front-fibre-path.svg)
 
 **Conduit route segments (right to left):**
 
@@ -151,7 +151,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 ### Office Inside Fibre Path
 
-![Office Inside Ethernet Path](images/diagrams/office-inside-ethernet-path.svg)
+![Office Inside Fibre Path](images/diagrams/office-inside-fibre-path.svg)
 
 **Route:**
 
@@ -159,7 +159,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 #### Photos — Office Inside
 
-![Office inside ethernet location](images/photos/office-inside-ethernet-location.jpg)
+![Office inside fibre location](images/photos/office-inside-fibre-location.jpg)
 
 ## To Purchase
 
@@ -264,7 +264,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
   - Wall thickness — ~25cm
   - Floor to ceiling — 215cm
   - Ceiling to top of power box — 25cm
-  - Ceiling to top of ethernet port box — 163cm
+  - Ceiling to top of fibre outlet box — 163cm
 - House (inside)
   - Floor to ceiling — 245cm
   - Corner to fibre box — 202cm
