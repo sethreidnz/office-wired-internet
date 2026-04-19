@@ -375,7 +375,7 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 5. **Plan the cable route.** In the roof space, work out the path from the top plate hole (Phase 1) to the new soffit hole. Try to follow along joists/rafters where possible so you can clip the cable neatly.
 
-6. **Don't run the cable yet.** You'll pull the cable through during Phase 11. For now you just need both holes drilled and the route planned. Optionally clip a pull string along the route so you can find it easily later.
+6. **Don't run the cable yet.** You'll pull the cable through during Phase 11. For now you just need both holes drilled and the route planned.
 
 ### Phase 3: House Soffit & Downpipe
 
