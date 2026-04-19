@@ -333,7 +333,9 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 ### Phase 1: House Inside
 
-### Phase 2: House Soffit & Downpipe
+### Phase 2: House Roof Space
+
+### Phase 3: House Soffit & Downpipe
 
 ### Phase 3: House Ground to Path
 
