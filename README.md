@@ -167,10 +167,10 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Brush Plate Wall Cover | 1 | Mitre 10 | ~$8 | Search in-store — single gang brush plate |
+| Brush Plate Wall Cover | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
 | Mounting C-Clip/Bracket (plasterboard) | 1 | Bunnings | ~$3.32 | [Deta Plaster Clip](https://www.bunnings.co.nz/deta-plaster-clip-mounting-bracket-single-pack_p0310775) |
 | TP-Link MC220L Media Converter | 1 | PB Tech | ~$33 | [MC220L](https://www.pbtech.co.nz/product/NETTPL0220/TP-Link-MC220L-Gigabit-Media-Converter---Fiber-SFP) |
-| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | Search PB Tech for TL-SM311LS |
+| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
 | Cat6 Patch Lead 1m | 1 | Jaycar | ~$5 | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Outside Run
@@ -184,7 +184,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
 | 20mm 90-degree Conduit Bends | 1 | Mitre 10 | ~$3.36 | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
 | 20mm Conduit Sweep Bends | 4 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
-| 20mm Stainless Steel P-Clips | 10 | TBC | ~$2 ea | Not found at Mitre 10/Bunnings — try in-store or [RS Online](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/) |
+| 20mm PVC Conduit Mounting Clips | 10 | Bunnings | ~$0.36 ea | [Deta 20mm Clip](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-mounting-clip-single-pack_p0963492) |
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
 | 20mm Conduit Bushes/Grommets | 10 | TBC | ~$1 ea | Not found online — ask in-store at Mitre 10 or try [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
@@ -193,10 +193,10 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Brush Plate Surface Box | 1 | Mitre 10 | ~$8 | Search in-store — single gang brush plate + surface box |
+| Brush Plate Surface Box | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
 | Mini Trunking 25x16mm (3m, cut to 2m) | 1 | Mitre 10 | ~$8 | [Marley Mini Trunking](https://www.mitre10.co.nz/shop/marley-mini-trunking-3m-25x16mm-white/p/103197) |
-| MikroTik CSS106-5G-1S Switch (5× Ethernet + 1× SFP) | 1 | PB Tech | ~$107 | [CSS106-5G-1S](https://www.pbtech.co.nz/category/networking/switches/brand-mikrotik) |
-| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | Search PB Tech for TL-SM311LS |
+| MikroTik CSS106-5G-1S Switch (5× Ethernet + 1× SFP) | 1 | PB Tech | ~$107 | [RB260GS/CSS106](https://www.pbtech.co.nz/product/NETMKT1001/MikroTik-RB260GS-5-Port-Gigabit-Managed-Switch-wit) |
+| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$33 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
 | Cat6 Patch Leads 1m | 3 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
 
 ### Tools
@@ -206,9 +206,9 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Drywall/Jab Saw | 1 | Bunnings | ~$6 | [Craftright 150mm](https://www.bunnings.co.nz/craftright-jab-saw-150mm_p5710163) |
 | 25mm Spade Bit | 1 | Mitre 10 | ~$5.45 | [Spade Bits section](https://www.mitre10.co.nz/shop/tools-equipment/power-tool-accessories/drilling/drilling/flat-spade-bits/c/RC27910) |
 | Fish Tape 30m | 1 | Jaycar | ~$50 | [TH2355](https://www.jaycar.co.nz) (search TH2355) |
-| Nylon Pull String 30m+ | 1 | Mitre 10 | ~$8 | Search in-store — smooth nylon rope/string |
-| Cable Pulling Sock/Grip | 1 | TBC | ~$10 | Search in-store or online — mesh grip for cable pulling |
-| Split Loom Tubing 10m (12-16mm) | 1 | Mitre 10 | ~$10 | Search in-store — to protect fibre in roof space |
+| Nylon Pull String 30m+ | 1 | Bunnings | ~$8 | Search in-store — smooth nylon rope/string |
+| Cable Pulling Sock/Grip | 1 | Online | ~$15 | [Fruugo NZ](https://www.fruugo.co.nz/anti-slip-mesh-cable-puller-grips-flexible-multi-size-wire-pulling-socks-lassos-for-electricians/p-426325325-895339223) |
+| Split Loom Tubing 3m (16mm) | 2 | Bunnings | ~$13 ea | [Deta 16mm Split Tubing](https://www.bunnings.co.nz/deta-3m-16mm-corrugated-split-tubing_p0381015) |
 | Hacksaw | 1 | Mitre 10 | ~$15 | Search in-store |
 | Cable Clips 6-8mm (pack) | 1 | Mitre 10 | ~$5 | [HPM Cable Clips](https://www.mitre10.co.nz/shop/hpm-cable-clips/p/388902) |
 | Duct Tape | 1 | Mitre 10 | ~$8 | Available in-store |
@@ -217,10 +217,8 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 ### Items to find in-store (no online link found)
 
-- **20mm Stainless Steel P-Clips** — try Mitre 10 or Bunnings in-store, or [RS Online NZ](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/)
-- **20mm Conduit Bushes/Grommets** — ask at Mitre 10 electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
-- **Cable Pulling Sock/Grip** — mesh grip that slides over fibre cable, distributes pulling force evenly
-- **Split Loom Tubing** — 12-16mm diameter, protects fibre in roof space from being stepped on or rodents
+- **20mm Conduit Bushes/Grommets** — ask at Mitre 10 or Bunnings electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
+- **Nylon Pull String** — smooth nylon rope/string 30m+, check Bunnings rope section
 
 ### Estimated Total: ~$700 (~$565 materials + ~$130 tools)
 
