@@ -184,7 +184,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
 | 20mm 90-degree Conduit Bends | 1 | Mitre 10 | ~$3.36 | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
 | 20mm Conduit Sweep Bends | 4 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
-| 20mm PVC Conduit Mounting Clips | 10 | Bunnings | ~$0.36 ea | [Deta 20mm Clip](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-mounting-clip-single-pack_p0963492) |
+| 20mm PVC Conduit Mounting Clips | 5 | Bunnings | ~$0.36 ea | [Deta 20mm Clip](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-mounting-clip-single-pack_p0963492) |
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
 | 20mm Conduit Bushes/Grommets | 10 | TBC | ~$1 ea | Not found online — ask in-store at Mitre 10 or try [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
