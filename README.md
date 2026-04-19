@@ -341,19 +341,19 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 **Steps:**
 
-1. **Check the wall cavity from the roof space.** Get up into the roof space and find the wall above the fibre box. Look down into the wall cavity with a torch. Make sure there's a clear path — no noggings (horizontal timbers), pipes, or wires blocking the route from the ceiling down to where you want the wall plate. If something's in the way, you may need to shift the wall plate position.
+1. **Mark the wall plate position.** Hold the wall plate against the wall 10cm to the right of the fibre box, at the same height. Use a spirit level to make sure it's straight. Draw around it with a pencil.
 
-2. **Mark the wall plate position.** Back downstairs, hold the wall plate against the wall 10cm to the right of the fibre box. Use a spirit level to make sure it's straight. Draw around it with a pencil.
+2. **Drill a pilot hole to check the cavity.** Drill a small hole (5-6mm) through the plasterboard at the centre of your pencil outline. Poke your phone torch in and look up inside the wall cavity. You're checking for noggings (horizontal timbers) or pipes blocking the path upwards. If it's blocked, fill the hole with Polyfilla and try a different position. If it's clear all the way up — carry on.
 
-3. **Cut the hole.** Poke the jab saw through the plasterboard at one corner of your pencil outline. Cut along the outline. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the wall plate clips over the edges.
+3. **Cut the wall plate hole.** Using the jab saw, cut along your pencil outline around the pilot hole. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the wall plate clips over the edges.
 
-4. **Drill up into the ceiling.** Using the 25mm spade bit, drill a hole upwards through the top plate (the timber at the top of the wall frame where it meets the ceiling). This is the hole the cable will come down through from the roof space. Drill from inside the wall cavity, angling the drill upwards. You'll feel it punch through into the roof space above.
+4. **Go up to the roof space and drill through the top plate.** Measure 212cm from the house corner along the wall to find the right position (202cm to fibre box + 10cm to ethernet port). Using the 25mm spade bit, drill down through the top plate (the horizontal timber capping the wall). You'll feel it punch through into the wall cavity below. This is the hole the cable will come down through.
 
-5. **Test the path.** Straighten a wire coat hanger and poke it up through the hole you just drilled. Go up into the roof space and check you can see/feel it poking through. This confirms you've got a clear path from roof to wall plate.
+5. **Confirm the path.** Push the fish tape down through the hole. Your partner reaches into the wall plate cutout downstairs and grabs the fish tape when it appears. If they've got it, the path is confirmed. Pull the fish tape back out.
 
-6. **Mount the bracket.** Push the C-clip/mounting bracket into the hole from the front. The clips spring out behind the plasterboard and grip it. Tighten the screws until it's firm but not crushing the plasterboard.
+6. **Mount the bracket.** Push the C-clip/mounting bracket into the wall plate hole from the front. The clips spring out behind the plasterboard and grip it. Tighten the screws until it's firm but not crushing the plasterboard.
 
-7. **Leave the wall plate off for now.** Don't attach the wall plate or keystone jacks yet — you'll do that after pulling the cable through in Phase 11. For now you just need the hole and bracket ready.
+7. **Leave the wall plate off for now.** Don't attach the wall plate or keystone jacks yet — you'll do that after pulling the cable through in Phase 12. For now you just need the hole and bracket ready.
 
 ### Phase 2: House Roof Space
 
