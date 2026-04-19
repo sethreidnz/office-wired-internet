@@ -35,17 +35,15 @@
 - Office inside (bare cable in trunking): 163cm ceiling to pattress box
 - **Total: ~3,097cm (~31m) + slack**
 
-**Bends in the run (7 total):**
+**Bends in the run (5 total):**
 
-1. Downpipe base → along ground (sweep bend)
-2. Under path → turn onto horizontal path (sweep bend)
-3. Horizontal path → turn onto driveway edge (sweep bend)
-4. Driveway edge → up office corner (sweep bend)
-5. Top of office corner → along water pipe (90° bend)
-6. Water pipe → up downpipe into overhang (90° bend)
-7. Into wall space (90° bend)
+1. House downpipe base → into ground towards path (sweep bend)
+2. Underground turn → parallel with horizontal path (sweep bend)
+3. Turn towards office along driveway edge (sweep bend) — **pull box here**
+4. Driveway edge → up office wall (sweep bend)
+5. Top of office wall → towards overhang (standard 90° bend)
 
-**Pull box** splits the run at bend 3, keeping each segment under the 4-bend maximum. Use cable-pulling lubricant and sweep bends wherever space allows.
+Conduit ends at the overhang wood — cable passes through into the wall space bare. **Pull box** at bend 3 splits the run into two segments (2 bends + 3 bends). Use cable-pulling lubricant at each segment.
 
 ### House Inside Layout
 
@@ -184,8 +182,8 @@
 | Weatherproof Pull Box (junction box with lid) | 1 | Mitre 10 | ~$10 | Search in-store — IP55+ rated, 20mm knockouts |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
-| 20mm 90-degree Conduit Bends | 5 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
-| 20mm Conduit Sweep Bends | 5 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
+| 20mm 90-degree Conduit Bends | 3 | Mitre 10 | ~$3.36 ea | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
+| 20mm Conduit Sweep Bends | 6 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
 | 20mm Stainless Steel P-Clips | 10 | TBC | ~$2 ea | Not found at Mitre 10/Bunnings — try in-store or [RS Online](https://nz.rs-online.com/web/c/fasteners-fixings/clips-springs/p-clips/) |
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
