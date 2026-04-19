@@ -333,23 +333,45 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 ### Phase 1: House Inside
 
+**What you're doing:** Cutting a hole in the wall next to the fibre box, mounting a wall plate, and drilling up into the ceiling so cable can get from the roof space down to the new ethernet port.
+
+**Tools needed:** Jab saw, 25mm spade bit, drill, pencil, spirit level, wire coat hanger
+
+**Parts needed:** Double-gang vertical wall plate, mounting C-clip/bracket, 2× shielded keystone jacks
+
+**Steps:**
+
+1. **Mark the wall plate position.** Hold the wall plate against the wall 10cm to the right of the fibre box. Use a spirit level to make sure it's straight. Draw around it with a pencil.
+
+2. **Cut the hole.** Poke the jab saw through the plasterboard at one corner of your pencil outline. Cut along the outline. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the wall plate clips over the edges.
+
+3. **Check behind the wall.** Before drilling, stick your hand or a torch through the hole and look up. Make sure there's nothing in the way (pipes, wires, noggings). You need a clear path straight up to the ceiling.
+
+4. **Drill up into the ceiling.** Using the 25mm spade bit, drill a hole upwards through the top plate (the timber at the top of the wall frame where it meets the ceiling). This is the hole the cable will come down through from the roof space. Drill from inside the wall cavity, angling the drill upwards. You'll feel it punch through into the roof space above.
+
+5. **Test the path.** Straighten a wire coat hanger and poke it up through the hole you just drilled. Go up into the roof space and check you can see/feel it poking through. This confirms you've got a clear path from roof to wall plate.
+
+6. **Mount the bracket.** Push the C-clip/mounting bracket into the hole from the front. The clips spring out behind the plasterboard and grip it. Tighten the screws until it's firm but not crushing the plasterboard.
+
+7. **Leave the wall plate off for now.** Don't attach the wall plate or keystone jacks yet — you'll do that after pulling the cable through in Phase 11. For now you just need the hole and bracket ready.
+
 ### Phase 2: House Roof Space
 
 ### Phase 3: House Soffit & Downpipe
 
-### Phase 3: House Ground to Path
+### Phase 4: House Ground to Path
 
-### Phase 4: Under Path
+### Phase 5: Under Path
 
-### Phase 5: Along Horizontal Path to Pull Box
+### Phase 6: Along Horizontal Path to Pull Box
 
-### Phase 6: Pull Box to Driveway Edge
+### Phase 7: Pull Box to Driveway Edge
 
-### Phase 7: Driveway Edge to Office Wall
+### Phase 8: Driveway Edge to Office Wall
 
-### Phase 8: Up Office Wall & Into Overhang
+### Phase 9: Up Office Wall & Into Overhang
 
-### Phase 9: Office Wall Space & Inside
+### Phase 10: Office Wall Space & Inside
 
 ### Phase 10: Cable Pull
 
