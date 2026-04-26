@@ -2,20 +2,31 @@
 
 ## Diagrams
 
+> **Note:** All diagrams in this project are SVG and drawn to scale, where **1px = 1cm**.
+
 ### Property Layout Top View
 
 ![Property Layout Top View](images/diagrams/property-layout-top-view.svg)
 
 **Key dimensions (all to-scale, 1px = 1cm):**
 
-- Office: 382cm × 500cm (outside)
-- Garage: 265cm × 500cm (outside)
-- Wall space: 21cm × 500cm
-- Grass: 690cm × 1145cm
-- House: 1093cm × 1210cm
+- Office: 365cm × 500cm (outside)
+- Garage: 373cm × 500cm (outside)
+- Wall space: 17cm × 500cm
+- Office dirt bed: 78cm (below office, no soffit)
+- Grass: 680cm × 619cm
+- House: 1080cm × 1168cm
+- Driveway (vertical): 301cm wide
 - Paths: 80cm wide
-- Soffit overhang: 40cm
-- Dirt bed: 40cm (around house, outside soffit)
+- House soffit overhang: 40cm (within dirt bed)
+- House dirt bed: 80cm (around house, includes soffit)
+
+**Horizontal totals:**
+- Office level: Garage(373) + Wall space(17) + Office(365) + Grass(680) + Vertical path(80) = 1515cm
+- House level: Driveway(301) + House(1080) + Dirt bed(80) + Vertical path(80) = 1541cm
+
+**Vertical total:**
+- Office(500) + Dirt(78) + Grass(619) + H-path(80) + House dirt(80) + House(1168) = 2525cm
 
 ### Fibre Path Top View
 
@@ -170,14 +181,14 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Brush Plate Wall Cover | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
 | Mounting C-Clip/Bracket (plasterboard) | 1 | Bunnings | ~$3.32 | [Deta Plaster Clip](https://www.bunnings.co.nz/deta-plaster-clip-mounting-bracket-single-pack_p0310775) |
 | TP-Link MC220L Media Converter | 1 | PB Tech | ~$33 | [MC220L](https://www.pbtech.co.nz/product/NETTPL0220/TP-Link-MC220L-Gigabit-Media-Converter---Fiber-SFP) |
-| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$38 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
-| Cat6 Patch Lead 1m | 1 | Jaycar | ~$5 | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
+| MikroTik S-31DLC20D SFP Module (Singlemode) | 1 | PB Tech | ~$45 | [S-31DLC20D](https://www.pbtech.co.nz/product/NETMKT1065/MikroTik-S-31DLC20D-SFP-module-125G-SM-20km-1310nm) |
+| Cat6 Patch Lead 1m | 1 | PB Tech | ~$5 | [Dynamix Cat6 1m](https://www.pbtech.co.nz/product/ITPCAQ601BL/Dynamix-PLE-C6A-1-Cat6-RJ45-Patch-Lead---1m---Blue) |
 
 ### Outside Run
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Singlemode Fibre Cable 50m (LC-LC, pre-terminated) | 1 | PB Tech | ~$62 | [FSM-LCLC-50](https://www.pbtech.co.nz/product/CABDNX7655/Dynamix-FSM-LCLC-50-OS2-LC-to-LC-Fibre-Lead---50m) |
+| Singlemode Fibre Cable 50m (LC-LC, pre-terminated) | 2 | PB Tech | ~$62 ea | [FSM-LCLC-50](https://www.pbtech.co.nz/product/CABDNX7655/Dynamix-FSM-LCLC-50-OS2-LC-to-LC-Fibre-Lead---50m) |
 | Weatherproof Pull Box (Deta 108×108×76mm Adaptable Box) | 1 | Bunnings | ~$17.70 | [Deta Adaptable Box](https://www.bunnings.co.nz/deta-108-x-108-x-76mm-adaptable-box-108-x-108-x-76mm_p4330859) |
 | 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Bunnings | ~$0.48 ea | [Deta 20mm Adaptor](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-adaptor-with-lock-ring-single-pack_p0963443) |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
@@ -188,6 +199,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
 | 20mm Conduit Bushes/Grommets | 10 | TBC | ~$1 ea | Not found online — ask in-store at Mitre 10 or try [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
+| Cable Pulling Lubricant | 1 | Mitre 10 | ~$15 | Ask in-store — electrical section, or search for wire-pulling gel/lube |
 
 ### Office Inside
 
@@ -196,8 +208,8 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | Brush Plate Surface Box | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
 | Mini Trunking 25x16mm (3m, cut to 2m) | 1 | Mitre 10 | ~$8 | [Marley Mini Trunking](https://www.mitre10.co.nz/shop/marley-mini-trunking-3m-25x16mm-white/p/103197) |
 | MikroTik CSS106-5G-1S Switch (5× Ethernet + 1× SFP) | 1 | PB Tech | ~$107 | [RB260GS/CSS106](https://www.pbtech.co.nz/product/NETMKT1001/MikroTik-RB260GS-5-Port-Gigabit-Managed-Switch-wit) |
-| TP-Link TL-SM311LS SFP Module (Singlemode) | 1 | PB Tech | ~$38 | [TL-SM311LS](https://www.pbtech.co.nz/product/NETTPL3110/TP-Link-TL-SM311LS-Gigabit-SFP-Single-Mode-MiniGBI) |
-| Cat6 Patch Leads 1m | 3 | Jaycar | ~$5 ea | [YN8502](https://www.jaycar.co.nz/cat6-patch-cable-1meter-blue/p/YN8502) |
+| MikroTik S-31DLC20D SFP Module (Singlemode) | 1 | PB Tech | ~$45 | [S-31DLC20D](https://www.pbtech.co.nz/product/NETMKT1065/MikroTik-S-31DLC20D-SFP-module-125G-SM-20km-1310nm) |
+| Cat6 Patch Leads 1m | 3 | PB Tech | ~$5 ea | [Dynamix Cat6 1m](https://www.pbtech.co.nz/product/ITPCAQ601BL/Dynamix-PLE-C6A-1-Cat6-RJ45-Patch-Lead---1m---Blue) |
 
 ### Tools
 
@@ -205,7 +217,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 |------|-----|-------|-------|------|
 | Drywall/Jab Saw | 1 | Bunnings | ~$6 | [Craftright 150mm](https://www.bunnings.co.nz/craftright-jab-saw-150mm_p5710163) |
 | 25mm Spade Bit | 1 | Mitre 10 | ~$5.45 | [Spade Bits section](https://www.mitre10.co.nz/shop/tools-equipment/power-tool-accessories/drilling/drilling/flat-spade-bits/c/RC27910) |
-| Fish Tape 30m | 1 | Jaycar | ~$50 | [TH2355](https://www.jaycar.co.nz) (search TH2355) |
+| Fish Tape 30m | 1 | PB Tech | ~$49 | [Goldtool Fish Tape 30m](https://www.pbtech.co.nz/product/TOLGOL13030200/Goldtool-Fish-Tape-30m---Strong-High-Carbon-Steel) |
 | Nylon Pull String 30m+ | 1 | Bunnings | ~$8 | Search in-store — smooth nylon rope/string |
 | Cable Pulling Sock/Grip | 1 | Online | ~$15 | [Fruugo NZ](https://www.fruugo.co.nz/anti-slip-mesh-cable-puller-grips-flexible-multi-size-wire-pulling-socks-lassos-for-electricians/p-426325325-895339223) |
 | Split Loom Tubing 3m (16mm) | 2 | Bunnings | ~$13 ea | [Deta 16mm Split Tubing](https://www.bunnings.co.nz/deta-3m-16mm-corrugated-split-tubing_p0381015) |
@@ -220,7 +232,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 or Bunnings electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
 - **Nylon Pull String** — smooth nylon rope/string 30m+, check Bunnings rope section
 
-### Estimated Total: ~$720 (~$570 materials + ~$150 tools)
+### Estimated Total: ~$811 (~$661 materials + ~$150 tools)
 
 ## Raw Measurements Reference
 
@@ -282,17 +294,17 @@ These shape dimension tables are used for maintaining the to-scale SVG diagrams 
 
 | Shape | Width | Depth | Notes |
 |-------|-------|-------|-------|
-| Office | 382cm | 500cm | Outside measurement |
-| Garage | 265cm | 500cm | Outside measurement |
-| Wall Space | 21cm | 500cm | Between garage and office |
-| Driveway | 265cm | 645cm | Same width as garage |
-| Dirt (below office) | 382cm | 60cm | Estimated |
-| Horizontal Path | 690cm | 80cm | Same width as grass |
-| Vertical Path | 80cm | 1935cm | 645cm above + 80cm horiz path + 1210cm house side |
-| Grass | 690cm | 1145cm | 645cm gap + 500cm office depth, extends alongside office |
-| House | 1093cm | 1210cm | Width: office(382)+wall(21)+grass(690). Depth: path(500)+window(450)+fibrebox(110)+end(150) |
-| Soffit | 40cm | 40cm | Overhang around house |
-| Dirt (around house) | 40cm | 1210cm | Dirt bed around house, outside soffit |
+| Office | 365cm | 500cm | Outside measurement |
+| Garage | 373cm | 500cm | Outside measurement |
+| Wall Space | 17cm | 500cm | Between garage and office |
+| Driveway (vertical) | 301cm | 2025cm | Runs from bottom of garage to bottom of house |
+| Dirt (below office) | 365cm | 78cm | No soffit on office |
+| Horizontal Path | 680cm | 80cm | Same width as grass |
+| Vertical Path | 80cm | ~2525cm | Full height of diagram |
+| Grass | 680cm | 619cm | Between office dirt and horizontal path |
+| House | 1080cm | 1168cm | Sits between driveway and dirt bed |
+| Soffit | 40cm | 40cm | Overhang around house, within dirt bed |
+| Dirt (around house) | 80cm | 80cm | Top and right sides of house only. Left side flush with driveway, bottom is edge of diagram |
 
 ### Office Front Elevation Shapes
 
