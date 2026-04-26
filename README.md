@@ -212,7 +212,10 @@ Conduit goes straight up the office corner, turns left along the top and into th
 | Item | Qty | Price (inc GST) |
 |------|-----|-------|
 | 20mm Rigid Conduit (4m lengths) | 10 | $7.58 ea |
-| **Bunnings Airport total** | | **$75.80** |
+| 20mm Conduit Adaptors with Lock Ring | 2 | $0.48 ea |
+| Polyester Pull String 80m | 1 | TBC |
+| Polyfilla Gap Filler | 1 | TBC |
+| **Bunnings Airport total** | | **TBC** |
 
 ### ✅ Ordered — Mitre 10 (delivery — couplers)
 
@@ -252,11 +255,8 @@ Conduit goes straight up the office corner, turns left along the top and into th
 
 | Item | Qty | Where to look |
 |------|-----|---------------|
-| 20mm Conduit Adaptors (for pull box) | 2 | Mitre 10 in-store, Bunnings in-store, CEF or Ideal Electrical |
 | 20mm Conduit Bushes/Grommets | 10 | Mitre 10 in-store, Bunnings electrical counter, [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
 | Cable Pulling Lubricant | 1 | CEF or Ideal Electrical, Mitre 10 electrical aisle |
-| Nylon Pull String 30m+ | 1 | Bunnings rope section in-store |
-| Wall Filler (Polyfilla) | 1 | Mitre 10 or Bunnings paint section |
 | Cable Pulling Sock/Grip | 1 | [Fruugo NZ](https://www.fruugo.co.nz/anti-slip-mesh-cable-puller-grips-flexible-multi-size-wire-pulling-socks-lassos-for-electricians/p-426325325-895339223), or ask Mitre 10/Bunnings electrical |
 
 ### Spent so far: $734.31
