@@ -192,7 +192,7 @@ Conduit goes straight up the office corner, turns left along the top and into th
 |------|-----|-------|-------|------|
 | Singlemode Fibre Cable 50m (LC-LC UPC, pre-terminated, OS2 duplex) | 2 | FS.com | ~$38.50 ea | [LC UPC to LC UPC 50m OS2](https://www.fs.com/au/products/177394.html?now_cid=897) |
 | Weatherproof Pull Box (Deta 108×108×76mm Adaptable Box) | 1 | Bunnings | ~$17.70 | [Deta Adaptable Box](https://www.bunnings.co.nz/deta-108-x-108-x-76mm-adaptable-box-108-x-108-x-76mm_p4330859) |
-| 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Bunnings | ~$0.48 ea | [Deta 20mm Adaptor](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-adaptor-with-lock-ring-single-pack_p0963443) |
+| 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Mitre 10 | ~$2.03 ea | [Marley 20mm Adaptor](https://www.mitre10.co.nz/shop/marley-arma-conduit-plain-to-screw-adaptor-20mm-grey/p/305540) |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
 | 20mm Conduit Sweep Bends | 7 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
@@ -221,7 +221,7 @@ Conduit goes straight up the office corner, turns left along the top and into th
 | Fish Tape 30m | 1 | PB Tech | ~$49 | [Goldtool Fish Tape 30m](https://www.pbtech.co.nz/product/TOLGOL13030200/Goldtool-Fish-Tape-30m---Strong-High-Carbon-Steel) |
 | Nylon Pull String 30m+ | 1 | Bunnings | ~$8 | Search in-store — smooth nylon rope/string |
 | Cable Pulling Sock/Grip | 1 | Online | ~$15 | [Fruugo NZ](https://www.fruugo.co.nz/anti-slip-mesh-cable-puller-grips-flexible-multi-size-wire-pulling-socks-lassos-for-electricians/p-426325325-895339223) |
-| Split Loom Tubing 3m (16mm) | 2 | Bunnings | ~$13 ea | [Deta 16mm Split Tubing](https://www.bunnings.co.nz/deta-3m-16mm-corrugated-split-tubing_p0381015) |
+| Split Loom Tubing 3m (16mm) | 1 | Bunnings | ~$13 | [Deta 16mm Split Tubing](https://www.bunnings.co.nz/deta-3m-16mm-corrugated-split-tubing_p0381015) |
 | Hacksaw | 1 | Mitre 10 | ~$15 | Search in-store |
 | Cable Clips 6-8mm (pack) | 1 | Mitre 10 | ~$5 | [HPM Cable Clips](https://www.mitre10.co.nz/shop/hpm-cable-clips/p/388902) |
 | Duct Tape | 1 | Mitre 10 | ~$8 | Available in-store |
@@ -233,7 +233,7 @@ Conduit goes straight up the office corner, turns left along the top and into th
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 or Bunnings electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
 - **Nylon Pull String** — smooth nylon rope/string 30m+, check Bunnings rope section
 
-### Estimated Total: ~$782 (~$632 materials + ~$150 tools)
+### Estimated Total: ~$769 (~$619 materials + ~$150 tools)
 
 ## Raw Measurements Reference
 
