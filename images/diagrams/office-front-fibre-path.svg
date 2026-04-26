@@ -25,16 +25,16 @@
   <rect width="688" height="310" fill="#87CEEB"/>
 
   <!-- Cream wall background (garage + wall space + soffit area) -->
-  <rect x="0" y="40" width="414" height="245" fill="#e8e4dc" stroke="none"/>
+  <rect x="0" y="40" width="337" height="245" fill="#e8e4dc" stroke="none"/>
 
   <!-- Cream soffit strip above office blockwork -->
-  <rect x="414" y="40" width="254" height="45" fill="#e8e4dc" stroke="none"/>
+  <rect x="337" y="40" width="331" height="45" fill="#e8e4dc" stroke="none"/>
 
-  <!-- Garage roller door -->
-  <rect x="10" y="80" width="260" height="205" fill="url(#roller-door)" stroke="#999" stroke-width="1"/>
+  <!-- Garage roller door: x=320-260=60 -->
+  <rect x="60" y="80" width="260" height="205" fill="url(#roller-door)" stroke="#999" stroke-width="1"/>
 
-  <!-- Office blockwork (right of door space) -->
-  <rect x="414" y="85" width="227" height="200" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
+  <!-- Office blockwork (right of door space): x=668-227=441 -->
+  <rect x="441" y="85" width="227" height="200" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
 
   <!-- Roof/fascia -->
   <polygon points="0,38 132,30 668,38 668,44 132,36 0,44" fill="#4a3a2a"/>
@@ -43,58 +43,55 @@
   <polygon points="0,0 0,38 132,30" fill="#87CEEB"/>
   <polygon points="132,30 668,38 668,0 0,0" fill="#87CEEB"/>
 
-  <!-- Door space -->
-  <rect x="310" y="80" width="104" height="205" fill="#2a2a2a"/>
-  <rect x="313" y="83" width="98" height="199" fill="#1a1a1a" stroke="#444" stroke-width="1"/>
+  <!-- Door space: x=441-104=337 -->
+  <rect x="337" y="80" width="104" height="205" fill="#2a2a2a"/>
+  <rect x="340" y="83" width="98" height="199" fill="#1a1a1a" stroke="#444" stroke-width="1"/>
 
   <!-- Door handle -->
-  <rect x="390" y="160" width="3" height="12" fill="#888"/>
+  <rect x="425" y="160" width="3" height="12" fill="#888"/>
 
-  <!-- Water drainage pipe -->
-  <rect x="310" y="80" width="331" height="8" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
+  <!-- Water drainage pipe: from door left edge across to office corner -->
+  <rect x="337" y="80" width="331" height="8" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
   <!-- Pipe brackets -->
-  <rect x="400" y="79" width="4" height="10" fill="#333"/>
-  <rect x="480" y="79" width="4" height="10" fill="#333"/>
-  <rect x="560" y="79" width="4" height="10" fill="#333"/>
+  <rect x="440" y="79" width="4" height="10" fill="#333"/>
+  <rect x="520" y="79" width="4" height="10" fill="#333"/>
+  <rect x="600" y="79" width="4" height="10" fill="#333"/>
   <!-- Pipe label -->
   <text x="470" y="87" text-anchor="middle" fill="#333" font-size="6">Water Drainage</text>
 
   <!-- Downpipe -->
   <rect x="428" y="55" width="10" height="25" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
 
-  <!-- HP Pipe (72cm from right corner) -->
+  <!-- Downpipe: above door area -->
+  <rect x="460" y="55" width="10" height="25" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
+
+  <!-- HP Pipe (72cm from right corner): x=668-72=596 -->
   <rect x="596" y="80" width="8" height="205" fill="#c0c0c0" stroke="#999" stroke-width="0.5"/>
   <!-- Box at top of HP pipe -->
   <rect x="593" y="72" width="14" height="12" fill="#c0c0c0" stroke="#999" stroke-width="1"/>
 
-  <!-- Heat pump (62cm from right corner) -->
-  <rect x="530" y="240" width="78" height="45" fill="#e0e0e0" stroke="#aaa" stroke-width="1" rx="2"/>
-  <text x="569" y="266" text-anchor="middle" fill="#333" font-size="7" font-weight="bold">Heat Pump</text>
+  <!-- Heat pump (62cm from right corner): right edge at 606, left at 528 -->
+  <rect x="528" y="240" width="78" height="45" fill="#e0e0e0" stroke="#aaa" stroke-width="1" rx="2"/>
+  <text x="567" y="266" text-anchor="middle" fill="#333" font-size="7" font-weight="bold">Heat Pump</text>
 
   <!-- Overhang hatch (above door space only) -->
-  <rect x="310" y="44" width="120" height="36" fill="url(#overhang-hatch)" stroke="rgba(0,0,0,0.15)" stroke-width="1"/>
+  <rect x="337" y="44" width="120" height="36" fill="url(#overhang-hatch)" stroke="rgba(0,0,0,0.15)" stroke-width="1"/>
 
   <!-- Labels removed for clarity, see layout diagram -->
 
   <!-- Fibre conduit path (red dotted line) -->
-  <!-- From right corner ground, straight up to water pipe, along pipe, up downpipe, into wall space -->
+  <!-- From right corner ground, straight up to roof level, then left into wall space -->
   <path d="
     M 668,285
-    L 668,84
-    L 440,84
-    L 440,62
-    L 293,62
+    L 668,62
+    L 320,62
   "
   fill="none" stroke="#e63946" stroke-width="2" stroke-dasharray="6,4"/>
 
   <!-- "Goes back into the wallspace" label -->
-  <text x="293" y="22" text-anchor="middle" fill="#e63946" font-size="6">Goes back into</text>
-  <text x="293" y="29" text-anchor="middle" fill="#e63946" font-size="6">the wall space</text>
-  <line x1="293" y1="31" x2="293" y2="58" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
-
-  <!-- "Into wall space" label -->
-  <text x="425" y="22" text-anchor="middle" fill="#e63946" font-size="6">Into wall space</text>
-  <line x1="425" y1="24" x2="425" y2="58" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
+  <text x="320" y="22" text-anchor="middle" fill="#e63946" font-size="6">Goes back into</text>
+  <text x="320" y="29" text-anchor="middle" fill="#e63946" font-size="6">the wall space</text>
+  <line x1="320" y1="31" x2="320" y2="58" stroke="#e63946" stroke-width="1" marker-end="url(#arrow-red)"/>
 
   <!-- "Up office corner" label -->
   <text x="640" y="180" fill="#e63946" font-size="6">Up office</text>
@@ -111,21 +108,15 @@
   <!-- White strip at bottom for measurement -->
   <rect x="0" y="285" width="688" height="25" fill="white"/>
 
-  <!-- 1) Up office corner (200cm) - right of line -->
-  <line x1="675" y1="84" x2="679" y2="84" stroke="#000" stroke-width="1"/>
-  <line x1="677" y1="84" x2="677" y2="285" stroke="#000" stroke-width="1"/>
+  <!-- 1) Up office corner (325cm) - right of line -->
+  <line x1="675" y1="62" x2="679" y2="62" stroke="#000" stroke-width="1"/>
+  <line x1="677" y1="62" x2="677" y2="285" stroke="#000" stroke-width="1"/>
   <line x1="675" y1="285" x2="679" y2="285" stroke="#000" stroke-width="1"/>
-  <text x="683" y="185" text-anchor="start" fill="#000" font-size="5" transform="rotate(-90,683,185)">200cm</text>
+  <text x="683" y="175" text-anchor="start" fill="#000" font-size="5" transform="rotate(-90,683,175)">325cm</text>
 
-  <!-- 2) Horizontal along water pipe (228cm) - below inline -->
-  <line x1="440" y1="92" x2="440" y2="96" stroke="#000" stroke-width="1"/>
-  <line x1="440" y1="94" x2="668" y2="94" stroke="#000" stroke-width="1"/>
-  <line x1="668" y1="92" x2="668" y2="96" stroke="#000" stroke-width="1"/>
-  <text x="554" y="101" text-anchor="middle" fill="#000" font-size="5">228cm</text>
-
-  <!-- 3) Up downpipe (22cm) - right of line -->
-  <line x1="447" y1="62" x2="451" y2="62" stroke="#000" stroke-width="1"/>
-  <line x1="449" y1="62" x2="449" y2="84" stroke="#000" stroke-width="1"/>
-  <line x1="447" y1="84" x2="451" y2="84" stroke="#000" stroke-width="1"/>
-  <text x="457" y="76" text-anchor="start" fill="#000" font-size="5">22cm</text>
+  <!-- 2) Horizontal along top to wall space (348cm) -->
+  <line x1="320" y1="50" x2="320" y2="56" stroke="#000" stroke-width="1"/>
+  <line x1="320" y1="53" x2="668" y2="53" stroke="#000" stroke-width="1"/>
+  <line x1="668" y1="50" x2="668" y2="56" stroke="#000" stroke-width="1"/>
+  <text x="494" y="49" text-anchor="middle" fill="#000" font-size="5">348cm</text>
 </svg>

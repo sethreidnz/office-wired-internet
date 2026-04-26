@@ -41,10 +41,10 @@
 - Alongside driveway edge (conduit, buried 30cm deep): ~667cm
 - **Pull box** at corner where driveway meets horizontal path (weatherproof junction box, buried)
 - Alongside horizontal path edge (conduit, buried 30cm deep): ~600cm
-- Office front (conduit, P-clipped to wall/pipes): 450cm (200+228+22)
+- Office front (conduit, P-clipped to wall): 673cm (325cm up corner + 348cm along top to wall space)
 - Office wall space (bare fibre): 270cm down inside wall
 - Office inside (bare fibre in trunking): 163cm ceiling to surface box
-- **Total: ~3,316cm (~33m) + slack**
+- **Total: ~3,539cm (~35m) + slack**
 
 **Bends in the run (5 total):**
 
@@ -52,9 +52,9 @@
 2. Underground turn → parallel with horizontal path (sweep bend)
 3. Turn towards office along driveway edge (sweep bend) — **pull box here**
 4. Driveway edge → up office wall (sweep bend)
-5. Top of office wall → towards overhang (standard 90° bend)
+5. Top of office wall → left along top into wall space (sweep bend)
 
-Conduit ends at the overhang wood — cable passes through into the wall space bare. **Pull box** at bend 3 splits the run into two segments (2 bends + 3 bends). Use cable-pulling lubricant at each segment.
+Conduit goes straight up the office corner, turns left along the top and into the wall space. **Pull box** at bend 3 splits the run into two segments (2 bends + 3 bends). Use cable-pulling lubricant at each segment.
 
 ### House Inside Layout
 
@@ -195,8 +195,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 | 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Bunnings | ~$0.48 ea | [Deta 20mm Adaptor](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-adaptor-with-lock-ring-single-pack_p0963443) |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
 | 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
-| 20mm 90-degree Conduit Bends | 1 | Mitre 10 | ~$3.36 | [Marley 90° Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-plain-bend-20mm-grey/p/103094) |
-| 20mm Conduit Sweep Bends | 4 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
+| 20mm Conduit Sweep Bends | 5 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
 | 20mm PVC Conduit Mounting Clips | 5 | Bunnings | ~$0.36 ea | [Deta 20mm Clip](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-mounting-clip-single-pack_p0963492) |
 | Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
 | Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
