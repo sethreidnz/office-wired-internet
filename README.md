@@ -35,16 +35,16 @@
 **Cable route segments:**
 
 - House inside (bare fibre): ~65cm up through wall into ceiling + ~560cm across roof space (to soffit hole)
-- House downpipe (conduit): 272cm down alongside downpipe
-- House ground to path (conduit, buried 30cm deep): ~105cm
+- House downpipe (conduit): 275cm down alongside downpipe
+- House ground to path (conduit, buried 30cm deep): ~186cm (26cm corner + 80cm dirt + 80cm path)
 - Under path (conduit, buried below path base): ~80cm
-- Alongside driveway edge (conduit, buried 30cm deep): ~615cm
+- Alongside driveway edge (conduit, buried 30cm deep): ~667cm
 - **Pull box** at corner where driveway meets horizontal path (weatherproof junction box, buried)
-- Alongside horizontal path edge (conduit, buried 30cm deep): ~590cm
-- Office front (conduit, P-clipped to wall/pipes): 377cm (200+155+22)
+- Alongside horizontal path edge (conduit, buried 30cm deep): ~600cm
+- Office front (conduit, P-clipped to wall/pipes): 450cm (200+228+22)
 - Office wall space (bare fibre): 270cm down inside wall
 - Office inside (bare fibre in trunking): 163cm ceiling to surface box
-- **Total: ~3,097cm (~31m) + slack**
+- **Total: ~3,316cm (~33m) + slack**
 
 **Bends in the run (5 total):**
 
