@@ -176,64 +176,94 @@ Conduit goes straight up the office corner, turns left along the top and into th
 
 ## To Purchase
 
-### House Inside
+### ✅ Ordered — PB Tech (arriving ~5 May)
 
-| Item | Qty | Store | Price | Link |
-|------|-----|-------|-------|------|
-| Brush Plate Wall Cover | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
-| Mounting C-Clip/Bracket (plasterboard) | 1 | Bunnings | ~$3.32 | [Deta Plaster Clip](https://www.bunnings.co.nz/deta-plaster-clip-mounting-bracket-single-pack_p0310775) |
-| TP-Link MC220L Media Converter | 1 | PB Tech | ~$33 | [MC220L](https://www.pbtech.co.nz/product/NETTPL0220/TP-Link-MC220L-Gigabit-Media-Converter---Fiber-SFP) |
-| MikroTik S-31DLC20D SFP Module (Singlemode) | 1 | PB Tech | ~$45 | [S-31DLC20D](https://www.pbtech.co.nz/product/NETMKT1065/MikroTik-S-31DLC20D-SFP-module-125G-SM-20km-1310nm) |
-| Cat6 Patch Lead 1m | 1 | PB Tech | ~$5 | [Dynamix Cat6 1m](https://www.pbtech.co.nz/product/ITPCAQ601BL/Dynamix-PLE-C6A-1-Cat6-RJ45-Patch-Lead---1m---Blue) |
+| Item | Qty | Price (ex GST) |
+|------|-----|-------|
+| TP-Link MC220L Media Converter | 1 | $28.70 |
+| MikroTik CSS106-5G-1S Switch (5× Ethernet + 1× SFP) | 1 | $92.99 |
+| MikroTik S-31DLC20D SFP Module (Singlemode) | 2 | $48.70 ea |
+| Cat6 Patch Lead 1m | 4 | $4.27 ea |
+| Goldtool Fish Tape 30m | 1 | $42.61 |
+| Delivery + surcharge | | $14.12 |
+| **PB Tech total (inc GST)** | | **$336.83** |
 
-### Outside Run
+### ✅ Ordered — FS.com (arriving ~1 May)
 
-| Item | Qty | Store | Price | Link |
-|------|-----|-------|-------|------|
-| Singlemode Fibre Cable 50m (LC-LC UPC, pre-terminated, OS2 duplex) | 2 | FS.com | ~$38.50 ea | [LC UPC to LC UPC 50m OS2](https://www.fs.com/au/products/177394.html?now_cid=897) |
-| Weatherproof Pull Box (Deta 108×108×76mm Adaptable Box) | 1 | Bunnings | ~$17.70 | [Deta Adaptable Box](https://www.bunnings.co.nz/deta-108-x-108-x-76mm-adaptable-box-108-x-108-x-76mm_p4330859) |
-| 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Mitre 10 | ~$2.03 ea | [Marley 20mm Adaptor](https://www.mitre10.co.nz/shop/marley-arma-conduit-plain-to-screw-adaptor-20mm-grey/p/305540) |
-| 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
-| 20mm Conduit Couplers/Joiners | 10 | Mitre 10 | ~$1 ea | [Marley Coupling](https://www.mitre10.co.nz/shop/marley-conduit-plain-coupling-20mm-grey/p/103097) |
-| 20mm Conduit Sweep Bends | 7 | Mitre 10 | ~$6.28 ea | [Marley Sweep Bend](https://www.mitre10.co.nz/shop/marley-conduit-90-degree-sweep-bend-20mm-grey/p/103200) |
-| 20mm PVC Conduit Mounting Clips | 20 | Bunnings | ~$0.36 ea | [Deta 20mm Clip](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-mounting-clip-single-pack_p0963492) |
-| Conduit Glue (PVC Cement) | 1 | Mitre 10 | ~$12 | [ADOS PVC Cement 125ml](https://www.mitre10.co.nz/shop/ados-pvc-pipe-cement-clear-pvc-adhesive-125ml-clear/p/370313) |
-| Silicone Sealant (clear) | 1 | Mitre 10 | ~$11 | [Gorilla Silicone 300ml](https://www.mitre10.co.nz/shop/gorilla-plumbers-silicone-sealant-300ml-clear/p/104833) |
-| 20mm Conduit Bushes/Grommets | 10 | TBC | ~$1 ea | Not found online — ask in-store at Mitre 10 or try [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
-| Cable Pulling Lubricant | 1 | Mitre 10 | ~$15 | Ask in-store — electrical section, or search for wire-pulling gel/lube |
+| Item | Qty | Price |
+|------|-----|-------|
+| Singlemode Fibre Cable 50m (LC-LC UPC, OS2 duplex) | 2 | $30.00 ea |
+| **FS.com total** | | **$77.00** (incl. shipping) |
 
-### Office Inside
+### ✅ Ordered — Bunnings (click & collect)
 
-| Item | Qty | Store | Price | Link |
-|------|-----|-------|-------|------|
-| Brush Plate Surface Box | 1 | Bunnings | ~$10.71 | [Deta Brush Wall Cover](https://www.bunnings.co.nz/deta-white-brush-wall-cover-plate_p0322381) |
-| Mini Trunking 25x16mm (3m, cut to 2m) | 1 | Mitre 10 | ~$8 | [Marley Mini Trunking](https://www.mitre10.co.nz/shop/marley-mini-trunking-3m-25x16mm-white/p/103197) |
-| MikroTik CSS106-5G-1S Switch (5× Ethernet + 1× SFP) | 1 | PB Tech | ~$107 | [RB260GS/CSS106](https://www.pbtech.co.nz/product/NETMKT1001/MikroTik-RB260GS-5-Port-Gigabit-Managed-Switch-wit) |
-| MikroTik S-31DLC20D SFP Module (Singlemode) | 1 | PB Tech | ~$45 | [S-31DLC20D](https://www.pbtech.co.nz/product/NETMKT1065/MikroTik-S-31DLC20D-SFP-module-125G-SM-20km-1310nm) |
-| Cat6 Patch Leads 1m | 3 | PB Tech | ~$5 ea | [Dynamix Cat6 1m](https://www.pbtech.co.nz/product/ITPCAQ601BL/Dynamix-PLE-C6A-1-Cat6-RJ45-Patch-Lead---1m---Blue) |
+| Item | Qty | Price (inc GST) |
+|------|-----|-------|
+| Brush Plate Wall Cover | 2 | $10.71 ea |
+| Mounting C-Clip/Bracket (plasterboard) | 1 | $3.32 |
+| Weatherproof Pull Box (Deta 108×108×76mm Adaptable Box) | 1 | $17.70 |
+| 20mm PVC Conduit Mounting Clips | 20 | $0.36 ea |
+| Drywall/Jab Saw | 1 | $5.98 |
+| Split Loom Tubing 3m (16mm) | 1 | $13.04 |
+| **Bunnings order 1 total** | | **$68.66** |
 
-### Tools
+### ✅ Ordered — Bunnings Airport (click & collect)
 
-| Item | Qty | Store | Price | Link |
-|------|-----|-------|-------|------|
-| Drywall/Jab Saw | 1 | Bunnings | ~$6 | [Craftright 150mm](https://www.bunnings.co.nz/craftright-jab-saw-150mm_p5710163) |
-| 25mm Spade Bit | 1 | Mitre 10 | ~$5.45 | [Spade Bits section](https://www.mitre10.co.nz/shop/tools-equipment/power-tool-accessories/drilling/drilling/flat-spade-bits/c/RC27910) |
-| Fish Tape 30m | 1 | PB Tech | ~$49 | [Goldtool Fish Tape 30m](https://www.pbtech.co.nz/product/TOLGOL13030200/Goldtool-Fish-Tape-30m---Strong-High-Carbon-Steel) |
-| Nylon Pull String 30m+ | 1 | Bunnings | ~$8 | Search in-store — smooth nylon rope/string |
-| Cable Pulling Sock/Grip | 1 | Online | ~$15 | [Fruugo NZ](https://www.fruugo.co.nz/anti-slip-mesh-cable-puller-grips-flexible-multi-size-wire-pulling-socks-lassos-for-electricians/p-426325325-895339223) |
-| Split Loom Tubing 3m (16mm) | 1 | Bunnings | ~$13 | [Deta 16mm Split Tubing](https://www.bunnings.co.nz/deta-3m-16mm-corrugated-split-tubing_p0381015) |
-| Hacksaw | 1 | Mitre 10 | ~$15 | Search in-store |
-| Cable Clips 6-8mm (pack) | 1 | Mitre 10 | ~$5 | [HPM Cable Clips](https://www.mitre10.co.nz/shop/hpm-cable-clips/p/388902) |
-| Duct Tape | 1 | Mitre 10 | ~$8 | Available in-store |
-| Safety Glasses | 1 | Mitre 10 | ~$5 | Available in-store |
-| Wall Filler (Polyfilla) | 1 | Mitre 10 | ~$8 | Available in-store |
+| Item | Qty | Price (inc GST) |
+|------|-----|-------|
+| 20mm Rigid Conduit (4m lengths) | 10 | $7.58 ea |
+| **Bunnings Airport total** | | **$75.80** |
 
-### Items to find in-store (no online link found)
+### ✅ Ordered — Mitre 10 (delivery — couplers)
 
-- **20mm Conduit Bushes/Grommets** — ask at Mitre 10 or Bunnings electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
-- **Nylon Pull String** — smooth nylon rope/string 30m+, check Bunnings rope section
+| Item | Qty | Price |
+|------|-----|-------|
+| 20mm Conduit Couplers/Joiners | 10 | $1.02 ea |
+| Delivery fee | | $13.00 |
+| **Mitre 10 couplers total** | | **$23.20** |
 
-### Estimated Total: ~$769 (~$619 materials + ~$150 tools)
+### ✅ Ordered — Mitre 10 (delivery — sweep bends)
+
+| Item | Qty | Price |
+|------|-----|-------|
+| 20mm Conduit Sweep Bends | 5 | $6.28 ea |
+| Delivery fee | | $8.00 |
+| **Mitre 10 delivery total** | | **$39.40** |
+
+### ✅ Ordered — Mitre 10 (click & collect)
+
+| Item | Qty | Price |
+|------|-----|-------|
+| PVC Cement 125ml | 2 | $12.00 ea |
+| Mini Trunking 25x16mm (3m) | 1 | $30.28 |
+| Cable Clips 6-8mm (pack of 20) | 1 | $4.18 |
+| Spade Bit Set 13-32mm (8 piece) | 1 | $24.99 |
+| Mini Hacksaw 150mm | 1 | $9.98 |
+| Silicone Sealant (clear) | 1 | $19.99 |
+| **Mitre 10 click & collect total** | | **$113.42** |
+
+### ✅ Already owned
+
+| Item |
+|------|
+| Duct Tape |
+
+### ❌ Still need to find
+
+| Item | Qty | Where to look |
+|------|-----|---------------|
+| 20mm Conduit Adaptors (for pull box) | 2 | Mitre 10 in-store, Bunnings in-store, CEF or Ideal Electrical |
+| 20mm Conduit Bushes/Grommets | 10 | Mitre 10 in-store, Bunnings electrical counter, [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
+| Cable Pulling Lubricant | 1 | CEF or Ideal Electrical, Mitre 10 electrical aisle |
+| Nylon Pull String 30m+ | 1 | Bunnings rope section in-store |
+| Wall Filler (Polyfilla) | 1 | Mitre 10 or Bunnings paint section |
+| Cable Pulling Sock/Grip | 1 | [Fruugo NZ](https://www.fruugo.co.nz/anti-slip-mesh-cable-puller-grips-flexible-multi-size-wire-pulling-socks-lassos-for-electricians/p-426325325-895339223), or ask Mitre 10/Bunnings electrical |
+
+### Spent so far: $734.31
+
+### Estimated remaining (items to find): ~$60
+
+### Estimated Grand Total: ~$794
 
 ## Raw Measurements Reference
 
