@@ -190,7 +190,7 @@ Conduit goes straight up the office corner, turns left along the top and into th
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Singlemode Fibre Cable 50m (LC-LC, pre-terminated) | 2 | PB Tech | ~$62 ea | [FSM-LCLC-50](https://www.pbtech.co.nz/product/CABDNX7655/Dynamix-FSM-LCLC-50-OS2-LC-to-LC-Fibre-Lead---50m) |
+| Singlemode Fibre Cable 50m (LC-LC, pre-terminated) | 2 | Amazon AU | ~$60 ea | [LC-LC 50m OS2](https://www.amazon.com.au/Multimode-Singlemode-Fiber-Cable-164ft/dp/B07DPKBLVS) |
 | Weatherproof Pull Box (Deta 108×108×76mm Adaptable Box) | 1 | Bunnings | ~$17.70 | [Deta Adaptable Box](https://www.bunnings.co.nz/deta-108-x-108-x-76mm-adaptable-box-108-x-108-x-76mm_p4330859) |
 | 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Bunnings | ~$0.48 ea | [Deta 20mm Adaptor](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-adaptor-with-lock-ring-single-pack_p0963443) |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
