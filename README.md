@@ -233,7 +233,7 @@ Conduit goes straight up the office corner, turns left along the top and into th
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 or Bunnings electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
 - **Nylon Pull String** — smooth nylon rope/string 30m+, check Bunnings rope section
 
-### Estimated Total: ~$811 (~$661 materials + ~$150 tools)
+### Estimated Total: ~$829 (~$679 materials + ~$150 tools)
 
 ## Raw Measurements Reference
 
