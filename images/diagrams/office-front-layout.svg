@@ -22,16 +22,16 @@
   <rect width="688" height="310" fill="#87CEEB"/>
 
   <!-- Cream wall background (garage + gap left of door + soffit area) -->
-  <rect x="0" y="40" width="418" height="245" fill="#e8e4dc" stroke="none"/>
+  <rect x="0" y="40" width="414" height="245" fill="#e8e4dc" stroke="none"/>
 
   <!-- Cream soffit strip above office blockwork -->
-  <rect x="403" y="40" width="265" height="45" fill="#e8e4dc" stroke="none"/>
+  <rect x="414" y="40" width="254" height="45" fill="#e8e4dc" stroke="none"/>
 
   <!-- Garage roller door -->
-  <rect x="10" y="80" width="245" height="205" fill="url(#roller-door)" stroke="#999" stroke-width="1"/>
+  <rect x="10" y="80" width="260" height="205" fill="url(#roller-door)" stroke="#999" stroke-width="1"/>
 
   <!-- Office blockwork (right of door space) -->
-  <rect x="403" y="85" width="265" height="200" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
+  <rect x="414" y="85" width="227" height="200" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
 
   <!-- Roof/fascia -->
   <polygon points="0,38 132,30 668,38 668,44 132,36 0,44" fill="#4a3a2a"/>
@@ -40,15 +40,15 @@
   <polygon points="0,0 0,38 132,30" fill="#87CEEB"/>
   <polygon points="132,30 668,38 668,0 0,0" fill="#87CEEB"/>
 
-  <!-- Door space (stops at water pipe) -->
-  <rect x="298" y="80" width="105" height="205" fill="#2a2a2a"/>
-  <rect x="301" y="83" width="99" height="199" fill="#1a1a1a" stroke="#444" stroke-width="1"/>
+  <!-- Door space -->
+  <rect x="310" y="80" width="104" height="205" fill="#2a2a2a"/>
+  <rect x="313" y="83" width="98" height="199" fill="#1a1a1a" stroke="#444" stroke-width="1"/>
 
   <!-- Door handle -->
   <rect x="390" y="160" width="3" height="12" fill="#888"/>
 
   <!-- Water drainage pipe -->
-  <rect x="298" y="80" width="370" height="8" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
+  <rect x="310" y="80" width="331" height="8" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
   <!-- Pipe brackets -->
   <rect x="400" y="79" width="4" height="10" fill="#333"/>
   <rect x="480" y="79" width="4" height="10" fill="#333"/>
@@ -59,23 +59,23 @@
   <!-- Downpipe -->
   <rect x="428" y="55" width="10" height="25" fill="#c0c0c0" stroke="#666" stroke-width="1"/>
 
-  <!-- HP Pipe (73cm from right corner) -->
-  <rect x="591" y="80" width="8" height="205" fill="#c0c0c0" stroke="#999" stroke-width="0.5"/>
+  <!-- HP Pipe (72cm from right corner) -->
+  <rect x="596" y="80" width="8" height="205" fill="#c0c0c0" stroke="#999" stroke-width="0.5"/>
   <!-- Box at top of HP pipe -->
-  <rect x="588" y="72" width="14" height="12" fill="#c0c0c0" stroke="#999" stroke-width="1"/>
+  <rect x="593" y="72" width="14" height="12" fill="#c0c0c0" stroke="#999" stroke-width="1"/>
 
-  <!-- Heat pump (63cm from right corner) -->
-  <rect x="527" y="240" width="78" height="45" fill="#e0e0e0" stroke="#aaa" stroke-width="1" rx="2"/>
-  <text x="566" y="266" text-anchor="middle" fill="#333" font-size="7" font-weight="bold">Heat Pump</text>
+  <!-- Heat pump (62cm from right corner) -->
+  <rect x="530" y="240" width="78" height="45" fill="#e0e0e0" stroke="#aaa" stroke-width="1" rx="2"/>
+  <text x="569" y="266" text-anchor="middle" fill="#333" font-size="7" font-weight="bold">Heat Pump</text>
 
   <!-- Overhang hatch (above door space only) -->
-  <rect x="298" y="44" width="120" height="36" fill="url(#overhang-hatch)" stroke="rgba(0,0,0,0.15)" stroke-width="1"/>
+  <rect x="310" y="44" width="120" height="36" fill="url(#overhang-hatch)" stroke="rgba(0,0,0,0.15)" stroke-width="1"/>
 
   <!-- Labels -->
   <text x="132" y="190" text-anchor="middle" fill="#666" font-weight="bold" font-size="14">Garage</text>
   <text x="350" y="180" text-anchor="middle" fill="white" font-size="8">Door</text>
   <text x="540" y="180" text-anchor="middle" fill="#555" font-weight="bold" font-size="14">Office</text>
-  <text x="598" y="185" text-anchor="middle" fill="#777" font-size="6" transform="rotate(-90,598,185)">HP Pipe</text>
+  <text x="600" y="185" text-anchor="middle" fill="#777" font-size="6" transform="rotate(-90,600,185)">HP Pipe</text>
 
   <!-- Legend -->
   <rect x="540" y="5" width="120" height="20" rx="3" fill="rgba(0,0,0,0.4)" stroke="none"/>

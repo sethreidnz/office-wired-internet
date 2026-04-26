@@ -18,7 +18,7 @@
 - House: 1080cm × 1168cm
 - Driveway (vertical): 301cm wide
 - Paths: 80cm wide
-- House soffit overhang: 40cm (within dirt bed)
+- House soffit overhang: 50cm (within dirt bed)
 - House dirt bed: 80cm (around house, includes soffit)
 
 **Horizontal totals:**
@@ -62,9 +62,10 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 **Key dimensions (fibre box wall profile):**
 
-- Wall width shown: 202cm (bottom-right corner of house to fibre box)
-- Floor to ceiling height: 245cm
-- Fibre box: 17cm wide × 13cm high, 180cm from ceiling to top
+- Wall width shown: 203cm (bottom-right corner of house to fibre box)
+- Floor to ceiling height: 244cm
+- Fibre box: 17cm wide × 13cm high, 181cm from ceiling to top
+- Heat pump: 50cm from fibre box, 78cm wide × 29cm high, 18cm from ceiling
 - Cable wall entry point: aligned with fibre box, 10cm away
 
 ### House Inside Fibre Path
@@ -85,9 +86,10 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 **Key dimensions:**
 
-- Wall height (ground to soffit): 272cm
-- Downpipe to corner of house: 16cm
-- Downpipe width: 8cm
+- Wall height (ground to soffit): 275cm
+- Downpipe to corner of house: 26cm
+- Downpipe width: 7.5cm
+- Soffit overhang: 50cm
 
 ### House Downpipe Fibre Path
 
@@ -95,7 +97,7 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 **Conduit route:**
 
-- Comes out of soffit, runs down the right side of the downpipe (in the 16cm gap), then along the wall at ground level
+- Comes out of soffit, runs down the right side of the downpipe (in the 26cm gap), then along the wall at ground level
 
 #### Photos — House Downpipe
 
@@ -111,13 +113,13 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
 
 **Key dimensions (working right to left from office corner):**
 
-- Office blockwork: 265cm wide, 245cm high at corner
-- Door space: 105cm wide, 255cm high
-- Wall space: 21cm wide
-- Garage: 265cm wide
+- Office blockwork: 227cm wide, 325cm high at corner
+- Door space: 104cm wide, 265cm high
+- Wall space: 17cm wide
+- Garage: 260cm wide (door width)
 - Water drainage pipe: at 200cm height
-- HP pipe: 73cm from right corner
-- Heat pump: 63cm from right corner, 78cm wide
+- HP pipe: 72cm from right corner
+- Heat pump: 62cm from right corner, 78cm wide
 
 ### Office Front Fibre Path
 
@@ -240,11 +242,11 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
   - Path along side — 500cm
   - Path to kitchen window — 450cm
   - Kitchen window to Browne box — 110cm
-  - Ground to soffit — 272cm
-  - From downpipe to path — 105cm
-  - Downpipe to corner — 16cm
-  - Downpipe width — 8cm
-  - Soffit overhang — 40cm
+  - Ground to soffit — 275cm
+  - From downpipe to path — 186cm
+  - Downpipe to corner — 26cm
+  - Downpipe width — 7.5cm
+  - Soffit overhang — 50cm
   - Dirt bed depth — 80cm
 - Path
   - Width — 80cm
@@ -253,20 +255,20 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
   - Along house — 690cm
   - To office — 645cm
 - Office (outside)
-  - Width (corner to wall space) — 382cm
-  - Garage width (wall space to corner) — 265cm
-  - Wall space width — 21cm
-  - Height at corner — 245cm
-  - Height above door — 255cm
-  - Door space width — 105cm
-  - Blockwork (corner to door space) — 265cm
+  - Width (corner to wall space) — 365cm
+  - Garage width (wall space to corner) — 260cm
+  - Wall space width — 17cm
+  - Height at corner — 325cm
+  - Height above door — 265cm
+  - Door space width — 104cm
+  - Blockwork (corner to door space) — 227cm
   - Water drainage pipe height — 200cm
-  - HP pipe from corner — 73cm
-  - Heat pump from corner — 63cm
+  - HP pipe from corner — 72cm
+  - Heat pump from corner — 62cm
   - Heat pump width — 78cm
   - Overhang past door space — 15cm
   - Up to water pipes — 205cm
-  - Up pipe to above door — 30cm
+  - Up pipe to above door — 49cm
 - Office (inside)
   - Wall space depth into room — 270cm
   - Width — 365cm
@@ -276,13 +278,13 @@ Conduit ends at the overhang wood — cable passes through into the wall space b
   - Ceiling to top of power box — 25cm
   - Ceiling to top of fibre outlet box — 163cm
 - House (inside)
-  - Floor to ceiling — 245cm
-  - Corner to fibre box — 202cm
+  - Floor to ceiling — 244cm
+  - Corner to fibre box — 203cm
   - Fibre box width — 17cm
   - Fibre box height — 13cm
-  - Ceiling to top of fibre box — 180cm
+  - Ceiling to top of fibre box — 181cm
   - Fibre box to wall entry point — 10cm
-  - Heat pump: 70cm from left edge of fibre box, 78cm wide, 30cm tall, 20cm from ceiling
+  - Heat pump: 50cm from left edge of fibre box, 78cm wide, 29cm tall, 18cm from ceiling
 
 ---
 
@@ -303,7 +305,7 @@ These shape dimension tables are used for maintaining the to-scale SVG diagrams 
 | Vertical Path | 80cm | ~2525cm | Full height of diagram |
 | Grass | 680cm | 619cm | Between office dirt and horizontal path |
 | House | 1080cm | 1168cm | Sits between driveway and dirt bed |
-| Soffit | 40cm | 40cm | Overhang around house, within dirt bed |
+| Soffit | 50cm | 50cm | Overhang around house, within dirt bed |
 | Dirt (around house) | 80cm | 80cm | Top and right sides of house only. Left side flush with driveway, bottom is edge of diagram |
 
 ### Office Front Elevation Shapes
@@ -312,16 +314,16 @@ Working right to left from office corner. Diagram ends at garage door left edge.
 
 | Shape | X from right | Width | Height | Notes |
 |-------|-------------|-------|--------|-------|
-| Office blockwork | 0 | 265cm | 245cm | Corner to door space edge |
-| Heat pump | 1cm | 78cm | 55cm | On ground against wall |
-| HP Pipe | 80cm | 8cm | 205cm | From ground up to water pipe |
-| HP Pipe box | 78cm | 16cm | 14cm | Junction at top of pipe |
-| Water drainage pipe | 80cm | 302cm | 12cm | HP pipe across to wall space (at 200cm height) |
-| Downpipe (vertical) | 252cm | 10cm | 30cm | From water pipe up into roof |
-| Door space | 265cm | 105cm | 255cm | Full door opening |
-| Overhang hatch | 265cm | 105cm | 55cm | Above door, under roof |
-| Wall space | 382cm | 21cm | 245cm | Between office and garage |
-| Garage wall | 403cm | 265cm | 245cm | Only showing to door edge |
+| Office blockwork | 0 | 227cm | 325cm | Corner to door space edge |
+| Heat pump | 62cm | 78cm | 55cm | On ground against wall |
+| HP Pipe | 72cm | 8cm | 200cm | From ground up to water pipe |
+| HP Pipe box | 72cm | 16cm | 14cm | Junction at top of pipe |
+| Water drainage pipe | 72cm | 331cm | 8cm | HP pipe across to wall space (at 200cm height) |
+| Downpipe (vertical) | 227cm | 10cm | 49cm | From water pipe up into roof |
+| Door space | 227cm | 104cm | 265cm | Full door opening |
+| Overhang hatch | 227cm | 120cm | 36cm | Above door, under roof |
+| Wall space | 365cm | 17cm | 325cm | Between office and garage |
+| Garage wall | 382cm | 260cm | 325cm | Only showing to door edge |
 | Cream soffit | 0 | full | ~50cm | Strip above blockwork |
 | Roof/fascia | 0 | full | ~15cm | Slopes up to garage peak |
 
@@ -331,13 +333,13 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 | Shape | X from corner (right) | Width | Height | Notes |
 |-------|----------------------|-------|--------|-------|
-| Wall (blockwork) | 0 | ~100cm shown | 272cm | House wall face section |
+| Wall (blockwork) | 0 | ~100cm shown | 275cm | House wall face section |
 | Fascia/roof edge | 0 | full width | 12cm | Eaves edge above wall |
-| Downpipe | 16cm | 8cm | ~268cm | From soffit down to shoe fitting |
-| Pipe shoe fitting | ~20cm | 14cm | 8cm | Elbow/bend at pipe base |
-| Pipe brackets | on pipe | 12cm | 2.5cm | Clips holding pipe to wall, ~70cm apart |
+| Downpipe | 26cm | 7.5cm | ~271cm | From soffit down to shoe fitting |
+| Pipe shoe fitting | ~30cm | 14cm | 8cm | Elbow/bend at pipe base |
+| Pipe brackets | on pipe | 11.5cm | 2.5cm | Clips holding pipe to wall, ~70cm apart |
 | Ground/dirt | 0 | full width | visible | Ground level at wall base |
-| Corner edge | 0 | — | 272cm | Bold line marking house corner |
+| Corner edge | 0 | — | 275cm | Bold line marking house corner |
 
 ---
 

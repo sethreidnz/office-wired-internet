@@ -49,15 +49,15 @@
   <!-- Vertical Path: x=1461, w=80, h=2525 -->
   <rect x="1461" y="0" width="80" height="2525" fill="#7f7f7f" stroke="#000" stroke-width="2"/>
 
-  <!-- House dirt bed: top and right only -->
+  <!-- House dirt bed: top (80cm) and right (80cm) only -->
   <rect x="301" y="1277" width="1160" height="80" fill="#59320e" stroke="#000" stroke-width="2"/>
-  <rect x="1381" y="1357" width="80" height="1168" fill="#59320e" stroke="#000" stroke-width="2"/>
+  <rect x="1381" y="1277" width="80" height="1248" fill="#59320e" stroke="#000" stroke-width="2"/>
 
-  <!-- House soffit (hatched, 40cm within dirt bed): top and right -->
-  <rect x="301" y="1317" width="1120" height="40" fill="url(#soffit-hatch)" stroke="#000" stroke-width="2"/>
-  <rect x="1381" y="1357" width="40" height="1168" fill="url(#soffit-hatch)" stroke="#000" stroke-width="2"/>
+  <!-- House soffit (hatched, 50cm within dirt bed, 30cm inset from outer edge): top and right -->
+  <rect x="301" y="1307" width="1080" height="50" fill="url(#soffit-hatch)" stroke="#000" stroke-width="2"/>
+  <rect x="1381" y="1307" width="50" height="1218" fill="url(#soffit-hatch)" stroke="#000" stroke-width="2"/>
 
-  <!-- House walls: x=301, y=1357, w=1080, h=1168 -->
+  <!-- House walls: inset from soffit -->
   <rect x="301" y="1357" width="1080" height="1168" fill="#ffff00" stroke="#000" stroke-width="2"/>
 
   <!-- House heat pump (under soffit, top-right corner, dashed) -->
