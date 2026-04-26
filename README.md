@@ -190,7 +190,7 @@ Conduit goes straight up the office corner, turns left along the top and into th
 
 | Item | Qty | Store | Price | Link |
 |------|-----|-------|-------|------|
-| Singlemode Fibre Cable 50m (LC-LC, pre-terminated) | 2 | Amazon AU | ~$60 ea | [LC-LC 50m OS2](https://www.amazon.com.au/Multimode-Singlemode-Fiber-Cable-164ft/dp/B07DPKBLVS) |
+| Singlemode Fibre Cable 50m (LC-LC UPC, pre-terminated, OS2 duplex) | 2 | FS.com | ~$38.50 ea | [LC UPC to LC UPC 50m OS2](https://www.fs.com/au/products/177394.html?now_cid=897) |
 | Weatherproof Pull Box (Deta 108×108×76mm Adaptable Box) | 1 | Bunnings | ~$17.70 | [Deta Adaptable Box](https://www.bunnings.co.nz/deta-108-x-108-x-76mm-adaptable-box-108-x-108-x-76mm_p4330859) |
 | 20mm Conduit Adaptors with Lock Ring (for pull box) | 2 | Bunnings | ~$0.48 ea | [Deta 20mm Adaptor](https://www.bunnings.co.nz/deta-20mm-grey-pvc-conduit-adaptor-with-lock-ring-single-pack_p0963443) |
 | 20mm Rigid Conduit (4m lengths) | 10 | Mitre 10 | ~$14.68 ea | [Marley 20mm x 4m](https://www.mitre10.co.nz/shop/marley-arma-rigid-conduit-pipe-20mm-x-4m-grey/p/333734) |
@@ -233,7 +233,7 @@ Conduit goes straight up the office corner, turns left along the top and into th
 - **20mm Conduit Bushes/Grommets** — ask at Mitre 10 or Bunnings electrical section, or [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee)
 - **Nylon Pull String** — smooth nylon rope/string 30m+, check Bunnings rope section
 
-### Estimated Total: ~$829 (~$679 materials + ~$150 tools)
+### Estimated Total: ~$782 (~$632 materials + ~$150 tools)
 
 ## Raw Measurements Reference
 
