@@ -251,19 +251,18 @@ Conduit goes straight up the office corner, turns left along the top and into th
 |------|
 | Duct Tape |
 
-### ❌ Still need to find
+### ❌ Still need to buy — Ideal Electrical (in-store)
 
-| Item | Qty | Where to look |
-|------|-----|---------------|
-| 20mm Conduit Bushes/Grommets | 10 | Mitre 10 in-store, Bunnings electrical counter, [NZ Fasteners](https://nzfasteners.co.nz/collections/grommets-ee) |
-| Cable Pulling Lubricant | 1 | CEF or Ideal Electrical, Mitre 10 electrical aisle |
-| Cable Pulling Sock/Grip | 1 | [Fruugo NZ](https://www.fruugo.co.nz/anti-slip-mesh-cable-puller-grips-flexible-multi-size-wire-pulling-socks-lassos-for-electricians/p-426325325-895339223), or ask Mitre 10/Bunnings electrical |
+| Item | Qty | Link |
+|------|-----|------|
+| 20mm Conduit Female Bush (uPVC) | 10 | [Marley 20mm Bush](https://www.ideal.co.nz/products/mar1820g) |
+| CRC Wire Pulling Lubricant | 1 | [CRC Lubricant](https://www.ideal.co.nz/products/crc2053) |
 
-### Spent so far: $734.31
+### Spent so far: ~$744
 
-### Estimated remaining (items to find): ~$60
+### Estimated remaining (bushes + lube): ~$25
 
-### Estimated Grand Total: ~$794
+### Estimated Grand Total: ~$769
 
 ## Raw Measurements Reference
 
