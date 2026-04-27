@@ -39,22 +39,31 @@
 - House ground to path (conduit, buried 30cm deep): ~186cm (26cm corner + 80cm dirt + 80cm path)
 - Under path (conduit, buried below path base): ~80cm
 - Alongside driveway edge (conduit, buried 30cm deep): ~667cm
-- **Pull box** at corner where driveway meets horizontal path (weatherproof junction box, buried)
+- **Pull box 1** at corner where driveway meets horizontal path (weatherproof junction box, buried)
 - Alongside horizontal path edge (conduit, buried 30cm deep): ~600cm
-- Office front (conduit, P-clipped to wall): 673cm (325cm up corner + 348cm along top to wall space)
+- Office corner (conduit, buried 60-70cm deep at corner): two sweep bends bring conduit from underground up to ground level and turn left along wall base
+- Office front ground level (conduit, P-clipped to wall base): ~227cm along base of wall
+- **Pull box 2** at ground level on office wall base (between corner bends and upward run)
+- Office upward run (conduit, P-clipped to wall): up alongside downpipe into wall space/overhang
 - Office wall space (bare fibre): 270cm down inside wall
 - Office inside (bare fibre in trunking): 163cm ceiling to surface box
-- **Total: ~3,539cm (~35m) + slack**
+- **Total: ~3,500cm (~35m) + slack**
 
-**Bends in the run (5 total):**
+**Bends in the run (6 total):**
 
 1. House downpipe base → into ground towards path (sweep bend)
 2. Underground turn → parallel with horizontal path (sweep bend)
-3. Turn towards office along driveway edge (sweep bend) — **pull box here**
-4. Driveway edge → up office wall (sweep bend)
-5. Top of office wall → left along top into wall space (sweep bend)
+3. Turn towards office along driveway edge (sweep bend) — **pull box 1 here**
+4. Underground → vertical at office corner (sweep bend)
+5. Vertical → horizontal along office wall base (sweep bend)
+6. Horizontal → vertical up alongside downpipe into wall space (sweep bend) — **pull box 2 before this bend**
 
-Conduit goes straight up the office corner, turns left along the top and into the wall space. **Pull box** at bend 3 splits the run into two segments (2 bends + 3 bends). Use cable-pulling lubricant at each segment.
+Two pull boxes split the run into three segments for easy pulling:
+- House soffit → pull box 1: 2 bends
+- Pull box 1 → pull box 2: 2 bends
+- Pull box 2 → office wall space: 1 bend
+
+Use cable-pulling lubricant at each segment.
 
 ### House Inside Layout
 
@@ -127,11 +136,25 @@ Conduit goes straight up the office corner, turns left along the top and into th
 
 **Conduit route segments (right to left):**
 
-- Up office corner to water pipe: 200cm
-- Along water pipe: 155cm
-- Up downpipe into overhang: 22cm
+- Along base of office wall from corner: ~227cm
+- **Pull box 2** on wall base
+- Up alongside downpipe into overhang/wall space: ~218cm
 - Into wall space
-- **Total front run: 377cm**
+- **Total front run: ~445cm**
+
+### Office Corner Double Bend Detail
+
+#### Side Profile (looking from the side)
+
+![Office Corner Side Profile](images/diagrams/office-corner-side-profile.svg)
+
+Conduit comes horizontally underground from pull box 1, sweep bend 4 turns it upward, ~30cm straight section, then sweep bend 5 turns it towards the office wall (into the screen). Requires a deeper pit (~60-70cm) at this corner.
+
+#### Front Profile (looking at the office front)
+
+![Office Corner Front Profile](images/diagrams/office-corner-front-profile.svg)
+
+From the front, the conduit appears as a dot coming out of the ground at the office corner (bends 4+5 underground), runs horizontally along the base of the wall (~227cm), through pull box 2, then sweep bend 6 turns it vertical up alongside the downpipe (~218cm) straight into the overhang and wall space.
 
 #### Photos — Office Front
 
@@ -373,66 +396,140 @@ Front elevation looking at the house wall where the downpipe is. Right side is t
 
 ## Step-by-Step Installation
 
-### Phase 1: House Inside
+### Phase 1: Conduit Run (House to Office)
 
-**What you're doing:** Cutting a hole in the wall next to the fibre box, mounting a brush plate, and drilling up into the ceiling so the fibre cable can get from the roof space down to the media converter.
+**What you're doing:** Installing the full conduit path from the house soffit to the office wall space. This includes the downpipe run, all underground trenches, the pull box, and the office wall run. By the end of this phase you'll have a continuous sealed pipe from house to office ready for the fibre pull.
 
-**Tools needed:** Jab saw, 25mm spade bit, drill, pencil, spirit level
+**Tools needed:** Drill, 25mm spade bit, hacksaw, spade/shovel, tape measure, pencil, spirit level
 
-**Parts needed:** Brush plate, mounting C-clip/bracket
-
-**Steps:**
-
-1. **Mark the brush plate position.** Hold the brush plate against the wall 10cm to the right of the fibre box, at the same height. Use a spirit level to make sure it's straight. Draw around it with a pencil.
-
-2. **Drill a pilot hole to check the cavity.** Drill a small hole (5-6mm) through the plasterboard at the centre of your pencil outline. Poke your phone torch in and look up inside the wall cavity. You're checking for noggings (horizontal timbers) or pipes blocking the path upwards. If it's blocked, fill the hole with Polyfilla and try a different position. If it's clear all the way up — carry on.
-
-3. **Cut the hole.** Using the jab saw, cut along your pencil outline around the pilot hole. Go slow — plasterboard cuts easily but cracks if you rush. The hole should be snug — the brush plate clips over the edges.
-
-4. **Go up to the roof space and drill through the top plate.** Measure 212cm from the house corner along the wall to find the right position (202cm to fibre box + 10cm to fibre outlet). Using the 25mm spade bit, drill down through the top plate (the horizontal timber capping the wall). You'll feel it punch through into the wall cavity below. This is the hole the fibre will come down through.
-
-5. **Confirm the path.** Push the fish tape down through the hole. Your partner reaches into the cutout downstairs and grabs the fish tape when it appears. If they've got it, the path is confirmed. Pull the fish tape back out.
-
-6. **Mount the bracket and brush plate.** Push the C-clip/mounting bracket into the hole from the front. The clips spring out behind the plasterboard and grip it. Tighten the screws until it's firm. Screw the brush plate onto the bracket — the fibre cable will pass through the brushes later.
-
-### Phase 2: House Roof Space
-
-**What you're doing:** Planning the route for the fibre cable ~560cm across the roof space from the top plate hole (Phase 1) to a new hole through the soffit, where it will exit to the outside. You'll also drill the soffit hole in this phase.
-
-**Tools needed:** Drill, 25mm spade bit, cable clips (6-8mm), torch, tape measure, safety glasses
-
-**Parts needed:** Cable clips
+**Parts needed:** 10× conduit (4m), 10× couplers, 6× sweep bends, 2× pull boxes, 4× pull box adaptors, 20× mounting clips, 10× conduit bushes, PVC cement, silicone sealant
 
 **Steps:**
 
-1. **Measure the soffit exit point from outside.** From the extractor fan outlet, measure along the soffit to where you want the cable to exit (next to the downpipe). Write down this distance.
+1. **Drill the soffit hole.** From outside, measure along the soffit to position the hole next to the downpipe (in the 26cm gap between pipe and corner). Drill up through the soffit with the 25mm spade bit.
 
-2. **Find the same spot from inside the roof space.** Get up into the roof space and find the extractor fan outlet from the inside. Measure the same distance you noted in step 1 — this is where you'll drill the soffit hole.
+2. **Run conduit down the downpipe.** Insert a conduit bush into the top of the first conduit length. Feed it up into the soffit hole. Run the conduit down the right side of the downpipe, P-clipping to the wall every ~60cm. Seal around the soffit hole with silicone.
 
-3. **Check it's clear and drill the soffit hole.** Make sure there's no joist or rafter in the way. Drill down through the soffit board with the 25mm spade bit. Wear safety glasses — debris falls towards you.
+3. **Attach sweep bend 1 at the downpipe base.** Glue a sweep bend to turn the conduit from vertical to horizontal, heading towards the path.
 
-4. **Confirm from outside.** Go outside and check the hole has come through in the right spot next to the downpipe. If it's off, no stress — soffit holes are hidden under the overhang.
+4. **Dig the trench to the horizontal path.** Dig a trench 30cm deep from the house corner, through the dirt bed, across/under the path (80cm), and alongside the horizontal path edge. Lay conduit as you go, gluing joints with PVC cement. Backfill each section once the conduit is in.
 
-5. **Plan the cable route.** In the roof space, work out the path from the top plate hole (Phase 1) to the new soffit hole. Try to follow along joists/rafters where possible so you can clip the cable neatly.
+5. **Install sweep bend 2.** At the turn from the path crossing to the horizontal path, glue a sweep bend.
 
-6. **Don't run the cable yet.** You'll pull the cable through during Phase 11. For now you just need both holes drilled and the route planned.
+6. **Install pull box 1 at bend 3.** At the corner where the horizontal path meets the driveway edge, dig a hole for the pull box. Connect conduit to the pull box using the 20mm adaptors with lock rings — one on each side.
 
-### Phase 3: House Soffit & Downpipe
+7. **Dig the trench alongside the driveway.** From pull box 1, dig a 30cm deep trench alongside the driveway edge through the grass, heading towards the office. Lay conduit, glue joints, backfill.
 
-### Phase 4: House Ground to Path
+8. **Dig the deep pit at the office corner.** At the office corner, dig a pit 60-70cm deep (deeper than the trench) to accommodate two sweep bends stacked vertically.
 
-### Phase 5: Under Path
+9. **Install sweep bends 4 and 5 at the office corner.** Glue sweep bend 4 to turn the conduit from horizontal underground to vertical upward. Connect ~30cm of straight conduit, then glue sweep bend 5 to turn from vertical to horizontal along the wall base. Backfill the pit.
 
-### Phase 6: Along Horizontal Path to Pull Box
+10. **Run conduit along the office wall base.** Run conduit horizontally along the base of the office wall (~227cm), P-clipping to the wall. 
 
-### Phase 7: Pull Box to Driveway Edge
+11. **Install pull box 2.** Mount pull box 2 on the wall base along the horizontal run, connected with adaptors on each side.
 
-### Phase 8: Driveway Edge to Office Wall
+12. **Install sweep bend 6 and run conduit up.** After pull box 2, glue sweep bend 6 to turn the conduit from horizontal to vertical. Run conduit up alongside the downpipe into the wall space/overhang, P-clipping to the wall every ~60cm.
 
-### Phase 9: Up Office Wall & Into Overhang
+13. **Cap both ends.** Tape over the open conduit ends (house soffit and office wall space) to keep out dirt and debris until you're ready for the fibre pull.
 
-### Phase 10: Office Wall Space & Inside
+14. **Install conduit bushes.** Push conduit bushes into both open ends and at any exposed conduit termination points to protect the cable from sharp edges.
 
-### Phase 11: Fibre Pull
+### Phase 2: Wall Work (Both Ends)
 
-### Phase 12: Connect & Test
+**What you're doing:** Preparing the inside of both the house and office so the fibre cable can pass from the conduit, through the wall cavities, and down to where the equipment will sit.
+
+**Tools needed:** Jab saw, drill, 25mm spade bit, tape measure, pencil, spirit level, torch
+
+**Parts needed:** 2× brush plates, 1× mounting C-clip/bracket, mini trunking
+
+**House side:**
+
+1. **Cut the brush plate hole.** Mark the brush plate position 10cm to the right of the fibre box, at the same height (181cm from ceiling). Drill a pilot hole to check the cavity is clear upwards. If clear, cut the hole with the jab saw.
+
+2. **Drill through the top plate.** Go up to the roof space. Measure 213cm from the house corner along the wall (203cm to fibre box + 10cm to outlet). Drill down through the top plate with the 25mm spade bit.
+
+3. **Confirm the path.** Push the fish tape down through the top plate hole. Have someone check it appears at the brush plate cutout below. If confirmed, the path is good.
+
+4. **Mount the bracket and brush plate.** Push the C-clip/mounting bracket into the hole. Tighten until firm. Screw the brush plate onto the bracket.
+
+5. **Plan the roof space route.** In the roof space, work out the path from the top plate hole to the soffit hole (~560cm). Follow joists/rafters where possible for neat clipping later.
+
+**Office side:**
+
+6. **Drill into the wall space from inside.** Measure the position for the fibre outlet (10cm left of plug 1, 163cm from ceiling). Drill a pilot hole to confirm the cavity is clear. Cut the hole with the jab saw.
+
+7. **Mount the brush plate.** Attach the surface-mount brush plate at the hole.
+
+8. **Install the trunking.** Run mini trunking from the brush plate down to where the switch will sit.
+
+### Phase 3: Fibre Pull
+
+**What you're doing:** Pulling both fibre cables through the entire conduit run, through the roof space, and down through the walls at each end.
+
+**Tools needed:** Fish tape, pull string, cable pulling lubricant, duct tape, packing foam, torch
+
+**Parts needed:** 2× fibre cables (50m), cable clips
+
+**Steps:**
+
+1. **Thread the fish tape.** Feed the fish tape through the conduit from the office wall space end, through the pull box, all the way to the house soffit end. This confirms the conduit path is clear.
+
+2. **Attach the pull string.** Tie the nylon pull string to the fish tape at the office end. Pull the fish tape back from the house end, dragging the pull string through the entire conduit. You now have a string running the full length.
+
+3. **Prepare the fibre cables.** Take both 50m fibre cables. Wrap the LC connectors at the leading end together in packing foam, tape into a smooth bullet shape with duct tape. This protects the connectors during the pull.
+
+4. **Apply lubricant.** Squirt cable pulling lubricant into both ends of the conduit and along the first few metres of cable.
+
+5. **Pull the cables.** Tie the pull string securely to the taped connector bundle. One person feeds cable in at the house soffit end while the other pulls the string gently from the office end. Go slow — never force it. At the pull box, you can open the lid to check progress and apply more lubricant if needed.
+
+6. **Route through the house roof space.** Once the cable emerges from the soffit end, route it across the roof space (~560cm) following the planned path. Clip to joists/rafters with cable clips every ~50cm. Feed the cable down through the top plate hole.
+
+7. **Feed cable through house wall.** The cable drops down through the wall cavity and out through the brush plate.
+
+8. **Feed cable at office end.** The cable comes out of the conduit into the wall space, then down through the wall cavity and out through the brush plate/trunking.
+
+9. **Leave service loops.** At both ends, leave ~1m of slack coiled behind the brush plate for future re-termination if needed.
+
+### Phase 4: House Tidy Up & Connect
+
+**What you're doing:** Connecting the house-end equipment and tidying up.
+
+**Tools needed:** None
+
+**Parts needed:** MC220L media converter, MikroTik SFP module, Cat6 patch lead
+
+**Steps:**
+
+1. **Insert the SFP module.** Slide the MikroTik S-31DLC20D into the MC220L's SFP slot until it clicks.
+
+2. **Connect the fibre.** Plug one fibre cable's LC connector into the SFP module. (Keep the second cable coiled and tucked behind the brush plate as a spare.)
+
+3. **Connect to router.** Plug the Cat6 patch lead from the MC220L's Ethernet port to a LAN port on your router.
+
+4. **Power on.** Plug in the MC220L. The power light should come on. The fibre link light won't come on until the office end is connected.
+
+5. **Tidy up.** Coil any excess fibre neatly behind the brush plate. Mount the MC220L on a shelf or bracket near the brush plate.
+
+### Phase 5: Office Tidy Up & Connect
+
+**What you're doing:** Connecting the office-end equipment, tidying up, and testing the full link.
+
+**Tools needed:** None
+
+**Parts needed:** MikroTik CSS106 switch, MikroTik SFP module, 3× Cat6 patch leads
+
+**Steps:**
+
+1. **Insert the SFP module.** Slide the MikroTik S-31DLC20D into the CSS106's SFP slot until it clicks.
+
+2. **Connect the fibre.** Plug the fibre cable's LC connector into the SFP module. (Keep the second cable as a spare.)
+
+3. **Power on the switch.** Plug in the CSS106. The power light should come on. Check the SFP port light — it should show link activity if the house end is also powered on.
+
+4. **Connect your devices.** Plug Cat6 patch leads from the CSS106's Ethernet ports to your office devices (computer, monitor, etc).
+
+5. **Test the connection.** From your office computer, check you can reach the internet and your home network. Run a speed test to confirm you're getting full gigabit throughput.
+
+6. **Tidy up.** Coil excess fibre behind the brush plate. Mount the CSS106 on a shelf or bracket below the brush plate. Secure trunking to the wall.
+
+7. **Done!** 🎉 You now have a dedicated gigabit fibre link from your house to your office.

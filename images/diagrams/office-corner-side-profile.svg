@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" viewBox="0 0 300 200" width="500">
+  <defs>
+    <marker id="arrowhead" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+      <polygon points="0,0 6,2 0,4" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- Ground level -->
+  <rect x="0" y="120" width="300" height="80" fill="#8B7355"/>
+  <line x1="0" y1="120" x2="300" y2="120" stroke="#333" stroke-width="2"/>
+  <text x="250" y="115" fill="#333" font-size="8">Ground level</text>
+
+  <!-- Underground conduit coming from pull box 1 (horizontal, 30cm deep) -->
+  <!-- Conduit as thick line with fill -->
+  <rect x="0" y="147" width="140" height="6" fill="#c0c0c0" stroke="#888" stroke-width="1" rx="1"/>
+  <text x="5" y="143" fill="#333" font-size="7">From pull box 1 →</text>
+
+  <!-- Sweep bend 4: horizontal to vertical (underground) -->
+  <path d="M 140,150 Q 170,150 170,120" fill="none" stroke="#888" stroke-width="1"/>
+  <path d="M 140,147 Q 167,147 167,120" fill="none" stroke="#c0c0c0" stroke-width="6"/>
+  <text x="175" y="145" fill="#ff6b00" font-size="7" font-weight="bold">Bend 4</text>
+
+  <!-- Vertical conduit going up through ground to surface (~30cm) -->
+  <rect x="164" y="90" width="6" height="30" fill="#c0c0c0" stroke="#888" stroke-width="1" rx="1"/>
+
+  <!-- Sweep bend 5: vertical to horizontal (into Z axis / towards wall) -->
+  <!-- Show as the conduit curving and ending in a circle (going into screen) -->
+  <path d="M 167,93 Q 167,80 180,80" fill="none" stroke="#888" stroke-width="1"/>
+  <path d="M 164,93 Q 164,77 180,77" fill="none" stroke="#c0c0c0" stroke-width="6"/>
+  
+  <!-- Circle showing conduit going into the screen (Z axis) -->
+  <circle cx="185" cy="80" r="6" fill="#c0c0c0" stroke="#888" stroke-width="1.5"/>
+  <circle cx="185" cy="80" r="2" fill="#888"/>
+  <text x="195" y="75" fill="#ff6b00" font-size="7" font-weight="bold">Bend 5</text>
+  <text x="195" y="83" fill="#333" font-size="6">→ towards office wall</text>
+
+  <!-- Dimension: 30cm depth -->
+  <line x1="130" y1="120" x2="130" y2="150" stroke="#333" stroke-width="0.8"/>
+  <line x1="126" y1="120" x2="134" y2="120" stroke="#333" stroke-width="0.8"/>
+  <line x1="126" y1="150" x2="134" y2="150" stroke="#333" stroke-width="0.8"/>
+  <text x="118" y="138" text-anchor="end" fill="#333" font-size="6">30cm</text>
+
+  <!-- Dimension: ~30cm up to bend 5 -->
+  <line x1="155" y1="80" x2="155" y2="120" stroke="#333" stroke-width="0.8"/>
+  <line x1="151" y1="80" x2="159" y2="80" stroke="#333" stroke-width="0.8"/>
+  <line x1="151" y1="120" x2="159" y2="120" stroke="#333" stroke-width="0.8"/>
+  <text x="148" y="103" text-anchor="end" fill="#333" font-size="6">~30cm</text>
+
+  <!-- Dimension: ~60-70cm total pit depth -->
+  <line x1="210" y1="80" x2="210" y2="150" stroke="#333" stroke-width="0.8"/>
+  <line x1="206" y1="80" x2="214" y2="80" stroke="#333" stroke-width="0.8"/>
+  <line x1="206" y1="150" x2="214" y2="150" stroke="#333" stroke-width="0.8"/>
+  <text x="218" y="118" fill="#333" font-size="6">~60-70cm</text>
+  <text x="218" y="126" fill="#333" font-size="6">pit depth</text>
+
+  <!-- Label -->
+  <text x="150" y="15" text-anchor="middle" fill="#333" font-weight="bold" font-size="10">Office Corner — Side Profile</text>
+  <text x="150" y="25" text-anchor="middle" fill="#666" font-size="7">(looking from the side of the office)</text>
+</svg>

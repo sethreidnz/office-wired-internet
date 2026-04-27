@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif" viewBox="0 0 500 350" width="600">
+  <defs>
+    <marker id="arrowhead" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+      <polygon points="0,0 6,2 0,4" fill="#333"/>
+    </marker>
+    <pattern id="blockwork" width="20" height="10" patternUnits="userSpaceOnUse">
+      <rect width="20" height="10" fill="#a0a0a0"/>
+      <line x1="0" y1="0" x2="20" y2="0" stroke="#888" stroke-width="0.3"/>
+      <line x1="10" y1="0" x2="10" y2="5" stroke="#888" stroke-width="0.3"/>
+      <line x1="0" y1="5" x2="20" y2="5" stroke="#888" stroke-width="0.3"/>
+      <line x1="0" y1="5" x2="0" y2="10" stroke="#888" stroke-width="0.3"/>
+      <line x1="20" y1="5" x2="20" y2="10" stroke="#888" stroke-width="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Label -->
+  <text x="250" y="15" text-anchor="middle" fill="#333" font-weight="bold" font-size="10">Office Front — Conduit Route Detail</text>
+  <text x="250" y="25" text-anchor="middle" fill="#666" font-size="7">(looking at the office front, right side is office corner)</text>
+
+  <!-- Sky -->
+  <rect x="0" y="30" width="500" height="320" fill="#87CEEB"/>
+
+  <!-- Office wall (blockwork) -->
+  <rect x="0" y="60" width="500" height="200" fill="url(#blockwork)" stroke="#888" stroke-width="1"/>
+
+  <!-- Overhang/soffit at top -->
+  <rect x="0" y="50" width="500" height="10" fill="#e8e4dc" stroke="#999" stroke-width="1"/>
+
+  <!-- Roof -->
+  <rect x="0" y="40" width="500" height="10" fill="#4a3a2a"/>
+
+  <!-- Ground level -->
+  <rect x="0" y="260" width="500" height="90" fill="#8B7355"/>
+  <line x1="0" y1="260" x2="500" y2="260" stroke="#333" stroke-width="2"/>
+
+  <!-- Downpipe (where conduit goes up into overhang) -->
+  <rect x="150" y="60" width="8" height="200" fill="#d0d0d0" stroke="#999" stroke-width="1"/>
+  <text x="145" y="160" text-anchor="end" fill="#666" font-size="7" transform="rotate(-90,145,160)">Downpipe</text>
+
+  <!-- Office corner (right edge) -->
+  <line x1="480" y1="40" x2="480" y2="260" stroke="#333" stroke-width="3"/>
+  <text x="488" y="160" fill="#333" font-size="7" transform="rotate(-90,488,160)">Office corner</text>
+
+  <!-- === CONDUIT ROUTE === -->
+
+  <!-- Underground conduit coming towards viewer (shown as circle at corner) -->
+  <circle cx="475" cy="290" r="6" fill="#c0c0c0" stroke="#888" stroke-width="1.5"/>
+  <circle cx="475" cy="290" r="2" fill="#888"/>
+  <text x="460" y="305" text-anchor="end" fill="#333" font-size="6">Conduit from</text>
+  <text x="460" y="313" text-anchor="end" fill="#333" font-size="6">pull box 1</text>
+  <text x="460" y="321" text-anchor="end" fill="#333" font-size="6">(underground,</text>
+  <text x="460" y="329" text-anchor="end" fill="#333" font-size="6">coming at you)</text>
+
+  <!-- Vertical section rising up from underground to ground level -->
+  <rect x="472" y="258" width="6" height="30" fill="#c0c0c0" stroke="#888" stroke-width="1" rx="1"/>
+  <text x="460" y="270" text-anchor="end" fill="#ff6b00" font-size="7" font-weight="bold">Bend 4+5</text>
+  <text x="460" y="278" text-anchor="end" fill="#ff6b00" font-size="6">(underground)</text>
+
+  <!-- Horizontal conduit along base of wall (left towards downpipe) -->
+  <rect x="175" y="255" width="300" height="6" fill="#c0c0c0" stroke="#888" stroke-width="1" rx="1"/>
+
+  <!-- Pull box 2 on wall base -->
+  <rect x="310" y="248" width="25" height="18" fill="#e63946" stroke="#333" stroke-width="1.5" rx="2"/>
+  <text x="322" y="260" text-anchor="middle" fill="white" font-size="6" font-weight="bold">PB2</text>
+  <text x="322" y="243" text-anchor="middle" fill="#e63946" font-size="7" font-weight="bold">Pull Box 2</text>
+
+  <!-- Sweep bend 6: horizontal to vertical (at downpipe location) -->
+  <path d="M 175,255 Q 165,255 165,245" fill="none" stroke="#c0c0c0" stroke-width="6"/>
+  <path d="M 175,258 Q 162,258 162,245" fill="none" stroke="#888" stroke-width="1"/>
+  <text x="130" y="255" text-anchor="end" fill="#ff6b00" font-size="7" font-weight="bold">Bend 6</text>
+
+  <!-- Vertical conduit up alongside downpipe -->
+  <rect x="159" y="60" width="6" height="185" fill="#c0c0c0" stroke="#888" stroke-width="1" rx="1"/>
+
+  <!-- Conduit enters overhang (no bend - straight up into it) -->
+  <rect x="159" y="50" width="6" height="12" fill="#c0c0c0" stroke="#888" stroke-width="1" rx="1"/>
+  <text x="100" y="48" fill="#e63946" font-size="7">Into overhang →</text>
+  <text x="100" y="56" fill="#e63946" font-size="7">and wall space</text>
+
+  <!-- Dimension: 227cm along base -->
+  <line x1="175" y1="270" x2="175" y2="276" stroke="#333" stroke-width="0.8"/>
+  <line x1="175" y1="273" x2="475" y2="273" stroke="#333" stroke-width="0.8"/>
+  <line x1="475" y1="270" x2="475" y2="276" stroke="#333" stroke-width="0.8"/>
+  <text x="325" y="282" text-anchor="middle" fill="#333" font-size="7">~227cm along wall base</text>
+
+  <!-- Dimension: up alongside downpipe -->
+  <line x1="140" y1="60" x2="140" y2="255" stroke="#333" stroke-width="0.8"/>
+  <line x1="136" y1="60" x2="144" y2="60" stroke="#333" stroke-width="0.8"/>
+  <line x1="136" y1="255" x2="144" y2="255" stroke="#333" stroke-width="0.8"/>
+  <text x="133" y="160" text-anchor="end" fill="#333" font-size="7" transform="rotate(-90,133,160)">~218cm up to overhang</text>
+
+  <!-- Legend -->
+  <rect x="5" y="70" width="120" height="50" rx="3" fill="rgba(0,0,0,0.5)" stroke="none"/>
+  <rect x="12" y="78" width="15" height="5" fill="#c0c0c0" stroke="#888" stroke-width="0.5"/>
+  <text x="32" y="84" fill="white" font-size="6">Conduit</text>
+  <rect x="12" y="90" width="10" height="8" fill="#e63946" stroke="white" stroke-width="0.5" rx="1"/>
+  <text x="32" y="97" fill="white" font-size="6">Pull Box</text>
+  <circle cx="17" cy="108" r="4" fill="#c0c0c0" stroke="#888" stroke-width="0.5"/>
+  <circle cx="17" cy="108" r="1.5" fill="#888"/>
+  <text x="32" y="111" fill="white" font-size="6">Conduit into screen</text>
+</svg>
