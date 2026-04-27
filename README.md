@@ -280,6 +280,7 @@ From the front, the conduit appears as a dot coming out of the ground at the off
 |------|-----|------|
 | 20mm Conduit Female Bush (uPVC) | 10 | [Marley 20mm Bush](https://www.ideal.co.nz/products/mar1820g) |
 | CRC Wire Pulling Lubricant | 1 | [CRC Lubricant](https://www.ideal.co.nz/products/crc2053) |
+| 20mm Conduit Couplers/Joiners | 4 | Ask at counter — standard 20mm PVC coupling |
 
 ### Spent so far: ~$744
 
